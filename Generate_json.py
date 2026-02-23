@@ -37,36 +37,60 @@ BATCH_SIZE = 20
 
 def analyze_batch(word_batch):
     prompt = f"""
-        Analyze these English words: {word_batch}
-        Return strictly JSON format (list of objects):
-        [
-            {{
-                "word": "string",
-                "phonetic": "string",
-                "definitions": [
-                    {{
-                        "meaning": "Vietnamese string",
-                        "analysis": {{
-                            "prefixes": [{{"val": "string", "mean": "nghĩa tiếng Việt"}}],
-                            "roots": [{{"val": "string", "mean": "nghĩa tiếng Việt"}}],
-                            "suffixes": [{{"val": "string", "mean": "nghĩa tiếng Việt"}}]
-                        }},
-                        "synonyms": ["string"],
-                        "example": "English sentence"
-                    }}
-                ]
-            }}
-        ]
-        Constraints: 
-        1. Return ONLY JSON. No markdown.
-        2. "meaning" and all "mean" fields must be in Vietnamese.
-        3. "prefixes", "roots", and "suffixes" must ALWAYS be arrays.
-        4. Extract ALL components. Example "Internationalization": 
-           - prefixes: [{{"val": "inter-", "mean": "giữa, liên"}}], 
-           - roots: [{{"val": "nat", "mean": "sinh ra, quốc gia"}}], 
-           - suffixes: [{{"val": "-al", "mean": "thuộc về"}}, {{"val": "-ize", "mean": "biến thành"}}, {{"val": "-ation", "mean": "sự việc"}}]
-        5. If a component is missing, return an empty array [].
-        """
+    You are a linguistics expert specializing in morphology and etymology.
+
+    Analyze these English words: {word_batch}
+
+    Return strictly JSON format (list of objects):
+
+    [
+        {{
+            "word": "string",
+            "phonetic": "string",
+            "definitions": [
+                {{
+                    "meaning": "Giải nghĩa tiếng Việt đầy đủ, rõ ngữ cảnh",
+                    "analysis": {{
+                        "prefixes": [
+                            {{
+                                "val": "string",
+                                "mean": "Giải thích chi tiết bằng tiếng Việt: nghĩa gốc, nghĩa mở rộng, chức năng ngữ pháp, và nếu có thì nguồn gốc Latin/Greek."
+                            }}
+                        ],
+                        "roots": [
+                            {{
+                                "val": "string",
+                                "mean": "Giải thích chi tiết bằng tiếng Việt: nghĩa gốc, nghĩa mở rộng, vai trò tạo nghĩa trung tâm của từ, nguồn gốc từ nguyên."
+                            }}
+                        ],
+                        "suffixes": [
+                            {{
+                                "val": "string",
+                                "mean": "Giải thích chi tiết bằng tiếng Việt: chức năng ngữ pháp (danh từ, tính từ, động từ…), ý nghĩa biến đổi từ loại, nguồn gốc từ nguyên nếu có."
+                            }}
+                        ]
+                    }},
+                    "synonyms": ["string"],
+                    "example": "English sentence"
+                }}
+            ]
+        }}
+    ]
+
+    Constraints:
+
+    1. Return ONLY JSON. No markdown. No explanation outside JSON.
+    2. "meaning" and all "mean" fields must be detailed Vietnamese explanations (minimum 20 words per component).
+    3. Each prefix/root/suffix explanation must:
+    - Include core meaning.
+    - Include extended or abstract meaning if applicable.
+    - Include grammatical function.
+    - Include etymology (Latin/Greek/Old English) if known.
+    4. If a component has multiple meanings, include them in the same "mean" field separated clearly.
+    5. DO NOT simplify explanations.
+    6. "prefixes", "roots", and "suffixes" must ALWAYS be arrays.
+    7. If missing, return [].
+    """
     try:
         response = client.models.generate_content(
             model=MODEL_ID,
