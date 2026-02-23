@@ -13,9 +13,17 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 if not API_KEY:
     print("❌ Không tìm thấy API Key!")
     exit()
+available_models = [m.name for m in genai.list_models() 
+                    if 'generateContent' in m.supported_generation_methods]
 
+
+flash_models = [m for m in available_models if 'flash' in m]
+model_name = flash_models[0] if flash_models else available_models[0]
+
+print(f"🚀 Hệ thống tự động chọn model: {model_name}")
+model = genai.GenerativeModel(model_name)
 genai.configure(api_key=API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash-latest')
+
 
 BATCH_SIZE = 20 
 
