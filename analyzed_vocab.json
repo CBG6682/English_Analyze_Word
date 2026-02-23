@@ -2,130 +2,327 @@
     {
         "word": "client",
         "phonetic": "/ˈklaɪənt/",
-        "analysis": {
-            "prefix": {
-                "val": null,
-                "mean": null
-            },
-            "root": {
-                "val": "cli-",
-                "mean": "dựa vào, phụ thuộc (từ Latinh 'clinare' - dựa vào)"
-            },
-            "suffix": {
-                "val": "-ent",
-                "mean": "người thực hiện hành động, người (từ Latinh '-ens', tạo danh từ chỉ tác nhân)"
+        "definitions": [
+            {
+                "meaning": "Khách hàng; thân chủ",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "client",
+                            "mean": "người được giúp đỡ, người phụ thuộc"
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "customer",
+                    "patron",
+                    "regular"
+                ],
+                "example": "The lawyer met with his client to discuss the case."
             }
-        },
-        "meaning": "Khách hàng; thân chủ (người phụ thuộc vào dịch vụ hoặc lời khuyên của người khác, đặc biệt là luật sư, kế toán).",
-        "synonyms": [
-            "customer",
-            "patron"
-        ],
-        "example": "The lawyer advised her client to accept the settlement."
+        ]
     },
     {
         "word": "clientele",
         "phonetic": "/ˌklaɪənˈtɛl/",
-        "analysis": {
-            "prefix": {
-                "val": null,
-                "mean": null
-            },
-            "root": {
-                "val": "client-",
-                "mean": "khách hàng, người phụ thuộc (từ Latinh 'clientis' - khách hàng, người phụ thuộc)"
-            },
-            "suffix": {
-                "val": "-ele",
-                "mean": "nhóm, tập thể; mối quan hệ (từ Latinh '-ela', tạo danh từ chỉ một tập thể hoặc trạng thái)"
+        "definitions": [
+            {
+                "meaning": "Tập thể khách hàng; giới khách hàng quen thuộc",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "client",
+                            "mean": "khách hàng"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ele",
+                            "mean": "tập thể"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "patronage",
+                    "customer base",
+                    "regulars"
+                ],
+                "example": "The restaurant attracts a wealthy clientele."
             }
-        },
-        "meaning": "Tập thể khách hàng; giới thân chủ (tổng số khách hàng thường xuyên của một doanh nghiệp hoặc chuyên gia).",
-        "synonyms": [
-            "customers",
-            "patrons"
-        ],
-        "example": "The boutique attracts a high-end clientele."
+        ]
     },
     {
         "word": "colleague",
         "phonetic": "/ˈkɒliːɡ/",
-        "analysis": {
-            "prefix": {
-                "val": "col-",
-                "mean": "cùng, với, chung (biến thể của 'com-', từ Latinh 'cum')"
-            },
-            "root": {
-                "val": "leg-",
-                "mean": "chọn, cử, ủy thác (từ Latinh 'legare' - chọn, cử)"
-            },
-            "suffix": {
-                "val": null,
-                "mean": null
+        "definitions": [
+            {
+                "meaning": "Đồng nghiệp",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "col-",
+                            "mean": "cùng nhau"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "leg",
+                            "mean": "luật pháp, người được chọn"
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "coworker",
+                    "associate",
+                    "partner"
+                ],
+                "example": "I need to consult with my colleague on this project."
             }
-        },
-        "meaning": "Đồng nghiệp (một người cùng làm việc trong cùng một ngành nghề hoặc tổ chức).",
-        "synonyms": [
-            "coworker",
-            "associate"
-        ],
-        "example": "I often consult my colleagues for their expert opinions."
+        ]
+    },
+    {
+        "word": "parent",
+        "phonetic": "/ˈpɛərənt/",
+        "definitions": [
+            {
+                "meaning": "Cha hoặc mẹ; người nuôi dưỡng",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "par",
+                            "mean": "sinh ra"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ent",
+                            "mean": "danh từ chỉ người/vật làm hành động"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "mother",
+                    "father",
+                    "guardian"
+                ],
+                "example": "Parents are responsible for their children's well-being."
+            }
+        ]
+    },
+    {
+        "word": "parenthood",
+        "phonetic": "/ˈpɛərəntˌhʊd/",
+        "definitions": [
+            {
+                "meaning": "Thời kỳ làm cha mẹ; tình trạng làm cha mẹ",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "parent",
+                            "mean": "cha mẹ"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-hood",
+                            "mean": "trạng thái, thời kỳ"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "parenting",
+                    "motherhood",
+                    "fatherhood"
+                ],
+                "example": "Parenthood brings both joys and challenges."
+            }
+        ]
+    },
+    {
+        "word": "parentage",
+        "phonetic": "/ˈpɛərəntɪdʒ/",
+        "definitions": [
+            {
+                "meaning": "Dòng dõi; nguồn gốc cha mẹ",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "parent",
+                            "mean": "cha mẹ"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-age",
+                            "mean": "trạng thái, tập hợp"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "ancestry",
+                    "lineage",
+                    "descent"
+                ],
+                "example": "The child's parentage was a subject of intense speculation."
+            }
+        ]
+    },
+    {
+        "word": "sibling",
+        "phonetic": "/ˈsɪblɪŋ/",
+        "definitions": [
+            {
+                "meaning": "Anh chị em ruột",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "sib",
+                            "mean": "họ hàng"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ling",
+                            "mean": "người nhỏ, người liên quan"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "brother",
+                    "sister"
+                ],
+                "example": "Do you have any siblings?"
+            }
+        ]
+    },
+    {
+        "word": "sibling rivalry",
+        "phonetic": "/ˈsɪblɪŋ ˈraɪvəlri/",
+        "definitions": [
+            {
+                "meaning": "Sự ganh đua giữa anh chị em ruột",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "sibling",
+                            "mean": "anh chị em ruột"
+                        },
+                        {
+                            "val": "rival",
+                            "mean": "đối thủ"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ry",
+                            "mean": "trạng thái, hành động"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "brotherly/sisterly conflict",
+                    "fratricide (informal context)"
+                ],
+                "example": "Sibling rivalry is common in large families."
+            }
+        ]
+    },
+    {
+        "word": "spouse",
+        "phonetic": "/spaʊs/",
+        "definitions": [
+            {
+                "meaning": "Vợ hoặc chồng",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "spouse",
+                            "mean": "người kết hôn"
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "husband",
+                    "wife",
+                    "partner"
+                ],
+                "example": "Please list your spouse on the application form."
+            }
+        ]
     },
     {
         "word": "employ",
         "phonetic": "/ɪmˈplɔɪ/",
         "definitions": [
             {
-                "meaning": "Thuê mướn, sử dụng (người lao động)",
+                "meaning": "Thuê làm việc; sử dụng",
                 "analysis": {
-                    "prefix": {
-                        "val": "em-",
-                        "mean": "trong, vào (biến thể của in-)"
-                    },
-                    "root": {
-                        "val": "ploy",
-                        "mean": "gấp lại, đặt (từ Latin 'plicare' - uốn cong, gấp)"
-                    },
-                    "suffix": {
-                        "val": "-y",
-                        "mean": "động từ hóa (ít dùng, gốc là 'ploy' có nghĩa là chiến thuật, sau này biến thành 'employ' nghĩa là sử dụng)"
-                    }
+                    "prefixes": [
+                        {
+                            "val": "em-",
+                            "mean": "vào trong"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ploy",
+                            "mean": "gấp, uốn cong (nghĩa gốc); công việc"
+                        }
+                    ],
+                    "suffixes": []
                 },
                 "synonyms": [
                     "hire",
                     "engage",
                     "use"
                 ],
-                "example": "The company decided to employ more software engineers."
+                "example": "The company decided to employ ten new staff members."
             }
         ]
     },
     {
         "word": "employee",
-        "phonetic": "/ɪmˈplɔɪiː/",
+        "phonetic": "/ˌɛmplɔɪˈiː/",
         "definitions": [
             {
-                "meaning": "Nhân viên, người làm công",
+                "meaning": "Nhân viên; người làm công ăn lương",
                 "analysis": {
-                    "prefix": {
-                        "val": "em-",
-                        "mean": "trong, vào"
-                    },
-                    "root": {
-                        "val": "ploy",
-                        "mean": "sử dụng"
-                    },
-                    "suffix": {
-                        "val": "-ee",
-                        "mean": "người nhận hành động (người được thuê)"
-                    }
+                    "prefixes": [
+                        {
+                            "val": "em-",
+                            "mean": "vào trong"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ploy",
+                            "mean": "công việc"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ee",
+                            "mean": "người nhận hành động"
+                        }
+                    ]
                 },
                 "synonyms": [
                     "worker",
                     "staff member",
-                    "personnel"
+                    "hand"
                 ],
-                "example": "Every employee is entitled to two weeks of paid vacation."
+                "example": "All employees must attend the safety meeting."
             }
         ]
     },
@@ -134,27 +331,33 @@
         "phonetic": "/ɪmˈplɔɪər/",
         "definitions": [
             {
-                "meaning": "Chủ lao động, người sử dụng lao động",
+                "meaning": "Chủ; người sử dụng lao động",
                 "analysis": {
-                    "prefix": {
-                        "val": "em-",
-                        "mean": "trong, vào"
-                    },
-                    "root": {
-                        "val": "ploy",
-                        "mean": "sử dụng"
-                    },
-                    "suffix": {
-                        "val": "-er",
-                        "mean": "người thực hiện hành động (người thuê)"
-                    }
+                    "prefixes": [
+                        {
+                            "val": "em-",
+                            "mean": "vào trong"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ploy",
+                            "mean": "công việc"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-er",
+                            "mean": "người thực hiện hành động"
+                        }
+                    ]
                 },
                 "synonyms": [
                     "boss",
-                    "master",
+                    "company",
                     "firm"
                 ],
-                "example": "The employer must provide a safe working environment."
+                "example": "The employer sets the terms of the contract."
             }
         ]
     },
@@ -163,195 +366,68 @@
         "phonetic": "/ɪmˈplɔɪmənt/",
         "definitions": [
             {
-                "meaning": "Việc làm, sự làm công ăn lương",
+                "meaning": "Việc làm; sự thuê mướn",
                 "analysis": {
-                    "prefix": {
-                        "val": "em-",
-                        "mean": "trong, vào"
-                    },
-                    "root": {
-                        "val": "ploy",
-                        "mean": "sử dụng"
-                    },
-                    "suffix": {
-                        "val": "-ment",
-                        "mean": "trạng thái, hành động, kết quả của việc"
-                    }
+                    "prefixes": [
+                        {
+                            "val": "em-",
+                            "mean": "vào trong"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ploy",
+                            "mean": "công việc"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ment",
+                            "mean": "hành động, trạng thái"
+                        }
+                    ]
                 },
                 "synonyms": [
-                    "work",
                     "job",
+                    "work",
                     "occupation"
                 ],
-                "example": "Full-time employment offers more benefits than part-time."
-            }
-        ]
-    },
-    {
-        "word": "unemployment",
-        "phonetic": "/ˌʌnɪmˈplɔɪmənt/",
-        "definitions": [
-            {
-                "meaning": "Tình trạng thất nghiệp",
-                "analysis": {
-                    "prefix": {
-                        "val": "un-",
-                        "mean": "không"
-                    },
-                    "root": {
-                        "val": "employ",
-                        "mean": "thuê mướn"
-                    },
-                    "suffix": {
-                        "val": "-ment",
-                        "mean": "trạng thái"
-                    }
-                },
-                "synonyms": [
-                    "joblessness",
-                    "idleness"
-                ],
-                "example": "The government is trying to reduce the high rate of unemployment."
+                "example": "Full employment is a goal of the government."
             }
         ]
     },
     {
         "word": "employable",
-        "phonetic": "/ɪmˈplɔɪəbl/",
+        "phonetic": "/ɪmˈplɔɪəbəl/",
         "definitions": [
             {
-                "meaning": "Có khả năng tìm được việc làm, đủ điều kiện làm việc",
+                "meaning": "Có đủ khả năng để được thuê làm việc",
                 "analysis": {
-                    "prefix": {
-                        "val": "em-",
-                        "mean": "trong, vào"
-                    },
-                    "root": {
-                        "val": "ploy",
-                        "mean": "sử dụng"
-                    },
-                    "suffix": {
-                        "val": "-able",
-                        "mean": "có thể"
-                    }
+                    "prefixes": [
+                        {
+                            "val": "em-",
+                            "mean": "vào trong"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ploy",
+                            "mean": "công việc"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-able",
+                            "mean": "có thể"
+                        }
+                    ]
                 },
                 "synonyms": [
-                    "hireable",
-                    "qualified"
+                    "hirable",
+                    "qualified",
+                    "marketable"
                 ],
-                "example": "After finishing his training, he is now highly employable."
-            }
-        ]
-    },
-    {
-        "word": "unemployable",
-        "phonetic": "/ˌʌnɪmˈplɔɪəbl/",
-        "definitions": [
-            {
-                "meaning": "Không có khả năng tìm được việc làm (do thiếu kỹ năng, sức khỏe, v.v.)",
-                "analysis": {
-                    "prefix": {
-                        "val": "un-",
-                        "mean": "không"
-                    },
-                    "root": {
-                        "val": "employ",
-                        "mean": "thuê mướn"
-                    },
-                    "suffix": {
-                        "val": "-able",
-                        "mean": "có thể"
-                    }
-                },
-                "synonyms": [
-                    "incapable of working",
-                    "unfit for work"
-                ],
-                "example": "Due to his severe disability, he was considered unemployable."
-            }
-        ]
-    },
-    {
-        "word": "employed",
-        "phonetic": "/ɪmˈplɔɪd/",
-        "definitions": [
-            {
-                "meaning": "Đang làm việc, có việc làm",
-                "analysis": {
-                    "prefix": {
-                        "val": "em-",
-                        "mean": "trong, vào"
-                    },
-                    "root": {
-                        "val": "ploy",
-                        "mean": "sử dụng"
-                    },
-                    "suffix": {
-                        "val": "-ed",
-                        "mean": "dạng quá khứ hoặc tính từ (đang được sử dụng)"
-                    }
-                },
-                "synonyms": [
-                    "working",
-                    "occupied"
-                ],
-                "example": "She has been employed at the bank for ten years."
-            }
-        ]
-    },
-    {
-        "word": "unemployed",
-        "phonetic": "/ˌʌnɪmˈplɔɪd/",
-        "definitions": [
-            {
-                "meaning": "Thất nghiệp, không có việc làm",
-                "analysis": {
-                    "prefix": {
-                        "val": "un-",
-                        "mean": "không"
-                    },
-                    "root": {
-                        "val": "employ",
-                        "mean": "thuê mướn"
-                    },
-                    "suffix": {
-                        "val": "-ed",
-                        "mean": "dạng quá khứ hoặc tính từ (không được sử dụng)"
-                    }
-                },
-                "synonyms": [
-                    "jobless",
-                    "out of work"
-                ],
-                "example": "The newly graduated student is currently unemployed."
-            }
-        ]
-    },
-    {
-        "word": "gainfully employed",
-        "phonetic": "/ˈɡeɪnfl̩i ɪmˈplɔɪd/",
-        "definitions": [
-            {
-                "meaning": "Có việc làm được trả lương, có thu nhập",
-                "analysis": {
-                    "prefix": {
-                        "val": "gain-",
-                        "mean": "thu được, lợi ích"
-                    },
-                    "root": {
-                        "val": "employ",
-                        "mean": "sử dụng"
-                    },
-                    "suffix": {
-                        "val": "null",
-                        "mean": "null"
-                    }
-                },
-                "synonyms": [
-                    "earning a salary",
-                    "working for pay"
-                ],
-                "example": "To qualify for housing assistance, you must not be gainfully employed."
+                "example": "After his training, he became highly employable."
             }
         ]
     },
@@ -360,225 +436,731 @@
         "phonetic": "/ˌʌndərɪmˈplɔɪd/",
         "definitions": [
             {
-                "meaning": "Làm việc dưới mức khả năng, không đủ giờ làm hoặc không đúng chuyên môn",
+                "meaning": "Làm công việc dưới khả năng của mình; thiếu việc làm",
                 "analysis": {
-                    "prefix": {
-                        "val": "under-",
-                        "mean": "dưới, thấp hơn"
-                    },
-                    "root": {
-                        "val": "employ",
-                        "mean": "thuê mướn"
-                    },
-                    "suffix": {
-                        "val": "-ed",
-                        "mean": "dạng tính từ"
-                    }
+                    "prefixes": [
+                        {
+                            "val": "under-",
+                            "mean": "dưới mức"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "employ",
+                            "mean": "thuê làm việc"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ed",
+                            "mean": "quá khứ phân từ, tính từ"
+                        }
+                    ]
                 },
                 "synonyms": [
-                    "subemployed",
-                    "partially employed"
+                    "underworked",
+                    "part-time (involuntarily)"
                 ],
-                "example": "Many recent graduates feel underemployed working in service industries."
+                "example": "Many recent graduates feel underemployed in their current roles."
             }
         ]
     },
     {
-        "word": "underemployment",
-        "phonetic": "/ˌʌndərɪmˈplɔɪmənt/",
+        "word": "gainfully employed",
+        "phonetic": "/ˈɡeɪnfəli ɪmˈplɔɪd/",
         "definitions": [
             {
-                "meaning": "Tình trạng làm việc dưới mức khả năng hoặc không đủ giờ làm",
+                "meaning": "Có việc làm được trả lương ổn định",
                 "analysis": {
-                    "prefix": {
-                        "val": "under-",
-                        "mean": "dưới, thấp hơn"
-                    },
-                    "root": {
-                        "val": "employ",
-                        "mean": "thuê mướn"
-                    },
-                    "suffix": {
-                        "val": "-ment",
-                        "mean": "trạng thái"
-                    }
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "gain",
+                            "mean": "thu được"
+                        },
+                        {
+                            "val": "employ",
+                            "mean": "thuê làm việc"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ful",
+                            "mean": "đầy đủ"
+                        },
+                        {
+                            "val": "-ly",
+                            "mean": "trạng từ"
+                        },
+                        {
+                            "val": "-ed",
+                            "mean": "quá khứ phân từ, tính từ"
+                        }
+                    ]
                 },
                 "synonyms": [
-                    "underutilization of labor"
+                    "profitably employed",
+                    "well-paid"
                 ],
-                "example": "High rates of underemployment often signal underlying economic issues."
+                "example": "She has been gainfully employed since graduating college."
             }
         ]
     },
     {
-        "word": "parent",
-        "phonetic": "/ˈpeərənt/",
+        "word": "flex",
+        "phonetic": "/flɛks/",
         "definitions": [
             {
-                "meaning": "Cha hoặc mẹ; cha mẹ",
+                "meaning": "Uốn cong; giờ làm việc linh hoạt",
                 "analysis": {
-                    "prefix": {
-                        "val": "null",
-                        "mean": "null"
-                    },
-                    "root": {
-                        "val": "par",
-                        "mean": "sinh ra, đẻ ra (từ Latin 'parere')"
-                    },
-                    "suffix": {
-                        "val": "-ent",
-                        "mean": "danh từ hoặc tính từ chỉ người thực hiện hành động"
-                    }
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "flex",
+                            "mean": "uốn cong"
+                        }
+                    ],
+                    "suffixes": []
                 },
                 "synonyms": [
-                    "mother",
-                    "father",
-                    "guardian"
+                    "bend",
+                    "adjust",
+                    "bendable"
                 ],
-                "example": "A good parent provides love and support for their children."
+                "example": "You can flex the metal rod slightly."
             }
         ]
     },
     {
-        "word": "parenthood",
-        "phonetic": "/ˈpeərəntˌhʊd/",
+        "word": "flexible",
+        "phonetic": "/ˈflɛksəbəl/",
         "definitions": [
             {
-                "meaning": "Tình trạng làm cha mẹ",
+                "meaning": "Linh hoạt; dễ uốn nắn",
                 "analysis": {
-                    "prefix": {
-                        "val": "null",
-                        "mean": "null"
-                    },
-                    "root": {
-                        "val": "parent",
-                        "mean": "cha mẹ"
-                    },
-                    "suffix": {
-                        "val": "-hood",
-                        "mean": "trạng thái, thời kỳ, tập hợp"
-                    }
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "flex",
+                            "mean": "uốn cong"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ible",
+                            "mean": "có thể"
+                        }
+                    ]
                 },
                 "synonyms": [
-                    "parenting status",
-                    "maternity/paternity"
+                    "adaptable",
+                    "pliable",
+                    "malleable"
                 ],
-                "example": "Parenthood is often described as the most challenging and rewarding role."
+                "example": "We need a flexible approach to solve this problem."
             }
         ]
     },
     {
-        "word": "parentage",
-        "phonetic": "/ˈpeərəntɪdʒ/",
+        "word": "flexor",
+        "phonetic": "/ˈflɛksər/",
         "definitions": [
             {
-                "meaning": "Nguồn gốc gia đình, dòng dõi (cha mẹ)",
+                "meaning": "Cơ uốn",
                 "analysis": {
-                    "prefix": {
-                        "val": "null",
-                        "mean": "null"
-                    },
-                    "root": {
-                        "val": "parent",
-                        "mean": "cha mẹ"
-                    },
-                    "suffix": {
-                        "val": "-age",
-                        "mean": "tập hợp, tình trạng"
-                    }
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "flex",
+                            "mean": "uốn cong"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-or",
+                            "mean": "chỉ tác nhân, cơ quan thực hiện hành động"
+                        }
+                    ]
                 },
                 "synonyms": [
-                    "ancestry",
-                    "descent",
-                    "lineage"
+                    "bender muscle"
                 ],
-                "example": "His noble parentage was evident in his refined manners."
+                "example": "The flexor muscles in the forearm allow the hand to grip."
             }
         ]
     },
     {
-        "word": "parenting",
-        "phonetic": "/ˈpeərəntɪŋ/",
+        "word": "flextime",
+        "phonetic": "/ˈflɛksˌtaɪm/",
         "definitions": [
             {
-                "meaning": "Việc nuôi dạy con cái",
+                "meaning": "Giờ làm việc linh hoạt",
                 "analysis": {
-                    "prefix": {
-                        "val": "null",
-                        "mean": "null"
-                    },
-                    "root": {
-                        "val": "parent",
-                        "mean": "cha mẹ"
-                    },
-                    "suffix": {
-                        "val": "-ing",
-                        "mean": "dạng hiện tại phân từ/danh động từ (hành động)"
-                    }
+                    "prefixes": [
+                        {
+                            "val": "flex",
+                            "mean": "uốn cong, linh hoạt"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "time",
+                            "mean": "thời gian"
+                        }
+                    ],
+                    "suffixes": []
                 },
                 "synonyms": [
-                    "child-rearing",
-                    "upbringing"
+                    "flexible working hours",
+                    "flexi-time"
                 ],
-                "example": "Effective parenting requires patience and consistency."
+                "example": "The company introduced flextime to improve work-life balance."
             }
         ]
     },
     {
-        "word": "parental",
-        "phonetic": "/pəˈrentl/",
+        "word": "autonomous",
+        "phonetic": "/ɔːˈtɒnəməs/",
         "definitions": [
             {
-                "meaning": "Thuộc về cha mẹ",
+                "meaning": "Tự trị, độc lập, tự quản",
                 "analysis": {
-                    "prefix": {
-                        "val": "null",
-                        "mean": "null"
-                    },
-                    "root": {
-                        "val": "parent",
-                        "mean": "cha mẹ"
-                    },
-                    "suffix": {
-                        "val": "-al",
-                        "mean": "thuộc về"
-                    }
+                    "prefixes": [
+                        {
+                            "val": "auto-",
+                            "mean": "tự"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "nom",
+                            "mean": "luật, quản lý"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ous",
+                            "mean": "có tính chất"
+                        }
+                    ]
                 },
                 "synonyms": [
-                    "maternal",
-                    "paternal",
-                    "parent's"
+                    "independent",
+                    "self-governing",
+                    "sovereign"
                 ],
-                "example": "The school requires parental permission for the field trip."
+                "example": "The new region will be granted an autonomous status within the country."
             }
         ]
     },
     {
-        "word": "parenthetically",
-        "phonetic": "/ˌpærənˈθetɪkli/",
+        "word": "autonomy",
+        "phonetic": "/ɔːˈtɒnəmi/",
         "definitions": [
             {
-                "meaning": "Bằng cách thêm chú thích vào giữa câu (giống như dấu ngoặc đơn)",
+                "meaning": "Sự tự trị, quyền tự chủ",
                 "analysis": {
-                    "prefix": {
-                        "val": "para-",
-                        "mean": "bên cạnh, ngoài lề (trong trường hợp này, liên quan đến dấu ngoặc đơn)"
-                    },
-                    "root": {
-                        "val": "parenthes",
-                        "mean": "dấu ngoặc đơn (từ Hy Lạp 'parenthesis')"
-                    },
-                    "suffix": {
-                        "val": "-ly",
-                        "mean": "trạng từ hóa"
-                    }
+                    "prefixes": [
+                        {
+                            "val": "auto-",
+                            "mean": "tự"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "nom",
+                            "mean": "luật, quản lý"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-y",
+                            "mean": "trạng thái, chất lượng"
+                        }
+                    ]
                 },
                 "synonyms": [
-                    "incidentally",
-                    "by the way",
-                    "in parenthesis"
+                    "self-rule",
+                    "independence",
+                    "self-determination"
                 ],
-                "example": "Parenthetically, I should mention that the meeting has been postponed."
+                "example": "Employees value having more autonomy over their daily tasks."
+            }
+        ]
+    },
+    {
+        "word": "consist",
+        "phonetic": "/kənˈsɪst/",
+        "definitions": [
+            {
+                "meaning": "Bao gồm, gồm có, bao hàm",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "cùng nhau, với"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "sist",
+                            "mean": "đứng, đặt"
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "comprise",
+                    "contain",
+                    "be made up of"
+                ],
+                "example": "The meal consists of soup, salad, and bread."
+            }
+        ]
+    },
+    {
+        "word": "consistent",
+        "phonetic": "/kənˈsɪstənt/",
+        "definitions": [
+            {
+                "meaning": "Kiên định, nhất quán, bền vững",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "cùng nhau, với"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "sist",
+                            "mean": "đứng, đặt"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ent",
+                            "mean": "thuộc tính, trạng thái"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "steady",
+                    "uniform",
+                    "reliable"
+                ],
+                "example": "Her performance in the first half of the season was very consistent."
+            }
+        ]
+    },
+    {
+        "word": "ideal",
+        "phonetic": "/aɪˈdiːəl/",
+        "definitions": [
+            {
+                "meaning": "Lý tưởng, hoàn hảo (tính từ); mẫu mực, lý tưởng (danh từ)",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "idea",
+                            "mean": "ý niệm, hình ảnh"
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "perfect",
+                    "model",
+                    "quintessential"
+                ],
+                "example": "She is the ideal candidate for the job."
+            }
+        ]
+    },
+    {
+        "word": "idealist",
+        "phonetic": "/aɪˈdiːəlɪst/",
+        "definitions": [
+            {
+                "meaning": "Người theo chủ nghĩa lý tưởng, người mơ mộng",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "idea",
+                            "mean": "ý niệm, hình ảnh"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ist",
+                            "mean": "người theo, người ủng hộ"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "dreamer",
+                    "visionary",
+                    "optimist"
+                ],
+                "example": "He is an idealist who believes in world peace."
+            }
+        ]
+    },
+    {
+        "word": "idealism",
+        "phonetic": "/aɪˈdiːəlɪzəm/",
+        "definitions": [
+            {
+                "meaning": "Chủ nghĩa lý tưởng",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "idea",
+                            "mean": "ý niệm, hình ảnh"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ism",
+                            "mean": "hệ thống, học thuyết"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "romanticism",
+                    "optimism",
+                    "perfectionism"
+                ],
+                "example": "Her political views are based on strong idealism."
+            }
+        ]
+    },
+    {
+        "word": "idealize",
+        "phonetic": "/aɪˈdiːəlaɪz/",
+        "definitions": [
+            {
+                "meaning": "Lý tưởng hóa, tô hồng sự thật",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "idea",
+                            "mean": "ý niệm, hình ảnh"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ize",
+                            "mean": "biến thành, làm cho"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "romanticize",
+                    "glamorize",
+                    "exalt"
+                ],
+                "example": "Don't idealize your past experiences; they weren't perfect."
+            }
+        ]
+    },
+    {
+        "word": "convene",
+        "phonetic": "/kənˈviːn/",
+        "definitions": [
+            {
+                "meaning": "Triệu tập, họp mặt",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "cùng nhau, với"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "vene",
+                            "mean": "đến"
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "assemble",
+                    "summon",
+                    "call together"
+                ],
+                "example": "The chairperson decided to convene an emergency meeting."
+            }
+        ]
+    },
+    {
+        "word": "convention",
+        "phonetic": "/kənˈvenʃn/",
+        "definitions": [
+            {
+                "meaning": "Hội nghị, quy ước, quy ước xã hội",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "cùng nhau, với"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "vene",
+                            "mean": "đến"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "sự việc, quá trình"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "meeting",
+                    "gathering",
+                    "custom",
+                    "tradition"
+                ],
+                "example": "Attending the annual tech convention is essential for networking."
+            }
+        ]
+    },
+    {
+        "word": "convenient",
+        "phonetic": "/kənˈviːniənt/",
+        "definitions": [
+            {
+                "meaning": "Thuận tiện, tiện lợi",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "cùng nhau, với"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ven",
+                            "mean": "đến"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ient",
+                            "mean": "có tính chất"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "handy",
+                    "opportune",
+                    "suitable"
+                ],
+                "example": "The store's location is very convenient for commuters."
+            }
+        ]
+    },
+    {
+        "word": "efficient",
+        "phonetic": "/ɪˈfɪʃnt/",
+        "definitions": [
+            {
+                "meaning": "Hiệu quả, năng suất",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ef-",
+                            "mean": "ra khỏi, làm cho"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "fic",
+                            "mean": "làm, tạo ra"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ient",
+                            "mean": "có tính chất"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "productive",
+                    "streamlined",
+                    "competent"
+                ],
+                "example": "The new machinery makes the production process much more efficient."
+            }
+        ]
+    },
+    {
+        "word": "efficacious",
+        "phonetic": "/ˌefɪˈkeɪʃəs/",
+        "definitions": [
+            {
+                "meaning": "Có hiệu lực, có tác dụng",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ef-",
+                            "mean": "ra khỏi, làm cho"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "fic",
+                            "mean": "làm, tạo ra"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-acious",
+                            "mean": "có nhiều đặc tính"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "effective",
+                    "potent",
+                    "powerful"
+                ],
+                "example": "The treatment proved to be highly efficacious against the disease."
+            }
+        ]
+    },
+    {
+        "word": "cooperate",
+        "phonetic": "/koʊˈɒpəreɪt/",
+        "definitions": [
+            {
+                "meaning": "Hợp tác, cộng tác",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "co-",
+                            "mean": "cùng nhau, với"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "oper",
+                            "mean": "làm việc"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "làm, thực hiện"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "collaborate",
+                    "work together",
+                    "join forces"
+                ],
+                "example": "The two departments must cooperate to finish the project on time."
+            }
+        ]
+    },
+    {
+        "word": "tolerate",
+        "phonetic": "/ˈtɒləreɪt/",
+        "definitions": [
+            {
+                "meaning": "Chịu đựng, khoan dung",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "tol",
+                            "mean": "chịu đựng, mang"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "làm, thực hiện"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "endure",
+                    "permit",
+                    "bear"
+                ],
+                "example": "A good leader should be able to tolerate different opinions."
+            }
+        ]
+    },
+    {
+        "word": "tolerant",
+        "phonetic": "/ˈtɒlərənt/",
+        "definitions": [
+            {
+                "meaning": "Khoan dung, dễ chấp nhận, chịu đựng được",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "tol",
+                            "mean": "chịu đựng, mang"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ant",
+                            "mean": "có tính chất, người làm"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "forbearing",
+                    "open-minded",
+                    "permissive"
+                ],
+                "example": "She is very tolerant of other people's beliefs."
+            }
+        ]
+    },
+    {
+        "word": "vulnerable",
+        "phonetic": "/ˈvʌlnərəbl/",
+        "definitions": [
+            {
+                "meaning": "Dễ bị tổn thương, dễ bị tấn công, yếu ớt",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "vulner",
+                            "mean": "vết thương, tấn công"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-able",
+                            "mean": "có thể"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "defenseless",
+                    "exposed",
+                    "susceptible"
+                ],
+                "example": "The old bridge was vulnerable to high winds."
             }
         ]
     }

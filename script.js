@@ -18,9 +18,7 @@ const searchResults = document.getElementById('searchResults');
 
 const flashcardContent = document.getElementById('flashcardContent');
 const gameWord = document.getElementById('gameWord');
-const gamePrefix = document.getElementById('gamePrefix');
-const gameRoot = document.getElementById('gameRoot');
-const gameSuffix = document.getElementById('gameSuffix');
+const gameMorphologyContainer = document.getElementById('gameMorphologyContainer');
 const gameSynonym = document.getElementById('gameSynonym');
 const btnCheck = document.getElementById('btnCheck');
 const btnNext = document.getElementById('btnNext');
@@ -89,37 +87,45 @@ tabMinigame.addEventListener('click', () => switchTab(tabMinigame, tabSearch, se
 function renderMorphologyDetails(item) {
     if(!item.analysis) return '';
     const a = item.analysis;
-    const hasP = a.prefix && a.prefix.val && a.prefix.val !== 'null';
-    const hasR = a.root && a.root.val && a.root.val !== 'null';
-    const hasS = a.suffix && a.suffix.val && a.suffix.val !== 'null';
+    const prefixes = Array.isArray(a.prefixes) ? a.prefixes : [];
+    const roots = Array.isArray(a.roots) ? a.roots : [];
+    const suffixes = Array.isArray(a.suffixes) ? a.suffixes : [];
     
-    if(!hasP && !hasR && !hasS) return '';
+    if(prefixes.length === 0 && roots.length === 0 && suffixes.length === 0) return '';
     
     let html = `<div class="mt-4 pt-4 border-t border-white/10 relative z-10 text-left">
         <h4 class="text-xs font-semibold text-slate-400 uppercase tracking-widest mb-3">Morphology Details</h4>
         <dl class="grid grid-cols-1 sm:grid-cols-3 gap-4">`;
         
-    if(hasP) {
+    prefixes.forEach((p, idx) => {
+        if(!p || !p.val || String(p.val).toLowerCase() === 'null') return;
+        const label = prefixes.length > 1 ? `Prefix ${idx + 1}` : 'Prefix';
         html += `<div class="morph-box bg-blue-900/20 border border-blue-500/20 rounded-xl p-3 relative cursor-pointer transition-colors hover:bg-blue-800/30" onclick="toggleTooltip(this, event)">
-            <dt class="text-xs text-blue-300/70 uppercase mb-1 pointer-events-none">Prefix</dt>
-            <dd><span class="hl-prefix pointer-events-none">${a.prefix.val}</span></dd>
-            <div class="morph-tooltip absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-[200px] p-2 bg-slate-800 text-white text-sm rounded-lg shadow-xl opacity-0 invisible transition-all z-20 border border-white/10 pointer-events-none text-center">${a.prefix.mean || ''}</div>
+            <dt class="text-xs text-blue-300/70 uppercase mb-1 pointer-events-none">${label}</dt>
+            <dd><span class="hl-prefix pointer-events-none">${p.val}</span></dd>
+            <div class="morph-tooltip absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-[200px] p-2 bg-slate-800 text-white text-sm rounded-lg shadow-xl opacity-0 invisible transition-all z-20 border border-white/10 pointer-events-none text-center">${p.mean || ''}</div>
         </div>`;
-    }
-    if(hasR) {
+    });
+
+    roots.forEach((r, idx) => {
+        if(!r || !r.val || String(r.val).toLowerCase() === 'null') return;
+        const label = roots.length > 1 ? `Root ${idx + 1}` : 'Root';
         html += `<div class="morph-box bg-purple-900/20 border border-purple-500/20 rounded-xl p-3 relative cursor-pointer transition-colors hover:bg-purple-800/30" onclick="toggleTooltip(this, event)">
-            <dt class="text-xs text-purple-300/70 uppercase mb-1 pointer-events-none">Root</dt>
-            <dd><span class="hl-root pointer-events-none">${a.root.val}</span></dd>
-            <div class="morph-tooltip absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-[200px] p-2 bg-slate-800 text-white text-sm rounded-lg shadow-xl opacity-0 invisible transition-all z-20 border border-white/10 pointer-events-none text-center">${a.root.mean || ''}</div>
+            <dt class="text-xs text-purple-300/70 uppercase mb-1 pointer-events-none">${label}</dt>
+            <dd><span class="hl-root pointer-events-none">${r.val}</span></dd>
+            <div class="morph-tooltip absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-[200px] p-2 bg-slate-800 text-white text-sm rounded-lg shadow-xl opacity-0 invisible transition-all z-20 border border-white/10 pointer-events-none text-center">${r.mean || ''}</div>
         </div>`;
-    }
-    if(hasS) {
+    });
+
+    suffixes.forEach((s, idx) => {
+        if(!s || !s.val || String(s.val).toLowerCase() === 'null') return;
+        const label = suffixes.length > 1 ? `Suffix ${idx + 1}` : 'Suffix';
         html += `<div class="morph-box bg-pink-900/20 border border-pink-500/20 rounded-xl p-3 relative cursor-pointer transition-colors hover:bg-pink-800/30" onclick="toggleTooltip(this, event)">
-            <dt class="text-xs text-pink-300/70 uppercase mb-1 pointer-events-none">Suffix</dt>
-            <dd><span class="hl-suffix pointer-events-none">${a.suffix.val}</span></dd>
-            <div class="morph-tooltip absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-[200px] p-2 bg-slate-800 text-white text-sm rounded-lg shadow-xl opacity-0 invisible transition-all z-20 border border-white/10 pointer-events-none text-center">${a.suffix.mean || ''}</div>
+            <dt class="text-xs text-pink-300/70 uppercase mb-1 pointer-events-none">${label}</dt>
+            <dd><span class="hl-suffix pointer-events-none">${s.val}</span></dd>
+            <div class="morph-tooltip absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-[200px] p-2 bg-slate-800 text-white text-sm rounded-lg shadow-xl opacity-0 invisible transition-all z-20 border border-white/10 pointer-events-none text-center">${s.mean || ''}</div>
         </div>`;
-    }
+    });
     
     html += `</dl></div>`;
     return html;
@@ -205,13 +211,12 @@ searchInput.addEventListener('input', (e) => {
         let inAnalysis = false;
         if(item.analysis) {
             const a = item.analysis;
-            inAnalysis = 
-                (a.prefix?.val && String(a.prefix.val).toLowerCase().includes(q)) || 
-                (a.prefix?.mean && String(a.prefix.mean).toLowerCase().includes(q)) ||
-                (a.root?.val && String(a.root.val).toLowerCase().includes(q)) || 
-                (a.root?.mean && String(a.root.mean).toLowerCase().includes(q)) ||
-                (a.suffix?.val && String(a.suffix.val).toLowerCase().includes(q)) || 
-                (a.suffix?.mean && String(a.suffix.mean).toLowerCase().includes(q));
+            const searchArr = (arr) => arr && Array.isArray(arr) ? arr.some(x => 
+                (x.val && String(x.val).toLowerCase().includes(q)) || 
+                (x.mean && String(x.mean).toLowerCase().includes(q))
+            ) : false;
+            
+            inAnalysis = searchArr(a.prefixes) || searchArr(a.roots) || searchArr(a.suffixes);
         }
         
         return inWord || inMeaning || inSynonyms || inAnalysis;
@@ -245,11 +250,12 @@ function loadNextCard() {
     currentFlashcard = unplayedWords.pop();
     updateProgress();
     
-    [gameWord, gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => {
-        input.value = '';
-        input.classList.remove('input-success', 'input-error');
-        input.disabled = false;
-    });
+    gameWord.value = '';
+    gameWord.classList.remove('input-success', 'input-error');
+    gameWord.disabled = false;
+    gameSynonym.value = '';
+    gameSynonym.classList.remove('input-success', 'input-error');
+    gameSynonym.disabled = false;
     
     gameResult.classList.add('hidden');
     gameResult.className = "mt-6 text-center text-lg font-medium hidden rounded-xl py-4 border";
@@ -271,6 +277,46 @@ function loadNextCard() {
         </div>
     `;
     
+    // Dynamically insert morphology fields
+    gameMorphologyContainer.innerHTML = '';
+    const a = currentFlashcard.analysis || {};
+    const prefixes = Array.isArray(a.prefixes) ? a.prefixes.filter(x => x.val && x.val !== 'null') : [];
+    const roots = Array.isArray(a.roots) ? a.roots.filter(x => x.val && x.val !== 'null') : [];
+    const suffixes = Array.isArray(a.suffixes) ? a.suffixes.filter(x => x.val && x.val !== 'null') : [];
+
+    const createInput = (label, idPrefix, index, arrLength, placeholder) => {
+        const displayLabel = arrLength > 1 ? `${label} ${index + 1}` : label;
+        const id = `${idPrefix}_${index}`;
+        return `
+            <div>
+                <label class="block text-xs text-slate-400 mb-2">${displayLabel}</label>
+                <input
+                    type="text"
+                    id="${id}"
+                    data-type="${idPrefix}"
+                    data-index="${index}"
+                    class="game-morph-input game-input w-full bg-slate-900/50 border border-white/10 rounded-xl px-4 py-3 text-white outline-none focus:border-purple-500 focus:ring-1 focus:ring-purple-500 transition-all"
+                    placeholder="${placeholder}"
+                />
+            </div>
+        `;
+    };
+
+    prefixes.forEach((_, idx) => {
+        gameMorphologyContainer.insertAdjacentHTML('beforeend', createInput('Prefix', 'gamePrefix', idx, prefixes.length, 'e.g. un-'));
+    });
+    roots.forEach((_, idx) => {
+        gameMorphologyContainer.insertAdjacentHTML('beforeend', createInput('Root', 'gameRoot', idx, roots.length, 'e.g. forget'));
+    });
+    suffixes.forEach((_, idx) => {
+        gameMorphologyContainer.insertAdjacentHTML('beforeend', createInput('Suffix', 'gameSuffix', idx, suffixes.length, 'e.g. -able'));
+    });
+
+    // Reattach Enter key listener for dynamic inputs
+    document.querySelectorAll('.game-morph-input').forEach(input => {
+        input.addEventListener('keypress', handleGameInputEnter);
+    });
+    
     // Auto-focus first input
     gameWord.focus();
 }
@@ -284,16 +330,12 @@ btnCheck.addEventListener('click', () => {
     if(!currentFlashcard) return;
     
     const analysis = currentFlashcard.analysis || {};
-    
-    const expPrefix = normalizeStr(analysis.prefix?.val);
-    const expRoot = normalizeStr(analysis.root?.val);
-    const expSuffix = normalizeStr(analysis.suffix?.val);
+    const prefixes = Array.isArray(analysis.prefixes) ? analysis.prefixes.filter(x => x && x.val && x.val !== 'null') : [];
+    const roots = Array.isArray(analysis.roots) ? analysis.roots.filter(x => x && x.val && x.val !== 'null') : [];
+    const suffixes = Array.isArray(analysis.suffixes) ? analysis.suffixes.filter(x => x && x.val && x.val !== 'null') : [];
     
     const expWord = normalizeStr(currentFlashcard.word);
     const userWord = normalizeStr(gameWord.value);
-    const userPrefix = normalizeStr(gamePrefix.value);
-    const userRoot = normalizeStr(gameRoot.value);
-    const userSuffix = normalizeStr(gameSuffix.value);
     const userSynonym = gameSynonym.value.toLowerCase().trim();
     
     let isCorrect = true;
@@ -310,9 +352,24 @@ btnCheck.addEventListener('click', () => {
     }
     
     checkField(gameWord, userWord, expWord);
-    checkField(gamePrefix, userPrefix, expPrefix);
-    checkField(gameRoot, userRoot, expRoot);
-    checkField(gameSuffix, userSuffix, expSuffix);
+
+    // Dynamic morphology checking
+    document.querySelectorAll('.game-morph-input').forEach(inputEl => {
+        const type = inputEl.dataset.type;
+        const index = parseInt(inputEl.dataset.index, 10);
+        const userVal = normalizeStr(inputEl.value);
+        let expVal = '';
+
+        if(type === 'gamePrefix' && prefixes[index]) {
+            expVal = normalizeStr(prefixes[index].val);
+        } else if(type === 'gameRoot' && roots[index]) {
+            expVal = normalizeStr(roots[index].val);
+        } else if(type === 'gameSuffix' && suffixes[index]) {
+            expVal = normalizeStr(suffixes[index].val);
+        }
+        
+        checkField(inputEl, userVal, expVal);
+    });
     
     const validSynonyms = currentFlashcard.synonyms ? currentFlashcard.synonyms.map(s => s.toLowerCase().trim()) : [];
     if(validSynonyms.length > 0) {
@@ -342,7 +399,9 @@ btnCheck.addEventListener('click', () => {
         btnCheck.classList.add('hidden');
         btnNext.classList.remove('hidden');
         
-        [gameWord, gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => input.disabled = true);
+        gameWord.disabled = true;
+        gameSynonym.disabled = true;
+        document.querySelectorAll('.game-morph-input').forEach(input => input.disabled = true);
         
         flashcardContent.innerHTML = `
             <div class="text-center animate-fade-in relative">
@@ -368,7 +427,9 @@ btnCheck.addEventListener('click', () => {
          gameResult.classList.add('bg-red-500/10', 'border-red-500/20');
          
          setTimeout(() => {
-             [gameWord, gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => {
+             gameWord.classList.remove('input-error');
+             gameSynonym.classList.remove('input-error');
+             document.querySelectorAll('.game-morph-input').forEach(input => {
                  input.classList.remove('input-error');
              });
          }, 600);
@@ -378,16 +439,18 @@ btnCheck.addEventListener('click', () => {
 btnNext.addEventListener('click', loadNextCard);
 
 // Handle Enter key for submit action
-[gameWord, gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => {
-    input.addEventListener('keypress', (e) => {
-        if(e.key === 'Enter') {
-            if(!btnCheck.classList.contains('hidden')) {
-                btnCheck.click();
-            } else if(!btnNext.classList.contains('hidden')) {
-                btnNext.click();
-            }
+const handleGameInputEnter = (e) => {
+    if(e.key === 'Enter') {
+        if(!btnCheck.classList.contains('hidden')) {
+            btnCheck.click();
+        } else if(!btnNext.classList.contains('hidden')) {
+            btnNext.click();
         }
-    });
+    }
+};
+
+[gameWord, gameSynonym].forEach(input => {
+    input.addEventListener('keypress', handleGameInputEnter);
 });
 
 function showCelebration() {

@@ -18,8 +18,15 @@ def get_latest_flash_model():
     try:
         models = client.models.list()
         flash_models = [m.name for m in models if 'flash' in m.name.lower()]
-        flash_models.sort(reverse=True)
-        return flash_models[0] if flash_models else "gemini-1.5-flash"
+        for version in ['gemini-2.5', 'gemini-2.0', 'gemini-1.5']:
+            v_models = [m for m in flash_models if version in m]
+            if v_models:
+                valid_models = [m for m in v_models if 'tts' not in m and 'audio' not in m]
+                if valid_models:
+                    valid_models.sort(reverse=True)
+                    return valid_models[0]
+        
+        return "gemini-1.5-flash"
     except:
         return "gemini-1.5-flash"
 
@@ -40,9 +47,9 @@ def analyze_batch(word_batch):
                     {{
                         "meaning": "Vietnamese string",
                         "analysis": {{
-                            "prefix": {{"val": "string or null", "mean": "string or null"}},
-                            "root": {{"val": "string or null", "mean": "string or null"}},
-                            "suffix": {{"val": "string or null", "mean": "string or null"}}
+                            "prefixes": [{{"val": "string", "mean": "nghĩa tiếng Việt"}}],
+                            "roots": [{{"val": "string", "mean": "nghĩa tiếng Việt"}}],
+                            "suffixes": [{{"val": "string", "mean": "nghĩa tiếng Việt"}}]
                         }},
                         "synonyms": ["string"],
                         "example": "English sentence"
@@ -50,7 +57,15 @@ def analyze_batch(word_batch):
                 ]
             }}
         ]
-        Constraints: 1. Return ONLY JSON. 2. Meanings in Vietnamese. 3. No markdown.
+        Constraints: 
+        1. Return ONLY JSON. No markdown.
+        2. "meaning" and all "mean" fields must be in Vietnamese.
+        3. "prefixes", "roots", and "suffixes" must ALWAYS be arrays.
+        4. Extract ALL components. Example "Internationalization": 
+           - prefixes: [{{"val": "inter-", "mean": "giữa, liên"}}], 
+           - roots: [{{"val": "nat", "mean": "sinh ra, quốc gia"}}], 
+           - suffixes: [{{"val": "-al", "mean": "thuộc về"}}, {{"val": "-ize", "mean": "biến thành"}}, {{"val": "-ation", "mean": "sự việc"}}]
+        5. If a component is missing, return an empty array [].
         """
     try:
         response = client.models.generate_content(
@@ -92,7 +107,7 @@ def main():
     
     for i in range(0, len(new_words), BATCH_SIZE):
         batch = new_words[i : i + BATCH_SIZE]
-        print(f"⏳ Lô {i//BATCH_SIZE + 1}...")
+        print(f"⏳ Batch {i//BATCH_SIZE + 1}...")
         
         batch_result = analyze_batch(batch)
         if batch_result:
