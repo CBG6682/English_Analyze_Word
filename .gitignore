@@ -1,0 +1,9 @@
+# Bỏ qua thư mục môi trường ảo
+venv_tu_dien/
+__pycache__/
+
+# Bỏ qua các file cấu hình chứa API Key (nếu bạn định dùng file .env sau này)
+.env
+
+# Bỏ qua file code nháp nếu có
+*.log

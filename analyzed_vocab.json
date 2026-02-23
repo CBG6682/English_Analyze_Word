@@ -1,0 +1,26 @@
+[
+    {
+        "word": "client",
+        "phonetic": "/ˈklaɪ.ənt/",
+        "analysis": {
+            "prefix": {"val": "null", "mean": "null"},
+            "root": {"val": "null", "mean": "null"},
+            "suffix": {"val": "null", "mean": "null"}
+        },
+        "meaning": "Khách hàng",
+        "synonyms": ["customer", "buyer"],
+        "example": "He is a valued client."
+    },
+    {
+        "word": "unbelievable",
+        "phonetic": "/ˌʌn.bɪˈliː.və.bəl/",
+        "analysis": {
+            "prefix": {"val": "un-", "mean": "không"},
+            "root": {"val": "believe", "mean": "tin tưởng"},
+            "suffix": {"val": "-able", "mean": "có thể"}
+        },
+        "meaning": "Không thể tin được",
+        "synonyms": ["incredible", "amazing"],
+        "example": "An unbelievable story."
+    }
+]
