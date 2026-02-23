@@ -4,28 +4,27 @@
         "phonetic": "/ˈklaɪənt/",
         "definitions": [
             {
-                "meaning": "Khách hàng, người đang sử dụng dịch vụ của một công ty, luật sư, hoặc chuyên gia; người phụ thuộc vào sự bảo vệ hoặc hỗ trợ của người khác.",
+                "meaning": "Khách hàng, người sử dụng dịch vụ chuyên nghiệp từ một công ty, luật sư, nhà tư vấn, hoặc người cung cấp dịch vụ khác. Từ này thường nhấn mạnh mối quan hệ chuyên môn hoặc dịch vụ cụ thể, không chỉ là người mua hàng thông thường.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
                             "val": "client",
-                            "mean": "Gốc từ tiếng Latin 'clīent-', dạng hiện tại của động từ 'cluere', có nghĩa là 'nghe, tuân theo, tin tưởng'. Trong ngữ cảnh xã hội La Mã, nó chỉ người phụ thuộc vào sự bảo trợ của một 'patronus' (người bảo trợ). Nghĩa hiện đại mở rộng thành 'người phụ thuộc vào dịch vụ chuyên nghiệp'."
+                            "mean": "Gốc từ này liên quan đến 'nghe' hoặc 'lắng nghe' (trong ngữ cảnh cổ), nhưng trong ngữ cảnh hiện đại, nó chủ yếu được hiểu là người tìm kiếm sự hỗ trợ hoặc dịch vụ từ người khác."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ent",
-                            "mean": "Hậu tố tính từ hoặc danh từ trong tiếng Anh, thường chỉ người hoặc vật thực hiện hành động được biểu thị bởi gốc từ. Nó có nguồn gốc từ hậu tố phân từ hiện tại tiếng Latin '-ent-'. Trong từ 'client', nó tạo ra một danh từ chỉ người đang thực hiện hành động 'nghe theo' hoặc 'tin tưởng'."
+                            "val": "ent-",
+                            "mean": "Hậu tố này biến danh từ gốc thành một danh từ chỉ người thực hiện hành động hoặc người nhận dịch vụ, trong trường hợp này là người đang 'nghe' hoặc 'nhận sự giúp đỡ'."
                         }
                     ]
                 },
                 "synonyms": [
                     "customer",
-                    "patron",
-                    "account"
+                    "patron"
                 ],
-                "example": "The lawyer discussed the details of the case with her new client."
+                "example": "The lawyer met with his new client to discuss the case details."
             }
         ]
     },
@@ -34,28 +33,27 @@
         "phonetic": "/ˌklaɪənˈtɛl/",
         "definitions": [
             {
-                "meaning": "Tập hợp những khách hàng của một doanh nghiệp, cửa hàng, hoặc dịch vụ cụ thể, thường ám chỉ một nhóm đối tượng nhất định về mặt xã hội hoặc kinh tế.",
+                "meaning": "Tập thể khách hàng hoặc những người thường xuyên lui tới một cửa hàng, nhà hàng, hoặc dịch vụ nào đó. Nó mô tả toàn bộ nhóm người ủng hộ hoặc sử dụng dịch vụ của một cơ sở kinh doanh.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
                             "val": "client",
-                            "mean": "Gốc từ tiếng Latin 'clīent-', có nghĩa là 'người nghe, người tuân theo' hoặc 'người phụ thuộc'. Trong từ này, nó giữ vai trò cốt lõi chỉ đối tượng khách hàng."
+                            "mean": "Gốc từ chỉ người sử dụng dịch vụ."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ele",
-                            "mean": "Hậu tố có nguồn gốc từ tiếng Pháp cổ hoặc tiếng Latin (thường là '-ela'), được dùng để chỉ một tập hợp người hoặc vật. Trong 'clientele', nó biến danh từ 'client' thành một danh từ tập thể, chỉ tổng thể những khách hàng."
+                            "val": "ele",
+                            "mean": "Hậu tố này dùng để chỉ một tập hợp hoặc một nhóm người, biến từ 'client' (khách hàng) thành 'clientele' (tập thể khách hàng)."
                         }
                     ]
                 },
                 "synonyms": [
-                    "customer base",
                     "patronage",
-                    "regular customers"
+                    "customer base"
                 ],
-                "example": "The upscale restaurant boasts a wealthy and exclusive clientele."
+                "example": "The boutique is known for attracting a wealthy and fashionable clientele."
             }
         ]
     },
@@ -64,33 +62,27 @@
         "phonetic": "/ˈkɒliːɡ/",
         "definitions": [
             {
-                "meaning": "Đồng nghiệp, người cùng làm việc trong cùng một cơ quan, tổ chức, hoặc lĩnh vực nghề nghiệp; người có cùng địa vị hoặc cùng tham gia vào một hoạt động nhất định.",
+                "meaning": "Đồng nghiệp; người cùng làm việc trong một công ty, cơ quan, hoặc lĩnh vực chuyên môn. Nó nhấn mạnh mối quan hệ nghề nghiệp chung.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "col-",
-                            "mean": "Tiền tố có nguồn gốc từ tiếng Latin 'cum', mang nghĩa 'cùng nhau', 'với', hoặc 'chung'. Nó được sử dụng để chỉ sự hợp tác hoặc chia sẻ một điều gì đó, trong trường hợp này là cùng làm việc."
+                            "mean": "Tiền tố này có nghĩa là 'cùng nhau' hoặc 'chung với', nhấn mạnh sự hợp tác hoặc cùng chung một vị trí."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "leg-",
-                            "mean": "Gốc từ tiếng Latin 'lēgātus' hoặc 'lēx' (luật). Trong ngữ cảnh này, nó liên quan đến việc được cử đi hoặc sự ủy nhiệm, mở rộng nghĩa thành 'người được bổ nhiệm hoặc có cùng nhiệm vụ'. Gốc này cũng liên quan đến 'luật' (legislation)."
+                            "val": "league",
+                            "mean": "Gốc từ này liên quan đến một nhóm người có chung mục tiêu hoặc sở thích, trong ngữ cảnh này là cùng một nơi làm việc."
                         }
                     ],
-                    "suffixes": [
-                        {
-                            "val": "-eague",
-                            "mean": "Hậu tố có nguồn gốc từ tiếng Pháp cổ '-ege', liên kết với 'league' (liên minh, hiệp hội). Trong 'colleague', nó kết hợp với tiền tố và gốc để tạo thành danh từ chỉ thành viên của một hiệp hội hoặc nhóm làm việc chung."
-                        }
-                    ]
+                    "suffixes": []
                 },
                 "synonyms": [
                     "coworker",
-                    "associate",
-                    "partner"
+                    "associate"
                 ],
-                "example": "I often discuss challenging projects with my colleagues in the research department."
+                "example": "I had a quick chat with my colleague about the upcoming project deadline."
             }
         ]
     },
@@ -99,58 +91,52 @@
         "phonetic": "/ˈpɛərənt/",
         "definitions": [
             {
-                "meaning": "Cha hoặc mẹ của một người; hoặc một tổ chức, công ty mẹ kiểm soát một tổ chức khác; nguồn gốc hoặc nguyên nhân của một cái gì đó.",
-                "analysis": {
-                    "prefixes": [],
-                    "roots": [
-                        {
-                            "val": "par-",
-                            "mean": "Gốc từ tiếng Latin 'parere', có nghĩa là 'sinh ra, sinh đẻ'. Đây là gốc cốt lõi mang ý nghĩa về sự tạo ra hoặc sinh sôi."
-                        }
-                    ],
-                    "suffixes": [
-                        {
-                            "val": "-ent",
-                            "mean": "Hậu tố tính từ hoặc danh từ trong tiếng Anh, thường chỉ người hoặc vật thực hiện hành động được biểu thị bởi gốc từ. Nó có nguồn gốc từ hậu tố phân từ hiện tại tiếng Latin '-ent-'. Trong 'parent', nó tạo ra một danh từ chỉ người thực hiện hành động 'sinh ra'."
-                        }
-                    ]
-                },
-                "synonyms": [
-                    "mother",
-                    "father",
-                    "progenitor"
-                ],
-                "example": "Good parents strive to provide a stable environment for their children."
-            }
-        ]
-    },
-    {
-        "word": "parenthood",
-        "phonetic": "/ˈpɛərəntˌhʊd/",
-        "definitions": [
-            {
-                "meaning": "Tình trạng làm cha mẹ; khoảng thời gian hoặc vai trò của việc nuôi dưỡng con cái; tập hợp những người làm cha mẹ.",
+                "meaning": "Cha hoặc mẹ; người sinh ra hoặc nuôi dưỡng một đứa trẻ. Từ này chỉ vai trò trách nhiệm và mối quan hệ huyết thống hoặc nuôi dưỡng.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
                             "val": "parent",
-                            "mean": "Danh từ chỉ người cha hoặc mẹ, có gốc từ tiếng Latin 'parere' (sinh ra). Gốc này xác định chủ thể của trạng thái."
+                            "mean": "Gốc từ liên quan đến việc sinh ra hoặc nuôi dưỡng."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "mother",
+                    "father"
+                ],
+                "example": "A good parent provides love, support, and guidance to their children."
+            }
+        ]
+    },
+    {
+        "word": "parenthood",
+        "phonetic": "/ˈpɛərənthʊd/",
+        "definitions": [
+            {
+                "meaning": "Tình trạng làm cha mẹ hoặc vai trò làm cha mẹ. Nó chỉ khoảng thời gian hoặc trạng thái mà một người đảm nhận trách nhiệm nuôi dưỡng con cái.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "parent",
+                            "mean": "Chỉ vai trò làm cha hoặc mẹ."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-hood",
-                            "mean": "Hậu tố hình thành danh từ, có nguồn gốc từ tiếng Anh cổ '-hād', mang ý nghĩa 'trạng thái, tình trạng, phẩm chất, hoặc tập hợp'. Khi gắn vào 'parent', nó biến thành một danh từ trừu tượng chỉ trạng thái hoặc vai trò làm cha mẹ."
+                            "val": "hood",
+                            "mean": "Hậu tố này dùng để chỉ trạng thái, điều kiện, hoặc thời kỳ của một danh từ, biến 'parent' (cha mẹ) thành 'parenthood' (tình trạng làm cha mẹ)."
                         }
                     ]
                 },
                 "synonyms": [
-                    "maternity",
-                    "fatherhood",
-                    "guardianship"
+                    "parenting",
+                    "motherhood",
+                    "fatherhood"
                 ],
-                "example": "Parenthood brought unexpected joys and challenges to their lives."
+                "example": "Parenthood is challenging but incredibly rewarding."
             }
         ]
     },
@@ -159,28 +145,28 @@
         "phonetic": "/ˈpɛərəntɪdʒ/",
         "definitions": [
             {
-                "meaning": "Dòng dõi, nguồn gốc gia đình hoặc tổ tiên của một người; xuất thân từ gia đình nào đó.",
+                "meaning": "Nguồn gốc huyết thống của một người, tức là cha mẹ và tổ tiên của họ. Từ này nhấn mạnh xuất thân và dòng dõi hơn là vai trò nuôi dưỡng.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
                             "val": "parent",
-                            "mean": "Danh từ chỉ cha mẹ, có nguồn gốc từ tiếng Latin 'parere' (sinh ra). Nó là thành phần chính xác định nguồn gốc."
+                            "mean": "Chỉ cha mẹ."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-age",
-                            "mean": "Hậu tố có nguồn gốc từ tiếng Pháp cổ '-age', dùng để hình thành danh từ chỉ hành động, kết quả của hành động, hoặc một tập hợp. Trong 'parentage', nó biểu thị kết quả hoặc tổng thể của nguồn gốc cha mẹ, tức là dòng dõi."
+                            "val": "age",
+                            "mean": "Hậu tố này thường chỉ tình trạng, kết quả, hoặc hành động liên quan đến danh từ đứng trước. Trong trường hợp này, nó chỉ 'nguồn gốc/xuất thân' từ cha mẹ."
                         }
                     ]
                 },
                 "synonyms": [
                     "ancestry",
-                    "lineage",
-                    "descent"
+                    "descent",
+                    "lineage"
                 ],
-                "example": "His noble parentage was evident in his refined manners."
+                "example": "The mystery surrounding his true parentage was finally solved."
             }
         ]
     },
@@ -189,61 +175,56 @@
         "phonetic": "/ˈsɪblɪŋ/",
         "definitions": [
             {
-                "meaning": "Anh chị em ruột, người có cùng cha mẹ hoặc một trong hai người cha mẹ với người khác; từ này dùng để chỉ chung cả anh trai và chị gái mà không phân biệt giới tính.",
+                "meaning": "Anh, chị, em, hoặc người có chung ít nhất một bậc cha mẹ với người khác. Từ này bao hàm cả anh em trai và chị em gái.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
-                            "val": "sib-",
-                            "mean": "Gốc từ tiếng Anh cổ 'sib', có nghĩa là 'họ hàng, người thân, có quan hệ huyết thống'. Đây là gốc từ nguyên của từ này, khác với gốc Latin của 'parent'."
+                            "val": "sib",
+                            "mean": "Gốc từ này liên quan đến mối quan hệ họ hàng, tương tự như 'kinship'."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ling",
-                            "mean": "Hậu tố có nguồn gốc từ tiếng Anh cổ, dùng để chỉ một người hoặc vật nhỏ bé, con của ai đó, hoặc liên quan đến gốc từ. Trong 'sibling', nó biến gốc 'sib' thành một danh từ chỉ người có quan hệ họ hàng."
+                            "val": "ling",
+                            "mean": "Hậu tố này có thể được dùng để chỉ một người hoặc vật nhỏ hơn, hoặc liên quan đến danh từ gốc, trong trường hợp này là một thành viên trong mối quan hệ họ hàng."
                         }
                     ]
                 },
                 "synonyms": [
                     "brother",
-                    "sister",
-                    "kin"
+                    "sister"
                 ],
-                "example": "She has one older brother and two younger siblings."
+                "example": "The two siblings always supported each other through thick and thin."
             }
         ]
     },
     {
         "word": "sibling rivalry",
-        "phonetic": "/ˈsɪblɪŋ ˈraɪvəlti/",
+        "phonetic": "/ˈsɪblɪŋ ˈraɪvəlri/",
         "definitions": [
             {
-                "meaning": "Sự ganh đua, cạnh tranh giữa anh chị em ruột; thường liên quan đến sự khao khát tình cảm, sự chú ý của cha mẹ hoặc vị trí trong gia đình.",
+                "meaning": "Sự cạnh tranh hoặc ganh đua giữa anh chị em ruột thịt. Đây là một thuật ngữ mô tả mối quan hệ căng thẳng hoặc cạnh tranh giữa các thành viên trong cùng một gia đình.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
                             "val": "sibling",
-                            "mean": "Gốc từ tiếng Anh cổ 'sib' (họ hàng), chỉ anh chị em. Đây là chủ thể của sự cạnh tranh."
+                            "mean": "Chỉ anh chị em ruột."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ing",
-                            "mean": "Hậu tố phân từ hiện tại, biến 'sibling' thành danh từ chỉ người có quan hệ ruột thịt."
-                        },
-                        {
                             "val": "rivalry",
-                            "mean": "Danh từ chỉ sự cạnh tranh hoặc ganh đua, có nguồn gốc từ tiếng Latin 'rivalis' (người cùng chung dòng suối). Đây là phần mô tả bản chất của mối quan hệ."
+                            "mean": "Hậu tố này chỉ sự cạnh tranh hoặc đối địch giữa hai hoặc nhiều người hoặc nhóm."
                         }
                     ]
                 },
                 "synonyms": [
-                    "fratricidal competition",
-                    "fraternal competition"
+                    "fratricide (in some contexts)",
+                    "brother-sister conflict"
                 ],
-                "example": "Sibling rivalry is a common dynamic in families with multiple children."
+                "example": "Sibling rivalry is common in households with multiple children."
             }
         ]
     },
@@ -252,23 +233,22 @@
         "phonetic": "/spaʊs/",
         "definitions": [
             {
-                "meaning": "Vợ hoặc chồng; người bạn đời trong hôn nhân; danh từ này mang tính trung lập giới tính.",
+                "meaning": "Vợ hoặc chồng; người kết hôn hợp pháp với người khác. Đây là một thuật ngữ trung tính về giới tính để chỉ bạn đời.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
                             "val": "spouse",
-                            "mean": "Gốc từ tiếng Latin 'sponsa' (hứa hôn) hoặc 'sponsus' (người được hứa hôn), có liên quan đến việc đính ước hoặc cam kết hôn nhân. Nó chỉ người được ràng buộc bằng một lời thề."
+                            "mean": "Gốc từ liên quan đến việc liên kết hoặc kết hợp trong hôn nhân."
                         }
                     ],
                     "suffixes": []
                 },
                 "synonyms": [
                     "husband",
-                    "wife",
-                    "partner"
+                    "wife"
                 ],
-                "example": "The application requires information regarding your current spouse."
+                "example": "When filling out the form, please list your name and your spouse's name."
             }
         ]
     },
@@ -277,18 +257,18 @@
         "phonetic": "/ɪmˈplɔɪ/",
         "definitions": [
             {
-                "meaning": "Thuê mướn ai đó làm việc cho mình và trả lương; sử dụng hoặc tận dụng một cái gì đó cho một mục đích cụ thể.",
+                "meaning": "Thuê hoặc sử dụng ai đó để làm việc cho mình, thường là để đổi lấy tiền lương. Nó cũng có nghĩa là sử dụng hoặc áp dụng một cái gì đó (ví dụ: phương pháp, công cụ).",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "em-",
-                            "mean": "Tiền tố có nguồn gốc từ tiếng Latin 'in-' (trong, vào) kết hợp với 'im-'. Nó có chức năng làm động từ hóa (verbification), chỉ hành động đưa hoặc đặt vào một trạng thái nào đó. Ở đây là 'đặt vào công việc'."
+                            "mean": "Tiền tố này có nghĩa là 'làm cho' hoặc 'đặt vào', biến gốc từ thành một động từ."
                         }
                     ],
                     "roots": [
                         {
                             "val": "ploy",
-                            "mean": "Gốc từ tiếng Pháp cổ 'ploier' (uốn cong, gấp lại), có nguồn gốc từ tiếng Latin 'plicare' (gấp lại). Ban đầu, nó liên quan đến việc sử dụng kỹ năng hoặc tài năng ('nếp gấp của tâm trí'), sau đó phát triển thành nghĩa 'công việc, nhiệm vụ, kế hoạch'."
+                            "mean": "Gốc từ này liên quan đến việc 'cuộn lại', 'gấp lại' hoặc 'sử dụng', trong ngữ cảnh này là sử dụng sức lao động hoặc kỹ năng của người khác."
                         }
                     ],
                     "suffixes": []
@@ -296,9 +276,9 @@
                 "synonyms": [
                     "hire",
                     "engage",
-                    "utilize"
+                    "use"
                 ],
-                "example": "The company decided to employ ten new graduates this year."
+                "example": "The company decided to employ ten new engineers this quarter."
             }
         ]
     },
@@ -307,33 +287,32 @@
         "phonetic": "/ɪmˌplɔɪˈiː/",
         "definitions": [
             {
-                "meaning": "Người được thuê để làm việc cho người khác hoặc một tổ chức và nhận lương; người làm công.",
+                "meaning": "Người lao động; người được trả lương để làm việc cho người khác hoặc một tổ chức. Danh từ này chỉ người nhận việc làm.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "em-",
-                            "mean": "Tiền tố có nguồn gốc từ tiếng Latin 'in-', mang nghĩa 'vào, trong', được dùng để tạo động từ hóa, chỉ hành động đặt ai đó vào một trạng thái."
+                            "mean": "Tiền tố có nghĩa là 'trong' hoặc 'làm cho'."
                         }
                     ],
                     "roots": [
                         {
                             "val": "ploy",
-                            "mean": "Gốc từ tiếng Pháp cổ 'ploier' (gấp lại), liên quan đến việc sử dụng kỹ năng hoặc công việc. Ở đây, nó chỉ công việc được thực hiện."
+                            "mean": "Gốc từ chỉ sự sử dụng hoặc làm việc."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ee",
-                            "mean": "Hậu tố danh từ có nguồn gốc từ tiếng Pháp cổ, thường chỉ người nhận hành động hoặc người chịu tác động của hành động (người được tuyển dụng). Nó đối lập với hậu tố '-er' (người thực hiện hành động)."
+                            "val": "ee",
+                            "mean": "Hậu tố này biến động từ 'employ' thành danh từ chỉ người thụ động trong hành động, tức là người được 'thuê' hoặc 'được sử dụng' để làm việc."
                         }
                     ]
                 },
                 "synonyms": [
                     "worker",
-                    "staff member",
-                    "hand"
+                    "staff member"
                 ],
-                "example": "Every employee is entitled to two weeks of paid vacation annually."
+                "example": "Every employee is entitled to two weeks of paid vacation time per year."
             }
         ]
     },
@@ -342,33 +321,33 @@
         "phonetic": "/ɪmˈplɔɪər/",
         "definitions": [
             {
-                "meaning": "Cá nhân hoặc tổ chức thuê mướn người khác làm việc và trả lương cho họ; người sử dụng lao động.",
+                "meaning": "Người hoặc tổ chức thuê người khác làm việc và trả lương cho họ. Danh từ này chỉ người chủ động trong quan hệ lao động.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "em-",
-                            "mean": "Tiền tố có nguồn gốc từ tiếng Latin 'in-', mang nghĩa 'vào, trong', được dùng để tạo động từ hóa, chỉ hành động đặt ai đó vào một trạng thái làm việc."
+                            "mean": "Tiền tố có nghĩa là 'làm cho'."
                         }
                     ],
                     "roots": [
                         {
                             "val": "ploy",
-                            "mean": "Gốc từ tiếng Pháp cổ 'ploier' (gấp lại), liên quan đến việc sử dụng kỹ năng hoặc công việc, tạo thành nghĩa 'công việc'."
+                            "mean": "Gốc từ chỉ việc sử dụng hoặc làm việc."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-er",
-                            "mean": "Hậu tố có nguồn gốc từ tiếng Anh cổ hoặc tiếng Pháp, dùng để chỉ người hoặc vật thực hiện hành động được biểu thị bởi gốc từ. Trong trường hợp này, nó chỉ người thực hiện hành động 'employ' (thuê người khác)."
+                            "val": "er",
+                            "mean": "Hậu tố này biến động từ thành danh từ chỉ người thực hiện hành động, trong trường hợp này là người 'thuê' hoặc 'sử dụng' người khác làm việc."
                         }
                     ]
                 },
                 "synonyms": [
                     "boss",
-                    "firm",
-                    "master"
+                    "company",
+                    "firm"
                 ],
-                "example": "The employer must adhere to all labor laws regarding minimum wage."
+                "example": "The employer must provide a safe working environment for all staff."
             }
         ]
     },
@@ -377,33 +356,33 @@
         "phonetic": "/ɪmˈplɔɪmənt/",
         "definitions": [
             {
-                "meaning": "Tình trạng có một công việc được trả lương; hành động thuê mướn người khác; sự bận rộn với một hoạt động nào đó.",
+                "meaning": "Trạng thái có một công việc được trả lương, hoặc hoạt động kinh doanh thuê người lao động. Nó là danh từ trừu tượng chỉ mối quan hệ lao động.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "em-",
-                            "mean": "Tiền tố có nguồn gốc từ tiếng Latin 'in-', mang nghĩa 'vào, trong', được dùng để tạo động từ hóa hành động đặt ai đó vào công việc."
+                            "mean": "Tiền tố có nghĩa là 'làm cho' hoặc 'trong'."
                         }
                     ],
                     "roots": [
                         {
                             "val": "ploy",
-                            "mean": "Gốc từ tiếng Pháp cổ 'ploier' (gấp lại), liên quan đến công việc hoặc nhiệm vụ. Đây là phần cốt lõi chỉ hoạt động lao động."
+                            "mean": "Gốc từ chỉ việc sử dụng hoặc làm việc."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ment",
-                            "mean": "Hậu tố danh từ hóa có nguồn gốc từ tiếng Pháp cổ '-ement', chỉ hành động, quá trình, hoặc trạng thái. Khi kết hợp với 'employ', nó tạo thành danh từ chỉ trạng thái được thuê mướn hoặc quá trình thuê mướn."
+                            "val": "ment",
+                            "mean": "Hậu tố này biến động từ thành danh từ trừu tượng, chỉ trạng thái, hành động, hoặc kết quả của hành động 'employ' (thuê/làm việc)."
                         }
                     ]
                 },
                 "synonyms": [
+                    "job",
                     "work",
-                    "occupation",
-                    "job status"
+                    "occupation"
                 ],
-                "example": "The country's unemployment rate dropped significantly last quarter, signaling high employment."
+                "example": "The government is focused on reducing unemployment rates."
             }
         ]
     },
@@ -412,33 +391,32 @@
         "phonetic": "/ɪmˈplɔɪəbl/",
         "definitions": [
             {
-                "meaning": "Có đủ kỹ năng, trình độ hoặc kinh nghiệm để có thể được thuê làm việc; đủ tiêu chuẩn cho một công việc.",
+                "meaning": "Có đủ kỹ năng, kinh nghiệm và phẩm chất cần thiết để có thể tìm được việc làm. Từ này mô tả khả năng tìm được việc làm.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "em-",
-                            "mean": "Tiền tố có nguồn gốc từ tiếng Latin 'in-', mang nghĩa 'vào, trong', được dùng để tạo động từ hóa hành động đặt ai đó vào công việc."
+                            "mean": "Tiền tố có nghĩa là 'làm cho' hoặc 'trong'."
                         }
                     ],
                     "roots": [
                         {
                             "val": "ploy",
-                            "mean": "Gốc từ tiếng Pháp cổ 'ploier' (gấp lại), liên quan đến công việc hoặc nhiệm vụ. Đây là phần cốt lõi chỉ hoạt động lao động."
+                            "mean": "Gốc từ chỉ việc sử dụng hoặc làm việc."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-able",
-                            "mean": "Hậu tố tính từ có nguồn gốc từ tiếng Latin '-abilis', mang ý nghĩa 'có khả năng, có thể được'. Khi gắn vào động từ 'employ', nó tạo ra tính từ chỉ khả năng được thuê mướn."
+                            "val": "able",
+                            "mean": "Hậu tố này biến động từ thành tính từ, mang nghĩa 'có thể' thực hiện hành động của động từ gốc, tức là 'có thể được thuê/sử dụng'."
                         }
                     ]
                 },
                 "synonyms": [
-                    "hirable",
-                    "qualified",
-                    "suitable"
+                    "hireable",
+                    "marketable"
                 ],
-                "example": "Despite his lack of formal education, he is highly employable due to his practical skills."
+                "example": "After completing the training program, graduates are highly employable."
             }
         ]
     },
@@ -447,33 +425,36 @@
         "phonetic": "/ˌʌndərɪmˈplɔɪd/",
         "definitions": [
             {
-                "meaning": "Ở trong tình trạng làm việc ít hơn mức mong muốn hoặc cần thiết, thường là làm một công việc không đòi hỏi hết kỹ năng hoặc trình độ của mình, hoặc làm bán thời gian khi muốn toàn thời gian.",
+                "meaning": "Ở trong tình trạng có việc làm nhưng công việc đó không tận dụng hết kỹ năng, kinh nghiệm hoặc thời gian của người đó, dẫn đến mức lương thấp hơn khả năng. Thường ám chỉ việc làm bán thời gian không mong muốn hoặc công việc không xứng với trình độ.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "under-",
-                            "mean": "Tiền tố có nguồn gốc từ tiếng Anh cổ hoặc tiếng Đức, mang nghĩa 'dưới, thấp hơn, không đủ'. Nó chỉ mức độ thấp hơn tiêu chuẩn hoặc mong đợi."
+                            "mean": "Tiền tố có nghĩa là 'dưới mức' hoặc 'không đủ', chỉ ra mức độ thấp hơn so với tiêu chuẩn."
+                        },
+                        {
+                            "val": "em-",
+                            "mean": "Tiền tố có nghĩa là 'làm cho' hoặc 'trong'."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "employ",
-                            "mean": "Động từ gốc có nghĩa là thuê mướn hoặc sử dụng, có nguồn gốc từ tiếng Latin 'plicare' thông qua tiếng Pháp cổ. Nó chỉ hoạt động lao động."
+                            "val": "ploy",
+                            "mean": "Gốc từ chỉ việc sử dụng hoặc làm việc."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ed",
-                            "mean": "Hậu tố tính từ hoặc phân từ quá khứ, chỉ trạng thái bị ảnh hưởng bởi hành động. Ở đây, nó chỉ trạng thái bị đặt vào tình trạng làm việc dưới mức tiêu chuẩn."
+                            "val": "ed",
+                            "mean": "Hậu tố này tạo thành tính từ hoặc phân từ quá khứ, chỉ trạng thái của người đó (đã được sử dụng ở mức dưới tiêu chuẩn)."
                         }
                     ]
                 },
                 "synonyms": [
-                    "partially employed",
-                    "subemployed",
-                    "overqualified"
+                    "underpaid",
+                    "underutilized"
                 ],
-                "example": "Many recent graduates feel underemployed in the current job market."
+                "example": "Many recent graduates find themselves underemployed in service jobs."
             }
         ]
     },
@@ -482,39 +463,35 @@
         "phonetic": "/ˈɡeɪnfəli ɪmˈplɔɪd/",
         "definitions": [
             {
-                "meaning": "Đang làm một công việc được trả lương ổn định, đủ để trang trải chi phí sinh hoạt; làm việc một cách sinh lợi hoặc có lợi ích kinh tế rõ ràng.",
+                "meaning": "Có việc làm mang lại thu nhập ổn định và đủ sống, hoặc việc làm được trả lương một cách xứng đáng. Cụm từ này thường được dùng trong các văn bản chính thức hoặc thống kê việc làm để phân biệt với tình trạng thất nghiệp.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
-                            "val": "gain",
-                            "mean": "Gốc từ tiếng Anh cổ 'gegn' hoặc tiếng Pháp cổ 'gaain' (lợi ích, thu hoạch). Nó mang ý nghĩa về việc thu được lợi ích hoặc lợi nhuận."
+                            "val": "gainful",
+                            "mean": "Liên quan đến việc mang lại lợi ích hoặc thu nhập."
+                        },
+                        {
+                            "val": "employ",
+                            "mean": "Chỉ việc làm."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ful",
-                            "mean": "Hậu tố tính từ có nguồn gốc từ tiếng Anh cổ '-ful', mang nghĩa 'đầy đủ, có nhiều'. Trong 'gainful', nó tạo ra tính từ chỉ sự có lợi hoặc sinh lợi."
+                            "val": "ly",
+                            "mean": "Hậu tố này biến tính từ 'gainful' thành trạng từ, mô tả cách thức việc làm đó được thực hiện (một cách mang lại lợi ích)."
                         },
                         {
-                            "val": "-ly",
-                            "mean": "Hậu tố trạng từ, có nguồn gốc từ tiếng Anh cổ '-lice', dùng để chuyển đổi tính từ thành trạng từ, mô tả cách thức thực hiện hành động (làm việc một cách sinh lợi)."
-                        },
-                        {
-                            "val": "employ",
-                            "mean": "Động từ gốc liên quan đến việc làm việc, có nguồn gốc từ tiếng Latin 'plicare' thông qua tiếng Pháp cổ."
-                        },
-                        {
-                            "val": "-ed",
-                            "mean": "Hậu tố chỉ trạng thái bị ảnh hưởng bởi hành động, tạo thành phân từ quá khứ dùng như tính từ."
+                            "val": "ed",
+                            "mean": "Hậu tố này tạo thành tính từ hoặc phân từ quá khứ, chỉ trạng thái được làm việc."
                         }
                     ]
                 },
                 "synonyms": [
-                    "employed profitably",
+                    "employed for pay",
                     "earning a living"
                 ],
-                "example": "The government aims to increase the number of people gainfully employed in the sector."
+                "example": "To qualify for certain benefits, you must prove you are gainfully employed."
             }
         ]
     },
@@ -523,23 +500,23 @@
         "phonetic": "/flɛks/",
         "definitions": [
             {
-                "meaning": "Uốn cong hoặc xoắn một vật gì đó mà không làm gãy; linh hoạt hoặc thay đổi theo nhu cầu; một động từ hoặc danh từ rút gọn.",
+                "meaning": "Làm cho cái gì đó linh hoạt, mềm dẻo hơn, hoặc điều chỉnh một lịch trình để phù hợp với nhu cầu thay đổi. Trong ngữ cảnh công việc, nó thường ám chỉ việc thay đổi giờ làm việc.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
                             "val": "flex",
-                            "mean": "Gốc từ tiếng Latin 'flectere', có nghĩa là 'uốn cong, bẻ cong'. Đây là ý nghĩa vật lý cốt lõi, sau này được mở rộng thành nghĩa trừu tượng là sự linh hoạt."
+                            "mean": "Gốc từ liên quan đến sự uốn cong hoặc mềm dẻo."
                         }
                     ],
                     "suffixes": []
                 },
                 "synonyms": [
                     "bend",
-                    "bend",
+                    "adjust",
                     "adapt"
                 ],
-                "example": "She knows how to flex her schedule to accommodate early meetings."
+                "example": "We can flex the meeting time to accommodate the international team."
             }
         ]
     },
@@ -548,28 +525,28 @@
         "phonetic": "/ˈflɛksəbl/",
         "definitions": [
             {
-                "meaning": "Dễ uốn cong hoặc dễ uốn nắn mà không bị gãy; có khả năng thích ứng hoặc thay đổi dễ dàng theo các điều kiện hoặc yêu cầu khác nhau.",
+                "meaning": "Có khả năng uốn cong, thay đổi, hoặc thích ứng dễ dàng với các điều kiện khác nhau mà không bị gãy vỡ. Trong ngữ cảnh xã hội hoặc công việc, nó chỉ sự linh hoạt trong lịch trình hoặc quy tắc.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
                             "val": "flex",
-                            "mean": "Gốc từ tiếng Latin 'flectere', có nghĩa là 'uốn cong, bẻ cong'. Đây là ý nghĩa vật lý cốt lõi của từ."
+                            "mean": "Gốc từ liên quan đến sự uốn cong, mềm dẻo."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ible",
-                            "mean": "Hậu tố tính từ có nguồn gốc từ tiếng Latin '-bilis', mang ý nghĩa 'có thể, có khả năng'. Nó chuyển gốc động từ 'flex' thành tính từ chỉ khả năng uốn cong hoặc thích ứng."
+                            "val": "ible",
+                            "mean": "Hậu tố này biến động từ thành tính từ, mang nghĩa 'có thể' thực hiện hành động của động từ gốc, tức là 'có thể uốn cong' hoặc 'có thể điều chỉnh'."
                         }
                     ]
                 },
                 "synonyms": [
                     "adaptable",
                     "pliable",
-                    "malleable"
+                    "versatile"
                 ],
-                "example": "The new policy offers flexible working hours for all employees."
+                "example": "She prefers a flexible work arrangement so she can manage her family duties."
             }
         ]
     },
@@ -578,27 +555,26 @@
         "phonetic": "/ˈflɛksər/",
         "definitions": [
             {
-                "meaning": "Cơ hoặc gân có chức năng làm cong một chi hoặc một bộ phận cơ thể (đối lập với extensor); cũng có thể dùng để chỉ một bộ phận có khả năng uốn cong.",
+                "meaning": "Cơ hoặc dây chằng có tác dụng làm cong hoặc gập một chi hoặc một bộ phận cơ thể. Nó là một thuật ngữ giải phẫu chỉ cơ co lại để tạo chuyển động gập.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [
                         {
                             "val": "flex",
-                            "mean": "Gốc từ tiếng Latin 'flectere', có nghĩa là 'uốn cong, bẻ cong'. Đây là hành động chính mà bộ phận này thực hiện."
+                            "mean": "Gốc từ liên quan đến sự uốn cong hoặc gập lại."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-or",
-                            "mean": "Hậu tố danh từ có nguồn gốc từ tiếng Latin, dùng để chỉ người hoặc vật thực hiện hành động. Trong giải phẫu, nó chỉ cơ thực hiện động tác 'uốn cong'."
+                            "val": "or",
+                            "mean": "Hậu tố này biến động từ thành danh từ chỉ người hoặc vật thực hiện hành động, trong trường hợp này là cơ hoặc dây chằng có chức năng 'uốn cong'."
                         }
                     ]
                 },
                 "synonyms": [
-                    "bender",
-                    "curver"
+                    "bender muscle"
                 ],
-                "example": "The biceps acts as the primary flexor muscle of the elbow."
+                "example": "The biceps brachii is a major flexor of the elbow joint."
             }
         ]
     },
@@ -607,26 +583,27 @@
         "phonetic": "/ˈflɛksˌtaɪm/",
         "definitions": [
             {
-                "meaning": "Hệ thống làm việc linh hoạt cho phép nhân viên tự quyết định giờ bắt đầu và kết thúc công việc hàng ngày, miễn là họ hoàn thành tổng số giờ làm việc quy định.",
+                "meaning": "Một hệ thống giờ làm việc linh hoạt, nơi nhân viên có thể chọn giờ bắt đầu và kết thúc công việc của mình, miễn là họ hoàn thành tổng số giờ làm việc quy định trong một ngày hoặc tuần. Đây là sự kết hợp của 'flexible' và 'time'.",
                 "analysis": {
-                    "prefixes": [],
-                    "roots": [
+                    "prefixes": [
                         {
                             "val": "flex",
-                            "mean": "Rút gọn của 'flexible', có gốc từ tiếng Latin 'flectere' (uốn cong), ám chỉ sự linh hoạt, dễ điều chỉnh."
-                        },
-                        {
-                            "val": "time",
-                            "mean": "Gốc từ tiếng Anh cổ 'tīma', có nghĩa là khoảng thời gian. Đây là đối tượng bị ảnh hưởng bởi sự linh hoạt."
+                            "mean": "Tiền tố (rút gọn của flexible) chỉ sự linh hoạt hoặc điều chỉnh."
                         }
                     ],
-                    "suffixes": []
+                    "roots": [],
+                    "suffixes": [
+                        {
+                            "val": "time",
+                            "mean": "Chỉ khoảng thời gian."
+                        }
+                    ]
                 },
                 "synonyms": [
-                    "flexible hours",
-                    "flexitime"
+                    "flexitime",
+                    "flexible hours"
                 ],
-                "example": "The company introduced flextime to improve work-life balance for its staff."
+                "example": "The company introduced flextime to improve employee work-life balance."
             }
         ]
     },
@@ -635,32 +612,33 @@
         "phonetic": "/ɔːˈtɒnəməs/",
         "definitions": [
             {
-                "meaning": "Tự trị, độc lập, có khả năng tự quản lý hoặc tự quyết định mà không bị kiểm soát từ bên ngoài.",
+                "meaning": "Tự trị, độc lập về mặt tự quản lý hoặc tự quyết định. Từ này nhấn mạnh khả năng tự điều khiển, không bị kiểm soát bởi yếu tố bên ngoài, thường áp dụng cho cá nhân, tổ chức hoặc phương tiện.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "auto-",
-                            "mean": "Tiền tố Hy Lạp có nghĩa gốc là 'tự', 'bằng chính nó', hoặc 'của chính mình'. Nó chỉ sự độc lập, tự lực, không cần sự can thiệp từ bên ngoài, thường được dùng trong các từ liên quan đến sự tự động hoặc tự chủ."
+                            "mean": "Tự, tự mình. Tiền tố này chỉ ra rằng hành động hoặc trạng thái được thực hiện bởi chính chủ thể."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "nom- (from Gk. *nomos*)",
-                            "mean": "Gốc Hy Lạp mang nghĩa là 'luật', 'phép tắc', hoặc 'sự cai trị'. Khi kết hợp với 'auto-', nó tạo ra ý nghĩa về việc tự đặt ra luật lệ cho chính mình, tức là tự quản lý."
+                            "val": "nom",
+                            "mean": "Quy tắc, luật lệ, quản lý (liên quan đến việc tự đặt luật lệ hoặc quản lý)."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-ous",
-                            "mean": "Hậu tố tính từ trong tiếng Anh, có chức năng biến danh từ hoặc gốc từ thành tính từ, mang ý nghĩa 'có tính chất của' hoặc 'đầy đủ'. Nó chỉ ra rằng chủ thể mang đặc tính tự trị hoặc độc lập."
+                            "mean": "Hậu tố tính từ, chỉ ra rằng từ đó có đặc tính hoặc tính chất của cái gì đó (trong trường hợp này là có tính chất tự trị)."
                         }
                     ]
                 },
                 "synonyms": [
                     "independent",
-                    "self-governing"
+                    "self-governing",
+                    "sovereign"
                 ],
-                "example": "The organization has an autonomous budget, allowing it to manage its finances independently."
+                "example": "The company achieved an autonomous status after years of growth, allowing it to make its own strategic decisions."
             }
         ]
     },
@@ -669,32 +647,33 @@
         "phonetic": "/ɔːˈtɒnəmi/",
         "definitions": [
             {
-                "meaning": "Sự tự trị, quyền tự quyết, khả năng hoặc trạng thái tự quản lý và ra quyết định mà không bị kiểm soát hay can thiệp từ bên ngoài.",
+                "meaning": "Quyền tự trị, sự tự chủ, khả năng tự quản lý hoặc tự đưa ra quyết định mà không bị kiểm soát bởi thế lực bên ngoài. Đây là danh từ chỉ trạng thái hoặc quyền lợi của sự độc lập.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "auto-",
-                            "mean": "Tiền tố Hy Lạp có nghĩa gốc là 'tự', 'bằng chính nó', hoặc 'của chính mình'. Nó nhấn mạnh sự độc lập về mặt quyền lực hoặc hành động, hàm ý rằng hành động bắt nguồn từ chính đối tượng đó."
+                            "mean": "Tự, tự mình. Tiền tố này nhấn mạnh khía cạnh tự thân của sự quản lý."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "nom- (from Gk. *nomos*)",
-                            "mean": "Gốc Hy Lạp có nghĩa là 'luật pháp', 'phép tắc', hoặc 'sự cai quản'. Khi kết hợp với tiền tố, nó biểu thị quyền lực hoặc khả năng tự đặt ra luật lệ và thực thi chúng."
+                            "val": "nom",
+                            "mean": "Quy tắc, luật lệ, quản lý (liên quan đến việc tự thiết lập hoặc tuân theo luật lệ của chính mình)."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-y",
-                            "mean": "Hậu tố danh từ trong tiếng Anh, thường được dùng để tạo ra các danh từ trừu tượng chỉ trạng thái, chất lượng, hoặc tập hợp. Trong trường hợp này, nó chuyển đổi gốc từ thành danh từ chỉ 'trạng thái tự trị'."
+                            "mean": "Hậu tố danh từ, biểu thị trạng thái, chất lượng hoặc tình huống (trong trường hợp này là trạng thái tự chủ)."
                         }
                     ]
                 },
                 "synonyms": [
                     "self-rule",
+                    "independence",
                     "sovereignty"
                 ],
-                "example": "Many departments seek greater operational autonomy to improve efficiency."
+                "example": "Students should be given more autonomy in choosing their research topics to foster greater engagement."
             }
         ]
     },
@@ -703,32 +682,28 @@
         "phonetic": "/kənˈsɪst/",
         "definitions": [
             {
-                "meaning": "Bao gồm, cấu thành; hoặc tồn tại, duy trì trong một trạng thái hoặc điều kiện nhất định.",
+                "meaning": "Bao gồm, bao hàm, hoặc được cấu tạo bởi những thành phần nhất định. Nó cũng có nghĩa là tồn tại hoặc duy trì trong một trạng thái cụ thể.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "con-",
-                            "mean": "Tiền tố Latin có nghĩa là 'cùng nhau' hoặc 'với nhau'. Nó gợi ý hành động được thực hiện một cách tập thể hoặc kết hợp các yếu tố lại với nhau để tạo thành một tổng thể."
+                            "mean": "Cùng nhau, với. Tiền tố này gợi ý sự kết hợp hoặc liên kết của các yếu tố."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "sist (from L. *sistere*)",
-                            "mean": "Gốc Latin có nghĩa là 'đứng', 'đứng vững', hoặc 'đặt vào vị trí'. Khi kết hợp với tiền tố, nó mô tả hành động 'cùng nhau đứng vững' hoặc 'cấu thành một khối thống nhất'."
+                            "val": "sist",
+                            "mean": "Đứng vững, đặt, hoặc tồn tại. Gốc từ này chỉ sự ổn định hoặc tập hợp lại với nhau."
                         }
                     ],
-                    "suffixes": [
-                        {
-                            "val": "[]",
-                            "mean": "Từ này là một động từ nguyên mẫu và không có hậu tố tạo từ mang ý nghĩa bổ sung hoặc thay đổi từ loại rõ rệt."
-                        }
-                    ]
+                    "suffixes": []
                 },
                 "synonyms": [
                     "comprise",
-                    "involve"
+                    "include",
+                    "be composed of"
                 ],
-                "example": "The committee consists of five members from different departments."
+                "example": "The committee consists of five senior members from different departments."
             }
         ]
     },
@@ -737,32 +712,33 @@
         "phonetic": "/kənˈsɪstənt/",
         "definitions": [
             {
-                "meaning": "Nhất quán, kiên định; hành động hoặc kết quả luôn giữ vững nguyên tắc, tiêu chuẩn, hoặc ý kiến đã định mà không thay đổi.",
+                "meaning": "Kiên định, nhất quán, hoặc không thay đổi trong hành động, lời nói, hoặc chất lượng theo thời gian. Nó cũng có nghĩa là phù hợp hoặc không mâu thuẫn với những điều đã có.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "con-",
-                            "mean": "Tiền tố Latin mang ý nghĩa là 'cùng nhau' hoặc 'với nhau', ám chỉ sự thống nhất hoặc đồng bộ giữa các phần tử."
+                            "mean": "Cùng nhau, với. Tiền tố này gợi ý sự thống nhất giữa các phần."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "sist (from L. *sistere*)",
-                            "mean": "Gốc Latin có nghĩa là 'đứng', 'đứng vững', hoặc 'ổn định'. Trong ngữ cảnh này, nó ám chỉ việc giữ vững lập trường hoặc trạng thái một cách ổn định."
+                            "val": "sist",
+                            "mean": "Đứng vững, đặt, hoặc tồn tại. Gốc từ này chỉ sự ổn định, không thay đổi vị trí hoặc quan điểm."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-ent",
-                            "mean": "Hậu tố tính từ trong tiếng Anh, có nguồn gốc từ phân từ hiện tại Latin. Nó biến động từ thành tính từ, mang ý nghĩa 'đang thực hiện hành động' hoặc 'có đặc tính của hành động đó', ở đây là có đặc tính 'cùng đứng vững' hay nhất quán."
+                            "mean": "Hậu tố tính từ, chỉ ra trạng thái hoặc tính chất (trong trường hợp này là trạng thái không thay đổi)."
                         }
                     ]
                 },
                 "synonyms": [
                     "steady",
-                    "uniform"
+                    "uniform",
+                    "reliable"
                 ],
-                "example": "His performance has been remarkably consistent throughout the entire season."
+                "example": "Her performance reviews have been consistently excellent over the last three years."
             }
         ]
     },
@@ -771,32 +747,28 @@
         "phonetic": "/aɪˈdiːəl/",
         "definitions": [
             {
-                "meaning": "Lý tưởng, hoàn hảo; mô tả một hình mẫu hoặc tiêu chuẩn cao nhất về sự tốt đẹp, mong muốn hoặc phù hợp với một ý niệm trừu tượng.",
+                "meaning": "Hoàn hảo, lý tưởng, là tiêu chuẩn tốt nhất có thể tưởng tượng được về chất lượng, đạo đức hoặc hình thức. Nó mang ý nghĩa về sự tuyệt vời không tì vết.",
                 "analysis": {
-                    "prefixes": [
-                        {
-                            "val": "[]",
-                            "mean": "Từ này không có tiền tố rõ ràng trong cấu trúc tiếng Anh hiện đại, nó được hình thành trực tiếp từ gốc."
-                        }
-                    ],
+                    "prefixes": [],
                     "roots": [
                         {
-                            "val": "idea (from Gk. *idea*)",
-                            "mean": "Gốc từ Hy Lạp có nghĩa là 'hình thái', 'dạng thức', hoặc 'khái niệm tinh thần'. Nó đại diện cho một hình ảnh hoặc khái niệm trong tâm trí, thường là một tiêu chuẩn hoàn hảo không thể đạt được trong thực tế."
+                            "val": "ide",
+                            "mean": "Hình ảnh, hình dung, hoặc quan niệm. Gốc từ này liên quan đến những gì được hình dung trong tâm trí."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-al",
-                            "mean": "Hậu tố tính từ có nguồn gốc Latin, được sử dụng để biến danh từ thành tính từ, mang ý nghĩa 'liên quan đến' hoặc 'thuộc về'. Nó chỉ ra mối liên hệ với khái niệm 'ý tưởng' hay 'hình mẫu hoàn hảo'."
+                            "mean": "Hậu tố tính từ, dùng để tạo ra tính từ từ danh từ (liên quan đến ý niệm hoặc hình ảnh)."
                         }
                     ]
                 },
                 "synonyms": [
                     "perfect",
-                    "quintessential"
+                    "model",
+                    "utopian"
                 ],
-                "example": "She strives to live up to her own ideal of ethical behavior."
+                "example": "They strive to create an ideal working environment where all employees feel valued and motivated."
             }
         ]
     },
@@ -805,32 +777,28 @@
         "phonetic": "/aɪˈdiːəlɪst/",
         "definitions": [
             {
-                "meaning": "Người theo chủ nghĩa duy tâm; người hành động hoặc suy nghĩ dựa trên các nguyên tắc, giá trị, hoặc lý tưởng cao cả hơn là dựa trên tính thực dụng hay lợi ích vật chất.",
+                "meaning": "Người theo chủ nghĩa duy tâm, người tin tưởng và hành động dựa trên các lý tưởng hoặc nguyên tắc đạo đức cao cả, thường là những điều không thực tế hoặc quá khó đạt được trong thực tế.",
                 "analysis": {
-                    "prefixes": [
-                        {
-                            "val": "[]",
-                            "mean": "Từ này không có tiền tố rõ ràng trong cấu trúc tiếng Anh hiện đại, được hình thành từ gốc và hậu tố."
-                        }
-                    ],
+                    "prefixes": [],
                     "roots": [
                         {
-                            "val": "idea (from Gk. *idea*)",
-                            "mean": "Gốc từ Hy Lạp mang ý nghĩa 'hình thái' hoặc 'khái niệm tinh thần', là cơ sở cho việc hình thành các lý tưởng và tiêu chuẩn hoàn hảo mà người này theo đuổi."
+                            "val": "ide",
+                            "mean": "Hình ảnh, hình dung, hoặc quan niệm. Liên quan đến những ý tưởng cao đẹp hoặc nguyên tắc cốt lõi."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-ist",
-                            "mean": "Hậu tố thường dùng để chỉ người hoặc vật thực hiện một hành động, theo một học thuyết, hoặc một quan điểm cụ thể. Trong trường hợp này, nó xác định người tin vào hoặc theo đuổi các lý tưởng."
+                            "mean": "Hậu tố chỉ người thực hành hoặc tin vào một học thuyết, triết lý, hoặc hệ thống (trong trường hợp này là chủ nghĩa lý tưởng)."
                         }
                     ]
                 },
                 "synonyms": [
                     "dreamer",
+                    "optimist",
                     "visionary"
                 ],
-                "example": "The young idealist believed they could change the world through peaceful protest."
+                "example": "Although sometimes criticized as naive, the idealist never gave up fighting for social justice."
             }
         ]
     },
@@ -839,32 +807,28 @@
         "phonetic": "/aɪˈdiːəlɪzəm/",
         "definitions": [
             {
-                "meaning": "Chủ nghĩa duy tâm; hệ thống triết học hoặc thái độ sống tập trung vào các ý tưởng, giá trị tinh thần, và các tiêu chuẩn lý tưởng hơn là các yếu tố vật chất hoặc thực tế.",
+                "meaning": "Chủ nghĩa lý tưởng, là triết lý hoặc quan điểm sống tập trung vào việc theo đuổi các tiêu chuẩn đạo đức, tinh thần hoặc nguyên tắc cao đẹp thay vì thực tế vật chất hoặc những giới hạn thực dụng.",
                 "analysis": {
-                    "prefixes": [
-                        {
-                            "val": "[]",
-                            "mean": "Từ này không có tiền tố rõ ràng trong cấu trúc tiếng Anh hiện đại, được hình thành từ gốc và hậu tố."
-                        }
-                    ],
+                    "prefixes": [],
                     "roots": [
                         {
-                            "val": "idea (from Gk. *idea*)",
-                            "mean": "Gốc từ Hy Lạp có nghĩa là 'hình thái' hoặc 'khái niệm tinh thần', là nền tảng cho học thuyết coi trọng ý tưởng và các giá trị trừu tượng hơn thế giới vật chất."
+                            "val": "ide",
+                            "mean": "Hình ảnh, hình dung, hoặc quan niệm. Gốc từ này là cơ sở cho việc xây dựng các ý tưởng cao đẹp."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-ism",
-                            "mean": "Hậu tố danh từ trừu tượng có nguồn gốc Latin, được dùng để chỉ một hệ thống, học thuyết, hoặc trạng thái đặc trưng. Ở đây, nó xác định hệ thống triết học hoặc quan điểm 'dựa trên lý tưởng'."
+                            "mean": "Hậu tố danh từ chỉ một hệ thống niềm tin, học thuyết, hoặc triết lý (trong trường hợp này là hệ thống tin vào lý tưởng)."
                         }
                     ]
                 },
                 "synonyms": [
                     "optimism",
-                    "romanticism"
+                    "romanticism",
+                    "principle-centeredness"
                 ],
-                "example": "His strong idealism often clashed with the pragmatic realities of business."
+                "example": "His political idealism often clashed with the pragmatic demands of the campaign trail."
             }
         ]
     },
@@ -873,30 +837,26 @@
         "phonetic": "/aɪˈdiːəlaɪz/",
         "definitions": [
             {
-                "meaning": "Lý tưởng hóa; coi ai đó hoặc điều gì đó là hoàn hảo hơn so với thực tế, hoặc trình bày nó theo một cách thức lý tưởng không thực tế.",
+                "meaning": "Lý tưởng hóa, xem xét hoặc trình bày một người, sự vật, hoặc tình huống theo một cách hoàn hảo hơn thực tế, bỏ qua những khuyết điểm hoặc mặt tiêu cực.",
                 "analysis": {
-                    "prefixes": [
-                        {
-                            "val": "[]",
-                            "mean": "Từ này không có tiền tố rõ ràng trong cấu trúc tiếng Anh hiện đại, được hình thành từ gốc và hậu tố."
-                        }
-                    ],
+                    "prefixes": [],
                     "roots": [
                         {
-                            "val": "idea (from Gk. *idea*)",
-                            "mean": "Gốc từ Hy Lạp mang ý nghĩa 'hình thái' hoặc 'khái niệm tinh thần', là cơ sở cho việc hình thành một hình ảnh hoàn hảo trong tâm trí."
+                            "val": "ide",
+                            "mean": "Hình ảnh, hình dung, hoặc quan niệm. Gốc từ này chỉ việc tạo ra một hình ảnh trong tâm trí."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-ize",
-                            "mean": "Hậu tố động từ có nguồn gốc từ tiếng Hy Lạp, được sử dụng để biến tính từ hoặc danh từ thành động từ, mang ý nghĩa 'làm cho trở thành' hoặc 'biến đổi thành'. Nó chỉ hành động 'làm cho cái gì đó trở thành lý tưởng'."
+                            "mean": "Hậu tố động từ, chỉ hành động biến đổi hoặc làm cho một cái gì đó trở thành (trong trường hợp này là làm cho cái gì đó trở nên lý tưởng)."
                         }
                     ]
                 },
                 "synonyms": [
+                    "romanticize",
                     "glorify",
-                    "romanticize"
+                    "overvalue"
                 ],
                 "example": "It is easy to idealize the past, forgetting the hardships people actually faced."
             }
@@ -907,66 +867,63 @@
         "phonetic": "/kənˈviːn/",
         "definitions": [
             {
-                "meaning": "Triệu tập, nhóm họp; mời hoặc kêu gọi mọi người cùng nhau có mặt tại một nơi hoặc thời điểm cụ thể cho một mục đích chung.",
+                "meaning": "Triệu tập, triệu tập ai đó hoặc một nhóm người lại với nhau cho một cuộc họp chính thức hoặc có mục đích. Nó nhấn mạnh hành động gọi mọi người đến một nơi hoặc thời điểm nhất định.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "con-",
-                            "mean": "Tiền tố Latin có nghĩa là 'cùng nhau' hoặc 'với nhau'. Nó nhấn mạnh sự tập hợp của nhiều cá nhân lại một điểm chung hoặc một cuộc họp."
+                            "mean": "Cùng nhau, với. Tiền tố này chỉ sự tập hợp của nhiều người."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "vene (from L. *venire*)",
-                            "mean": "Gốc Latin có nghĩa là 'đến' hoặc 'tới'. Khi kết hợp với tiền tố 'con-', nó mô tả hành động 'cùng nhau đến' hoặc tập hợp lại."
+                            "val": "ven",
+                            "mean": "Đến, đi đến (từ tiếng Latin 'venire'). Gốc từ này chỉ sự di chuyển tập trung về một điểm."
                         }
                     ],
-                    "suffixes": [
-                        {
-                            "val": "[]",
-                            "mean": "Từ này là một động từ nguyên mẫu và không có hậu tố tạo từ mang ý nghĩa bổ sung hoặc thay đổi từ loại rõ rệt."
-                        }
-                    ]
+                    "suffixes": []
                 },
                 "synonyms": [
                     "assemble",
+                    "summon",
                     "call together"
                 ],
-                "example": "The chairman decided to convene an emergency meeting to discuss the issue."
+                "example": "The chairman will convene the board meeting at 10 a.m. tomorrow."
             }
         ]
     },
     {
         "word": "convention",
-        "phonetic": "/kənˈvɛnʃən/",
+        "phonetic": "/kənˈvenʃn/",
         "definitions": [
             {
-                "meaning": "Hội nghị, đại hội; hoặc một quy ước, quy tắc xã hội được chấp nhận rộng rãi về cách hành xử hoặc cách làm một điều gì đó.",
+                "meaning": "Hội nghị, cuộc họp lớn có mục đích cụ thể, thường là để thảo luận về các vấn đề trong một ngành nghề hoặc lĩnh vực nhất định. Nó cũng có nghĩa là một quy ước hoặc quy tắc xã hội được chấp nhận rộng rãi.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "con-",
-                            "mean": "Tiền tố Latin có nghĩa là 'cùng nhau' hoặc 'với nhau', ám chỉ sự tập hợp hoặc hành động được thực hiện chung bởi một nhóm người."
+                            "mean": "Cùng nhau, với. Tiền tố này chỉ sự tụ họp của nhiều người."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "vene (from L. *venire*)",
-                            "mean": "Gốc Latin có nghĩa là 'đến' hoặc 'tới'. Khi kết hợp với tiền tố, nó mô tả việc mọi người 'cùng nhau đến' để thảo luận hoặc đồng ý về một điều gì đó."
+                            "val": "ven",
+                            "mean": "Đến, đi đến. Gốc từ này ám chỉ hành động tập hợp lại."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-tion",
-                            "mean": "Hậu tố danh từ có nguồn gốc Latin, thường được dùng để biến động từ thành danh từ, chỉ hành động hoặc kết quả của hành động đó. Trong trường hợp này, nó chỉ hành động 'triệu tập' hoặc kết quả là 'sự đồng thuận'."
+                            "mean": "Hậu tố danh từ, biểu thị hành động hoặc kết quả của hành động (trong trường hợp này là hành động triệu tập hoặc kết quả của việc tụ họp)."
                         }
                     ]
                 },
                 "synonyms": [
-                    "gathering",
+                    "conference",
+                    "assembly",
                     "custom"
                 ],
-                "example": "The annual technology convention attracts thousands of industry professionals."
+                "example": "The technology convention attracts thousands of industry professionals every year."
             }
         ]
     },
@@ -975,100 +932,103 @@
         "phonetic": "/kənˈviːniənt/",
         "definitions": [
             {
-                "meaning": "Thuận tiện, tiện lợi; phù hợp với nhu cầu, kế hoạch, hoặc điều kiện của một người mà không gây ra sự khó khăn hay trở ngại.",
+                "meaning": "Thuận tiện, dễ dàng tiếp cận hoặc phù hợp với nhu cầu của một người nào đó mà không gây ra rắc rối hay khó khăn. Nó nhấn mạnh sự phù hợp về mặt thời gian, địa điểm hoặc cách thức.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "con-",
-                            "mean": "Tiền tố Latin mang ý nghĩa 'cùng nhau' hoặc 'với nhau', gợi ý sự phù hợp hoặc kết hợp hài hòa với các yếu tố khác."
+                            "mean": "Cùng nhau, với. Tiền tố này ám chỉ sự phù hợp hoặc tương thích."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "vene (from L. *venire*)",
-                            "mean": "Gốc Latin có nghĩa là 'đến' hoặc 'tới'. Khi kết hợp với tiền tố, nó tạo ra ý nghĩa 'phù hợp để đến' hoặc 'dễ dàng đạt được'."
+                            "val": "ven",
+                            "mean": "Đến, đi đến. Gốc từ này liên quan đến việc đáp ứng hoặc phù hợp với một điều gì đó."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ent",
-                            "mean": "Hậu tố tính từ trong tiếng Anh, có nguồn gốc từ phân từ hiện tại Latin, mang ý nghĩa 'có đặc tính của' hoặc 'đang thực hiện hành động'. Nó chỉ ra rằng cái gì đó có đặc tính 'thuận tiện cho việc tiếp cận hoặc sử dụng'."
+                            "val": "-ient",
+                            "mean": "Hậu tố tính từ, chỉ trạng thái hoặc tính chất (trong trường hợp này là có tính chất phù hợp, dễ dàng)."
                         }
                     ]
                 },
                 "synonyms": [
                     "handy",
-                    "opportune"
+                    "opportune",
+                    "suitable"
                 ],
-                "example": "We chose a time that was convenient for everyone attending the meeting."
+                "example": "Could we reschedule the meeting for a more convenient time next week?"
             }
         ]
     },
     {
         "word": "efficient",
-        "phonetic": "/ɪˈfɪʃənt/",
+        "phonetic": "/ɪˈfɪʃnt/",
         "definitions": [
             {
-                "meaning": "Hiệu quả; hoạt động hoặc sản xuất kết quả tốt nhất với lượng tài nguyên (thời gian, công sức, tiền bạc) tiêu thụ ít nhất.",
+                "meaning": "Hiệu quả, có khả năng đạt được kết quả mong muốn với ít lãng phí tài nguyên (thời gian, năng lượng, tiền bạc) nhất có thể. Nhấn mạnh sự tối ưu hóa trong quá trình thực hiện.",
                 "analysis": {
                     "prefixes": [
                         {
-                            "val": "e- (form of ex-)",
-                            "mean": "Tiền tố Latin có nghĩa là 'ra khỏi' hoặc 'từ bên trong'. Trong trường hợp này, nó được dùng để nhấn mạnh việc đưa ra hoặc đạt được kết quả tối đa."
+                            "val": "ef-",
+                            "mean": "Ra ngoài, làm cho trở thành. Tiền tố này chỉ hành động tạo ra một kết quả."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "fic (from L. *facere*)",
-                            "mean": "Gốc Latin có nghĩa là 'làm', 'thực hiện', hoặc 'tạo ra'. Nó liên quan đến hành động sản xuất hoặc hoàn thành công việc."
+                            "val": "fic",
+                            "mean": "Làm, tạo ra (liên quan đến hành động tạo ra kết quả)."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-ent",
-                            "mean": "Hậu tố tính từ có nguồn gốc Latin, mang ý nghĩa 'có khả năng' hoặc 'có đặc tính của hành động'. Nó chỉ ra rằng đối tượng có khả năng 'làm ra' kết quả tốt nhất với nguồn lực tối thiểu."
+                            "mean": "Hậu tố tính từ, chỉ trạng thái hoặc khả năng (trong trường hợp này là có khả năng tạo ra kết quả tốt với nguồn lực tối thiểu)."
                         }
                     ]
                 },
                 "synonyms": [
                     "productive",
+                    "streamlined",
                     "competent"
                 ],
-                "example": "The new machinery is much more efficient than the old model, saving energy costs."
+                "example": "The new software system is much more efficient at processing customer data."
             }
         ]
     },
     {
         "word": "efficacious",
-        "phonetic": "/ˌɛfɪˈkeɪʃəs/",
+        "phonetic": "/ˌefɪˈkeɪʃəs/",
         "definitions": [
             {
-                "meaning": "Có hiệu lực, công hiệu; có khả năng tạo ra kết quả mong muốn hoặc có tác dụng theo như dự định, đặc biệt là trong y học hoặc hành động.",
+                "meaning": "Có hiệu lực, có khả năng tạo ra kết quả mong muốn hoặc mang lại tác dụng đã định. Thường được dùng để mô tả các biện pháp, thuốc men, hoặc phương pháp có tính tác động mạnh mẽ và được chứng minh.",
                 "analysis": {
                     "prefixes": [
                         {
-                            "val": "ef- (form of ex-)",
-                            "mean": "Tiền tố Latin có nghĩa là 'ra khỏi' hoặc 'từ bên trong'. Nó được dùng để nhấn mạnh việc đưa ra hoặc tạo ra một kết quả cụ thể từ một nguyên nhân nào đó."
+                            "val": "ef-",
+                            "mean": "Ra ngoài, làm cho trở thành. Chỉ hành động tạo ra tác dụng hoặc kết quả."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "fic (from L. *facere*)",
-                            "mean": "Gốc Latin có nghĩa là 'làm', 'thực hiện', hoặc 'tạo ra'. Nó liên quan đến hành động sản xuất ra một kết quả."
+                            "val": "fic",
+                            "mean": "Làm, tạo ra. Gốc từ này liên quan đến việc tạo ra một tác động hoặc hiệu quả."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-acious",
-                            "mean": "Hậu tố tính từ có nguồn gốc Latin, mang ý nghĩa 'có xu hướng' hoặc 'giàu có về mặt'. Nó chỉ ra rằng đối tượng có đặc tính hoặc năng lực mạnh mẽ để tạo ra hiệu quả."
+                            "mean": "Hậu tố tính từ, chỉ tính chất hoặc khuynh hướng (trong trường hợp này là có khuynh hướng mang lại hiệu lực)."
                         }
                     ]
                 },
                 "synonyms": [
                     "effective",
-                    "potent"
+                    "potent",
+                    "fruitful"
                 ],
-                "example": "This medication is known to be highly efficacious in treating severe allergies."
+                "example": "The doctor prescribed an efficacious medicine to combat the infection."
             }
         ]
     },
@@ -1077,32 +1037,28 @@
         "phonetic": "/koʊˈɒpəreɪt/",
         "definitions": [
             {
-                "meaning": "Hợp tác, cộng tác; làm việc cùng nhau với người khác để đạt được một mục tiêu hoặc kết quả chung.",
+                "meaning": "Hợp tác, cùng nhau làm việc hướng tới một mục tiêu chung. Nó ngụ ý sự tương tác lẫn nhau, hỗ trợ và phối hợp nỗ lực giữa các bên.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "co-",
-                            "mean": "Tiền tố Latin có nghĩa là 'cùng nhau' hoặc 'với nhau'. Nó chỉ sự chung sức, làm việc chung trong một hoạt động."
+                            "mean": "Cùng nhau, với. Tiền tố này nhấn mạnh sự hành động chung của các bên."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "oper (from L. *operari*)",
-                            "mean": "Gốc Latin có nghĩa là 'làm việc', 'hành động', hoặc 'nỗ lực'. Khi kết hợp với tiền tố, nó mô tả hành động 'cùng nhau làm việc'."
+                            "val": "oper",
+                            "mean": "Làm việc, nỗ lực (từ 'op' nghĩa là công việc, nỗ lực). Gốc từ này chỉ hoạt động."
                         }
                     ],
-                    "suffixes": [
-                        {
-                            "val": "-ate",
-                            "mean": "Hậu tố động từ trong tiếng Anh, có nguồn gốc Latin, được sử dụng để biến danh từ hoặc tính từ thành động từ, mang ý nghĩa 'thực hiện hành động của'. Nó chuyển đổi ý tưởng hợp tác thành một hành động có thể thực hiện được."
-                        }
-                    ]
+                    "suffixes": []
                 },
                 "synonyms": [
                     "collaborate",
-                    "work together"
+                    "work together",
+                    "team up"
                 ],
-                "example": "The two companies agreed to cooperate on the new research project."
+                "example": "The two departments decided to cooperate on the new marketing strategy."
             }
         ]
     },
@@ -1111,32 +1067,28 @@
         "phonetic": "/ˈtɒləreɪt/",
         "definitions": [
             {
-                "meaning": "Chịu đựng, khoan dung; cho phép sự tồn tại hoặc hành động của điều gì đó mà mình có thể không đồng ý hoặc không thích, mà không can thiệp hay trừng phạt.",
+                "meaning": "Chịu đựng, chấp nhận hoặc cho phép sự tồn tại của điều gì đó mà mình không nhất thiết thích hoặc đồng tình. Nó có sắc thái của việc nhẫn nhịn hoặc không can thiệp vào điều khác biệt.",
                 "analysis": {
-                    "prefixes": [
-                        {
-                            "val": "[]",
-                            "mean": "Từ này không có tiền tố rõ ràng trong cấu trúc tiếng Anh hiện đại, nó có nguồn gốc trực tiếp từ Latin."
-                        }
-                    ],
+                    "prefixes": [],
                     "roots": [
                         {
-                            "val": "toler (from L. *tolerare*)",
-                            "mean": "Gốc Latin có nghĩa là 'chịu đựng', 'mang vác', hoặc 'chấp nhận'. Nó đại diện cho khả năng chịu đựng áp lực hoặc sự khác biệt mà không bị ảnh hưởng tiêu cực."
+                            "val": "tol",
+                            "mean": "Chịu đựng, mang vác (từ gốc Latin 'tolerare'). Gốc từ này liên quan đến khả năng chịu đựng áp lực hoặc sự khác biệt."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-ate",
-                            "mean": "Hậu tố động từ có nguồn gốc Latin, được sử dụng để tạo động từ, mang ý nghĩa 'thực hiện hành động của'. Nó chỉ hành động 'thực hiện sự chịu đựng'."
+                            "mean": "Hậu tố động từ, chỉ hành động hoặc trạng thái (trong trường hợp này là hành động chịu đựng)."
                         }
                     ]
                 },
                 "synonyms": [
                     "endure",
+                    "bear",
                     "allow"
                 ],
-                "example": "We must learn to tolerate different political views in a democratic society."
+                "example": "A healthy democracy must tolerate diverse political viewpoints."
             }
         ]
     },
@@ -1145,66 +1097,58 @@
         "phonetic": "/ˈtɒlərənt/",
         "definitions": [
             {
-                "meaning": "Khoan dung, dễ dung nạp; có khả năng chịu đựng hoặc chấp nhận sự khác biệt, ý kiến, hoặc điều kiện mà không có phản ứng tiêu cực.",
+                "meaning": "Khoan dung, có khả năng chịu đựng hoặc chấp nhận ý kiến, hành vi hoặc sự khác biệt của người khác mà không phản đối hoặc áp đặt. Tính từ này mô tả một thái độ cởi mở và nhẫn nại.",
                 "analysis": {
-                    "prefixes": [
-                        {
-                            "val": "[]",
-                            "mean": "Từ này không có tiền tố rõ ràng trong cấu trúc tiếng Anh hiện đại, có nguồn gốc từ gốc và hậu tố."
-                        }
-                    ],
+                    "prefixes": [],
                     "roots": [
                         {
-                            "val": "toler (from L. *tolerare*)",
-                            "mean": "Gốc Latin có nghĩa là 'chịu đựng' hoặc 'chấp nhận'. Đây là ý nghĩa trung tâm của từ, chỉ khả năng chịu đựng."
+                            "val": "tol",
+                            "mean": "Chịu đựng, mang vác. Gốc từ này chỉ khả năng chấp nhận hoặc chịu đựng."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-ant",
-                            "mean": "Hậu tố tính từ trong tiếng Anh, có nguồn gốc từ phân từ hiện tại Latin, mang ý nghĩa 'có khả năng' hoặc 'có đặc tính của hành động'. Nó chỉ ra đối tượng có đặc tính của việc 'chịu đựng'."
+                            "mean": "Hậu tố tính từ, chỉ người hoặc vật có khả năng hoặc đặc tính của hành động (trong trường hợp này là có đặc tính khoan dung)."
                         }
                     ]
                 },
                 "synonyms": [
-                    "forbearing",
-                    "open-minded"
+                    "permissive",
+                    "open-minded",
+                    "forbearing"
                 ],
-                "example": "A tolerant society respects the rights and beliefs of all its citizens."
+                "example": "She is a very tolerant person, rarely judging others for their choices."
             }
         ]
     },
     {
         "word": "vulnerable",
-        "phonetic": "/ˈvʌlnərəbəl/",
+        "phonetic": "/ˈvʌlnərəbl/",
         "definitions": [
             {
-                "meaning": "Dễ bị tổn thương, dễ bị tấn công; có khả năng bị làm hại về mặt thể chất hoặc tình cảm, hoặc dễ bị ảnh hưởng bởi các yếu tố bên ngoài tiêu cực.",
+                "meaning": "Dễ bị tổn thương, dễ bị tấn công về mặt thể chất, tình cảm, hoặc tâm lý. Từ này mô tả trạng thái yếu đuối hoặc thiếu sự bảo vệ cần thiết trước các mối đe dọa.",
                 "analysis": {
-                    "prefixes": [
-                        {
-                            "val": "[]",
-                            "mean": "Từ này không có tiền tố rõ ràng trong cấu trúc tiếng Anh hiện đại, có nguồn gốc trực tiếp từ Latin."
-                        }
-                    ],
+                    "prefixes": [],
                     "roots": [
                         {
-                            "val": "vulner (from L. *vulnerare*)",
-                            "mean": "Gốc Latin có nghĩa là 'vết thương' hoặc 'làm bị thương'. Đây là gốc từ nguyên thể hiện khả năng bị gây hại."
+                            "val": "vulner",
+                            "mean": "Tấn công, làm bị thương (từ gốc Latin 'vulnerare'). Gốc từ này tập trung vào khả năng bị làm hại."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-able",
-                            "mean": "Hậu tố tính từ có nguồn gốc Latin, mang ý nghĩa 'có thể' hoặc 'đáng để'. Nó chỉ ra rằng đối tượng 'có thể bị làm bị thương' hoặc dễ bị tổn thương."
+                            "mean": "Hậu tố tính từ, chỉ khả năng hoặc điều kiện (trong trường hợp này là có khả năng bị tấn công hoặc bị làm hại)."
                         }
                     ]
                 },
                 "synonyms": [
-                    "defenseless",
-                    "exposed"
+                    "exposed",
+                    "susceptible",
+                    "defenseless"
                 ],
-                "example": "Elderly people are often more vulnerable to the effects of the flu."
+                "example": "The elderly population is often the most vulnerable during severe weather events."
             }
         ]
     }

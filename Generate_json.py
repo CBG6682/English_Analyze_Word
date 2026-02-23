@@ -37,7 +37,7 @@ BATCH_SIZE = 20
 
 def analyze_batch(word_batch):
     prompt = f"""
-    You are a linguistics expert specializing in morphology and etymology.
+    You are an expert English vocabulary analyst.
 
     Analyze these English words: {word_batch}
 
@@ -49,24 +49,24 @@ def analyze_batch(word_batch):
             "phonetic": "string",
             "definitions": [
                 {{
-                    "meaning": "Giải nghĩa tiếng Việt đầy đủ, rõ ngữ cảnh",
+                    "meaning": "Giải nghĩa tiếng Việt đầy đủ, rõ sắc thái và ngữ cảnh sử dụng",
                     "analysis": {{
                         "prefixes": [
                             {{
                                 "val": "string",
-                                "mean": "Giải thích chi tiết bằng tiếng Việt: nghĩa gốc, nghĩa mở rộng, chức năng ngữ pháp, và nếu có thì nguồn gốc Latin/Greek."
+                                "mean": "Giải thích ý nghĩa mà tiền tố này đóng góp vào toàn bộ từ, bao gồm nghĩa chính và nghĩa mở rộng nếu có."
                             }}
                         ],
                         "roots": [
                             {{
                                 "val": "string",
-                                "mean": "Giải thích chi tiết bằng tiếng Việt: nghĩa gốc, nghĩa mở rộng, vai trò tạo nghĩa trung tâm của từ, nguồn gốc từ nguyên."
+                                "mean": "Giải thích ý nghĩa cốt lõi của gốc từ và cách nó quyết định nghĩa trung tâm của từ."
                             }}
                         ],
                         "suffixes": [
                             {{
                                 "val": "string",
-                                "mean": "Giải thích chi tiết bằng tiếng Việt: chức năng ngữ pháp (danh từ, tính từ, động từ…), ý nghĩa biến đổi từ loại, nguồn gốc từ nguyên nếu có."
+                                "mean": "Giải thích vai trò của hậu tố trong việc biến đổi nghĩa hoặc từ loại của từ."
                             }}
                         ]
                     }},
@@ -79,17 +79,14 @@ def analyze_batch(word_batch):
 
     Constraints:
 
-    1. Return ONLY JSON. No markdown. No explanation outside JSON.
-    2. "meaning" and all "mean" fields must be detailed Vietnamese explanations (minimum 20 words per component).
-    3. Each prefix/root/suffix explanation must:
-    - Include core meaning.
-    - Include extended or abstract meaning if applicable.
-    - Include grammatical function.
-    - Include etymology (Latin/Greek/Old English) if known.
-    4. If a component has multiple meanings, include them in the same "mean" field separated clearly.
-    5. DO NOT simplify explanations.
-    6. "prefixes", "roots", and "suffixes" must ALWAYS be arrays.
-    7. If missing, return [].
+    1. Return ONLY JSON. No markdown.
+    2. All explanations must be in Vietnamese.
+    3. Do NOT include etymology, historical origin, or Latin/Greek information.
+    4. Focus only on semantic meaning and how each component contributes to the word’s meaning.
+    5. Provide clear and sufficiently detailed explanations (not too short, not academic).
+    6. Maximum 1 main definition per word.
+    7. "prefixes", "roots", and "suffixes" must ALWAYS be arrays.
+    8. If a component does not exist, return [].
     """
     try:
         response = client.models.generate_content(
