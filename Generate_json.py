@@ -1,8 +1,13 @@
 import google.generativeai as genai
 import json
 import re
+import os
+from dotenv import load_dotenv
 
-genai.configure(api_key="AIzaSyA9MNahU6ZVgKpsQnkGW1HA7MNBAbjsm5o")
+load_dotenv()
+API_KEY = os.getenv("GEMINI_API_KEY")
+
+genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 def analyze_word(word_list):
