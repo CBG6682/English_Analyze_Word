@@ -1,3 +1,23 @@
 client
 clientele
 colleague
+employ
+employee
+employer
+employment
+unemployment
+employable
+unemployable
+employed
+unemployed
+employable
+unemployable
+gainfully employed
+underemployed
+underemployment
+parent
+parenthood
+parentage
+parenting
+parental
+parenthetically

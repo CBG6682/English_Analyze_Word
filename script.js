@@ -32,7 +32,23 @@ async function init() {
     try {
         const response = await fetch('analyzed_vocab.json');
         if (!response.ok) throw new Error("File not found");
-        vocabData = await response.json();
+        vocabData = [];
+        const rawData = await response.json();
+        
+        rawData.forEach(item => {
+            if (item.definitions && Array.isArray(item.definitions)) {
+                item.definitions.forEach(def => {
+                    vocabData.push({
+                        word: item.word,
+                        phonetic: item.phonetic,
+                        ...def
+                    });
+                });
+            } else {
+                // Fallback for old format
+                vocabData.push(item);
+            }
+        });
         
         loadingOverlay.classList.add('hidden');
         

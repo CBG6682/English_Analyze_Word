@@ -17,28 +17,36 @@ if not API_KEY:
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash-latest')
 
-BATCH_SIZE = 30 
+BATCH_SIZE = 20 
 
 def analyze_batch(word_batch):
     prompt = f"""
-    Analyze the following English words: {word_batch}
-    Return the result strictly in JSON format (a list of objects) with this structure:
-    [
-        {{
-            "word": "string",
-            "phonetic": "string",
-            "analysis": {{
-                "prefix": {{"val": "string or null", "mean": "string or null"}},
-                "root": {{"val": "string or null", "mean": "string or null"}},
-                "suffix": {{"val": "string or null", "mean": "string or null"}}
-            }},
-            "meaning": "string",
-            "synonyms": ["string1", "string2"],
-            "example": "string"
-        }}
-    ]
-    Important: Return ONLY the JSON array. No markdown formatting, no backticks. Ensure meaning is in Vietnamese.
-    """
+        Analyze the following English words thoroughly: {word_batch}
+        Identify if a word has multiple distinct meanings. Return the result strictly in JSON format (a list of objects) with this structure:
+        [
+            {{
+                "word": "string",
+                "phonetic": "string",
+                "definitions": [
+                    {{
+                        "meaning": "string (in Vietnamese)",
+                        "analysis": {{
+                            "prefix": {{"val": "string or null", "mean": "string or null"}},
+                            "root": {{"val": "string or null", "mean": "string or null"}},
+                            "suffix": {{"val": "string or null", "mean": "string or null"}}
+                        }},
+                        "synonyms": ["string1", "string2"],
+                        "example": "string (English sentence matching this specific meaning)"
+                    }}
+                    // Add more objects in this 'definitions' array ONLY IF the word has completely different, distinct meanings.
+                ]
+            }}
+        ]
+        Important constraints: 
+        1. Return ONLY the JSON array. No markdown formatting, no backticks.
+        2. Ensure all 'meaning' fields are in Vietnamese.
+        3. If there is no prefix, root, or suffix for a specific meaning, set the "val" to null.
+        """
     try:
         response = model.generate_content(prompt)
         clean_json = re.sub(r'^```json\s*|\s*```$', '', response.text.strip(), flags=re.MULTILINE)
