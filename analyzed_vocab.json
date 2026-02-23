@@ -1,26 +1,74 @@
 [
     {
         "word": "client",
-        "phonetic": "/ˈklaɪ.ənt/",
+        "phonetic": "/ˈklaɪənt/",
         "analysis": {
-            "prefix": {"val": "null", "mean": "null"},
-            "root": {"val": "null", "mean": "null"},
-            "suffix": {"val": "null", "mean": "null"}
+            "prefix": {
+                "val": null,
+                "mean": null
+            },
+            "root": {
+                "val": "cli-",
+                "mean": "dựa vào, phụ thuộc (từ Latinh 'clinare' - dựa vào)"
+            },
+            "suffix": {
+                "val": "-ent",
+                "mean": "người thực hiện hành động, người (từ Latinh '-ens', tạo danh từ chỉ tác nhân)"
+            }
         },
-        "meaning": "Khách hàng",
-        "synonyms": ["customer", "buyer"],
-        "example": "He is a valued client."
+        "meaning": "Khách hàng; thân chủ (người phụ thuộc vào dịch vụ hoặc lời khuyên của người khác, đặc biệt là luật sư, kế toán).",
+        "synonyms": [
+            "customer",
+            "patron"
+        ],
+        "example": "The lawyer advised her client to accept the settlement."
     },
     {
-        "word": "unbelievable",
-        "phonetic": "/ˌʌn.bɪˈliː.və.bəl/",
+        "word": "clientele",
+        "phonetic": "/ˌklaɪənˈtɛl/",
         "analysis": {
-            "prefix": {"val": "un-", "mean": "không"},
-            "root": {"val": "believe", "mean": "tin tưởng"},
-            "suffix": {"val": "-able", "mean": "có thể"}
+            "prefix": {
+                "val": null,
+                "mean": null
+            },
+            "root": {
+                "val": "client-",
+                "mean": "khách hàng, người phụ thuộc (từ Latinh 'clientis' - khách hàng, người phụ thuộc)"
+            },
+            "suffix": {
+                "val": "-ele",
+                "mean": "nhóm, tập thể; mối quan hệ (từ Latinh '-ela', tạo danh từ chỉ một tập thể hoặc trạng thái)"
+            }
         },
-        "meaning": "Không thể tin được",
-        "synonyms": ["incredible", "amazing"],
-        "example": "An unbelievable story."
+        "meaning": "Tập thể khách hàng; giới thân chủ (tổng số khách hàng thường xuyên của một doanh nghiệp hoặc chuyên gia).",
+        "synonyms": [
+            "customers",
+            "patrons"
+        ],
+        "example": "The boutique attracts a high-end clientele."
+    },
+    {
+        "word": "colleague",
+        "phonetic": "/ˈkɒliːɡ/",
+        "analysis": {
+            "prefix": {
+                "val": "col-",
+                "mean": "cùng, với, chung (biến thể của 'com-', từ Latinh 'cum')"
+            },
+            "root": {
+                "val": "leg-",
+                "mean": "chọn, cử, ủy thác (từ Latinh 'legare' - chọn, cử)"
+            },
+            "suffix": {
+                "val": null,
+                "mean": null
+            }
+        },
+        "meaning": "Đồng nghiệp (một người cùng làm việc trong cùng một ngành nghề hoặc tổ chức).",
+        "synonyms": [
+            "coworker",
+            "associate"
+        ],
+        "example": "I often consult my colleagues for their expert opinions."
     }
 ]

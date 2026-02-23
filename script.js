@@ -17,6 +17,7 @@ const searchInput = document.getElementById('searchInput');
 const searchResults = document.getElementById('searchResults');
 
 const flashcardContent = document.getElementById('flashcardContent');
+const gameWord = document.getElementById('gameWord');
 const gamePrefix = document.getElementById('gamePrefix');
 const gameRoot = document.getElementById('gameRoot');
 const gameSuffix = document.getElementById('gameSuffix');
@@ -69,25 +70,71 @@ tabSearch.addEventListener('click', () => switchTab(tabSearch, tabMinigame, sect
 tabMinigame.addEventListener('click', () => switchTab(tabMinigame, tabSearch, sectionMinigame, sectionSearch));
 
 // --- Search Logic ---
-function renderWordMorphology(wordObj) {
-    const analysis = wordObj.analysis;
-    if(!analysis) return `<span class="font-bold text-white text-3xl">${wordObj.word}</span>`;
-
-    let html = '';
-    if(analysis.prefix && analysis.prefix.val && analysis.prefix.val !== 'null') {
-        html += `<span class="hl-prefix" title="${analysis.prefix.mean}">${analysis.prefix.val}</span>`;
+function renderMorphologyDetails(item) {
+    if(!item.analysis) return '';
+    const a = item.analysis;
+    const hasP = a.prefix && a.prefix.val && a.prefix.val !== 'null';
+    const hasR = a.root && a.root.val && a.root.val !== 'null';
+    const hasS = a.suffix && a.suffix.val && a.suffix.val !== 'null';
+    
+    if(!hasP && !hasR && !hasS) return '';
+    
+    let html = `<div class="mt-4 pt-4 border-t border-white/10 relative z-10 text-left">
+        <h4 class="text-xs font-semibold text-slate-400 uppercase tracking-widest mb-3">Morphology Details</h4>
+        <dl class="grid grid-cols-1 sm:grid-cols-3 gap-4">`;
+        
+    if(hasP) {
+        html += `<div class="morph-box bg-blue-900/20 border border-blue-500/20 rounded-xl p-3 relative cursor-pointer transition-colors hover:bg-blue-800/30" onclick="toggleTooltip(this, event)">
+            <dt class="text-xs text-blue-300/70 uppercase mb-1 pointer-events-none">Prefix</dt>
+            <dd><span class="hl-prefix pointer-events-none">${a.prefix.val}</span></dd>
+            <div class="morph-tooltip absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-[200px] p-2 bg-slate-800 text-white text-sm rounded-lg shadow-xl opacity-0 invisible transition-all z-20 border border-white/10 pointer-events-none text-center">${a.prefix.mean || ''}</div>
+        </div>`;
     }
-    if(analysis.root && analysis.root.val && analysis.root.val !== 'null') {
-        html += `<span class="hl-root" title="${analysis.root.mean}">${analysis.root.val}</span>`;
+    if(hasR) {
+        html += `<div class="morph-box bg-purple-900/20 border border-purple-500/20 rounded-xl p-3 relative cursor-pointer transition-colors hover:bg-purple-800/30" onclick="toggleTooltip(this, event)">
+            <dt class="text-xs text-purple-300/70 uppercase mb-1 pointer-events-none">Root</dt>
+            <dd><span class="hl-root pointer-events-none">${a.root.val}</span></dd>
+            <div class="morph-tooltip absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-[200px] p-2 bg-slate-800 text-white text-sm rounded-lg shadow-xl opacity-0 invisible transition-all z-20 border border-white/10 pointer-events-none text-center">${a.root.mean || ''}</div>
+        </div>`;
     }
-    if(analysis.suffix && analysis.suffix.val && analysis.suffix.val !== 'null') {
-        html += `<span class="hl-suffix" title="${analysis.suffix.mean}">${analysis.suffix.val}</span>`;
+    if(hasS) {
+        html += `<div class="morph-box bg-pink-900/20 border border-pink-500/20 rounded-xl p-3 relative cursor-pointer transition-colors hover:bg-pink-800/30" onclick="toggleTooltip(this, event)">
+            <dt class="text-xs text-pink-300/70 uppercase mb-1 pointer-events-none">Suffix</dt>
+            <dd><span class="hl-suffix pointer-events-none">${a.suffix.val}</span></dd>
+            <div class="morph-tooltip absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-[200px] p-2 bg-slate-800 text-white text-sm rounded-lg shadow-xl opacity-0 invisible transition-all z-20 border border-white/10 pointer-events-none text-center">${a.suffix.mean || ''}</div>
+        </div>`;
     }
     
-    if(!html) return `<span class="font-bold text-white text-3xl">${wordObj.word}</span>`;
-    
-    return `<div class="text-3xl font-bold flex gap-1 items-baseline shadow-sm">${html}</div>`;
+    html += `</dl></div>`;
+    return html;
 }
+
+window.toggleTooltip = function(el, evt) {
+    if(evt) evt.stopPropagation();
+    
+    // Đóng tất cả các tooltip khác trước
+    document.querySelectorAll('.morph-tooltip').forEach(tooltip => {
+        if(tooltip.parentElement !== el) {
+            tooltip.classList.add('opacity-0', 'invisible');
+        }
+    });
+
+    // Bật tắt tooltip hiện tại
+    const tooltip = el.querySelector('.morph-tooltip');
+    if(tooltip) {
+        tooltip.classList.toggle('opacity-0');
+        tooltip.classList.toggle('invisible');
+    }
+};
+
+// Đóng toàn bộ tooltips khi người dùng bấm ra ngoài các box này
+document.addEventListener('click', (e) => {
+    if(!e.target.closest('.morph-box')) {
+        document.querySelectorAll('.morph-tooltip').forEach(tooltip => {
+            tooltip.classList.add('opacity-0', 'invisible');
+        });
+    }
+});
 
 function renderSearchResults(data) {
     if(data.length === 0) {
@@ -100,7 +147,7 @@ function renderSearchResults(data) {
             <div class="absolute top-0 right-0 w-32 h-32 bg-purple-500/10 rounded-full blur-2xl group-hover:bg-purple-500/20 transition-all"></div>
             <div class="flex justify-between items-start mb-6 relative z-10">
                 <div>
-                    ${renderWordMorphology(item)}
+                    <div class="text-3xl font-bold flex gap-1 items-baseline shadow-sm text-white">${item.word}</div>
                     <div class="text-purple-300/80 font-medium text-lg mt-2">${item.phonetic || ''}</div>
                 </div>
             </div>
@@ -122,6 +169,7 @@ function renderSearchResults(data) {
                 <h4 class="text-xs font-semibold text-slate-400 uppercase tracking-widest mb-2">Example</h4>
                 <p class="text-slate-300 italic text-lg opacity-90">"${item.example}"</p>
             </div>
+            ${renderMorphologyDetails(item)}
         </div>
     `).join('');
 }
@@ -181,7 +229,7 @@ function loadNextCard() {
     currentFlashcard = unplayedWords.pop();
     updateProgress();
     
-    [gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => {
+    [gameWord, gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => {
         input.value = '';
         input.classList.remove('input-success', 'input-error');
         input.disabled = false;
@@ -208,7 +256,7 @@ function loadNextCard() {
     `;
     
     // Auto-focus first input
-    gamePrefix.focus();
+    gameWord.focus();
 }
 
 function normalizeStr(str) {
@@ -225,6 +273,8 @@ btnCheck.addEventListener('click', () => {
     const expRoot = normalizeStr(analysis.root?.val);
     const expSuffix = normalizeStr(analysis.suffix?.val);
     
+    const expWord = normalizeStr(currentFlashcard.word);
+    const userWord = normalizeStr(gameWord.value);
     const userPrefix = normalizeStr(gamePrefix.value);
     const userRoot = normalizeStr(gameRoot.value);
     const userSuffix = normalizeStr(gameSuffix.value);
@@ -243,6 +293,7 @@ btnCheck.addEventListener('click', () => {
         }
     }
     
+    checkField(gameWord, userWord, expWord);
     checkField(gamePrefix, userPrefix, expPrefix);
     checkField(gameRoot, userRoot, expRoot);
     checkField(gameSuffix, userSuffix, expSuffix);
@@ -275,12 +326,12 @@ btnCheck.addEventListener('click', () => {
         btnCheck.classList.add('hidden');
         btnNext.classList.remove('hidden');
         
-        [gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => input.disabled = true);
+        [gameWord, gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => input.disabled = true);
         
         flashcardContent.innerHTML = `
             <div class="text-center animate-fade-in relative">
                 <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-48 h-48 bg-purple-500/20 rounded-full blur-3xl pointer-events-none"></div>
-                <div class="mb-4 flex justify-center scale-110">${renderWordMorphology(currentFlashcard)}</div>
+                <div class="mb-4 flex justify-center scale-110"><span class="font-bold text-white text-4xl">${currentFlashcard.word}</span></div>
                 <div class="text-purple-300/80 mb-8 font-medium text-xl">${currentFlashcard.phonetic || ''}</div>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div class="bg-slate-800/80 border border-white/5 shadow-inner rounded-3xl p-6 text-left">
@@ -292,6 +343,7 @@ btnCheck.addEventListener('click', () => {
                         <p class="text-lg text-slate-300 italic opacity-90">"${currentFlashcard.example}"</p>
                     </div>
                 </div>
+                ${renderMorphologyDetails(currentFlashcard)}
             </div>
         `;
     } else {
@@ -300,7 +352,7 @@ btnCheck.addEventListener('click', () => {
          gameResult.classList.add('bg-red-500/10', 'border-red-500/20');
          
          setTimeout(() => {
-             [gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => {
+             [gameWord, gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => {
                  input.classList.remove('input-error');
              });
          }, 600);
@@ -310,7 +362,7 @@ btnCheck.addEventListener('click', () => {
 btnNext.addEventListener('click', loadNextCard);
 
 // Handle Enter key for submit action
-[gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => {
+[gameWord, gamePrefix, gameRoot, gameSuffix, gameSynonym].forEach(input => {
     input.addEventListener('keypress', (e) => {
         if(e.key === 'Enter') {
             if(!btnCheck.classList.contains('hidden')) {
