@@ -1151,5 +1151,85 @@
                 "example": "The elderly population is often the most vulnerable during severe weather events."
             }
         ]
+    },
+    {
+        "word": "conventional",
+        "phonetic": "/kənˈvɛnʃənəl/",
+        "definitions": [
+            {
+                "meaning": "Thuộc về, dựa trên những quy ước, quy tắc, hoặc thói quen đã được chấp nhận rộng rãi và lâu đời trong một xã hội, nhóm người hoặc lĩnh vực nào đó. Nó thường ám chỉ sự tuân thủ những điều tiêu chuẩn, không mới lạ hay đột phá, mang tính truyền thống hoặc phổ thông.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "Tiền tố này có nghĩa là 'cùng nhau' hoặc 'với nhau' (together, with), nhấn mạnh sự đồng thuận hoặc việc thực hiện chung một điều gì đó."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ven- / vent-",
+                            "mean": "Gốc từ này liên quan đến 'đến' hoặc 'tới' (come), nhưng trong ngữ cảnh này, nó liên quan đến việc 'đồng ý' hoặc 'tập hợp lại' (agree, come together), hình thành nên ý nghĩa của việc thỏa thuận chung."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố này biến động từ thành danh từ, tạo ra ý nghĩa của 'hành động hoặc trạng thái của việc đồng ý/thỏa thuận' (the act or state of agreeing), tức là 'sự quy ước'."
+                        },
+                        {
+                            "val": "-al",
+                            "mean": "Hậu tố này biến danh từ 'convention' (quy ước) thành tính từ, mang nghĩa 'thuộc về' hoặc 'liên quan đến' sự quy ước đó."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "traditional",
+                    "standard",
+                    "customary",
+                    "orthodox"
+                ],
+                "example": "They chose a very conventional design for their wedding, sticking to established traditions."
+            }
+        ]
+    },
+    {
+        "word": "cooperative",
+        "phonetic": "/koʊˈɒpərətɪv/",
+        "definitions": [
+            {
+                "meaning": "Thể hiện sự sẵn lòng và mong muốn làm việc cùng người khác để đạt được mục tiêu chung; mang tính hợp tác và giúp đỡ lẫn nhau. Nó mô tả hành vi hoặc tính cách hòa đồng, không ích kỷ và có ý thức làm việc theo nhóm.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "co-",
+                            "mean": "Tiền tố này có nghĩa là 'cùng nhau' hoặc 'với nhau' (together, with), nhấn mạnh sự tham gia chung của nhiều bên."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "oper-",
+                            "mean": "Gốc từ này liên quan đến 'lao động', 'làm việc' (work), là trung tâm ý nghĩa của việc thực hiện hành động."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "Hậu tố này thường biến động từ thành tính từ hoặc danh từ, mang ý nghĩa 'thực hiện hành động của việc làm việc' (to work), trong trường hợp này là 'làm việc cùng nhau'."
+                        },
+                        {
+                            "val": "-ive",
+                            "mean": "Hậu tố này biến động từ thành tính từ, mang ý nghĩa 'có xu hướng' hoặc 'có tính chất' thực hiện hành động được mô tả bởi gốc từ, tức là 'có tính chất hợp tác'."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "helpful",
+                    "collaborative",
+                    "supportive",
+                    "accommodating"
+                ],
+                "example": "The team needed a more cooperative attitude from the new member to finish the project on time."
+            }
+        ]
     }
 ]
