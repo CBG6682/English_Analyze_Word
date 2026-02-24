@@ -2067,5 +2067,129 @@
                 "example": "His older brother had a great influence on his career choices."
             }
         ]
+    },
+    {
+        "word": "tourism",
+        "phonetic": "/ˈtʊərɪzəm/",
+        "definitions": [
+            {
+                "meaning": "Du lịch, ngành công nghiệp phục vụ khách du lịch, hoặc hoạt động đi lại giải trí, tham quan ở những nơi khác ngoài nơi ở thường xuyên.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "tour",
+                            "mean": "Chỉ hành động đi lại vòng quanh, đi dạo, hoặc đi đến một nơi nào đó để tham quan hoặc nghỉ ngơi."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ism",
+                            "mean": "Hậu tố này biến danh từ 'tour' thành một danh từ trừu tượng, chỉ hoạt động, phong trào, hoặc hệ thống liên quan đến 'tour' (du lịch)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "travel",
+                    "sightseeing"
+                ],
+                "example": "International tourism is a major source of income for many countries."
+            }
+        ]
+    },
+    {
+        "word": "regard",
+        "phonetic": "/rɪˈɡɑːrd/",
+        "definitions": [
+            {
+                "meaning": "Sự coi trọng, sự tôn trọng; hoặc hành động xem xét, đánh giá ai/cái gì theo một cách cụ thể; hoặc mối quan hệ, sự liên quan.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "re-",
+                            "mean": "Trong ngữ cảnh này, 're-' có thể được hiểu là nhấn mạnh hành động, hoặc chỉ sự lặp lại của hành động nhìn lại, xem xét kỹ lưỡng, từ đó dẫn đến sự đánh giá."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "gard",
+                            "mean": "Gốc từ liên quan đến việc nhìn, quan sát, hoặc chú ý đến điều gì đó."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "respect",
+                    "consideration",
+                    "esteem"
+                ],
+                "example": "She holds her grandmother in high regard for her wisdom."
+            }
+        ]
+    },
+    {
+        "word": "invest",
+        "phonetic": "/ɪnˈvest/",
+        "definitions": [
+            {
+                "meaning": "Đầu tư (bỏ tiền, thời gian, hoặc công sức vào một cái gì đó) với kỳ vọng nhận lại lợi ích hoặc kết quả tốt đẹp hơn trong tương lai.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố này mang nghĩa 'vào trong' hoặc 'mặc vào', ám chỉ hành động đặt hoặc bao bọc cái gì đó vào một đối tượng."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "vest",
+                            "mean": "Gốc từ có nghĩa là 'mặc áo choàng' hoặc 'bao phủ', gợi ý hành động khoác lên hoặc đặt nguồn lực (như tiền bạc) lên một dự án hoặc tài sản."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "finance",
+                    "commit",
+                    "fund"
+                ],
+                "example": "It is wise to invest in education for long-term success."
+            }
+        ]
+    },
+    {
+        "word": "accustom",
+        "phonetic": "/əˈkʌstəm/",
+        "definitions": [
+            {
+                "meaning": "Làm cho ai đó quen với một điều gì đó, tập cho ai đó quen với một thói quen, hoàn cảnh, hoặc môi trường mới.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ac-",
+                            "mean": "Tiền tố này có nghĩa là 'hướng tới' hoặc 'làm cho', mang sắc thái hướng hành động vào đối tượng."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "custom",
+                            "mean": "Chỉ thói quen, phong tục, hoặc điều gì đó đã trở nên quen thuộc qua sự lặp lại."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-en",
+                            "mean": "Hậu tố này biến danh từ/tính từ thành động từ, mang nghĩa là 'làm cho trở nên' (làm cho trở nên quen thuộc)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "habituate",
+                    "orient",
+                    "familiarize"
+                ],
+                "example": "It takes time to accustom yourself to the new working hours."
+            }
+        ]
     }
 ]

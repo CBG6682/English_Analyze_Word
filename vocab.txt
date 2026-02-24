@@ -63,3 +63,7 @@ relation
 concentrate
 stereotype
 influence
+tourism
+regard
+invest
+accustom

@@ -2,6 +2,13 @@ let vocabData = [];
 let unplayedWords = [];
 let currentFlashcard = null;
 
+// Virtual Scroll State
+let currentSearchData = [];
+let vsStartIndex = -1;
+let vsEndIndex = -1;
+const VS_ITEM_HEIGHT = 420; 
+const VS_BUFFER_ROWS = 4;
+
 // --- DOM Elements ---
 const loadingOverlay = document.getElementById('loadingOverlay');
 const errorOverlay = document.getElementById('errorOverlay');
@@ -78,6 +85,11 @@ function switchTab(activeTab, inactiveTab, showSection, hideSection) {
     
     showSection.classList.remove('hidden');
     showSection.classList.add('block');
+    
+    if (showSection === sectionSearch && typeof renderVirtualScroll === 'function') {
+        vsStartIndex = -1;
+        renderVirtualScroll();
+    }
 }
 
 tabSearch.addEventListener('click', () => switchTab(tabSearch, tabMinigame, sectionSearch, sectionMinigame));
@@ -159,17 +171,69 @@ document.addEventListener('click', (e) => {
 });
 
 function renderSearchResults(data) {
+    currentSearchData = data;
+    vsStartIndex = -1; // Force full re-render
+    renderVirtualScroll();
+}
+
+function renderVirtualScroll() {
+    if (sectionSearch.classList.contains('hidden') || !searchResults) return;
+    
+    const data = currentSearchData;
+    
     if(data.length === 0) {
         searchResults.innerHTML = `<div class="col-span-full text-center text-slate-400 py-12 text-lg">No words found matching your search.</div>`;
         return;
     }
+
+    const isMobile = window.innerWidth < 768;
+    const columns = isMobile ? 1 : 2;
+    const rowGap = 24; // gap-6 (1.5rem = 24px)
     
-    searchResults.innerHTML = data.map(item => `
+    const containerTop = searchResults.getBoundingClientRect().top + window.scrollY;
+    
+    // Relative scroll position within the list container
+    const relativeScrollY = Math.max(0, window.scrollY - containerTop);
+    
+    const rowHeight = VS_ITEM_HEIGHT + rowGap;
+    
+    const startRow = Math.max(0, Math.floor(relativeScrollY / rowHeight) - VS_BUFFER_ROWS);
+    const visibleRows = Math.ceil(window.innerHeight / rowHeight) + (VS_BUFFER_ROWS * 2);
+    const endRow = Math.min(Math.ceil(data.length / columns), startRow + visibleRows);
+    
+    const newStartIndex = startRow * columns;
+    const newEndIndex = Math.min(data.length, endRow * columns);
+    
+    if (vsStartIndex === newStartIndex && vsEndIndex === newEndIndex) {
+        return; // No change in visible items
+    }
+    
+    vsStartIndex = newStartIndex;
+    vsEndIndex = newEndIndex;
+    
+    const visibleData = data.slice(vsStartIndex, vsEndIndex);
+    
+    const topSpacerHeight = startRow * rowHeight;
+    const bottomRows = Math.ceil(data.length / columns) - endRow;
+    const bottomSpacerHeight = Math.max(0, bottomRows * rowHeight);
+    
+    let html = '';
+    
+    if (topSpacerHeight > 0) {
+        html += `<div style="height: ${topSpacerHeight}px; padding: 0; margin: 0; border: none; grid-column: 1 / -1;"></div>`;
+    }
+    
+    html += visibleData.map(item => `
         <div class="word-card bg-slate-800/60 backdrop-blur-md border border-white/10 rounded-3xl p-8 transition-all relative overflow-hidden group">
             <div class="absolute top-0 right-0 w-32 h-32 bg-purple-500/10 rounded-full blur-2xl group-hover:bg-purple-500/20 transition-all"></div>
             <div class="flex justify-between items-start mb-6 relative z-10">
                 <div>
-                    <div class="text-3xl font-bold flex gap-1 items-baseline shadow-sm text-white">${item.word}</div>
+                    <div class="text-3xl font-bold flex gap-2 items-baseline shadow-sm text-white">
+                        ${item.word}
+                        <button onclick="playSpeech('${item.word.replace(/'/g, "\\'")}', this)" class="text-purple-400 hover:text-purple-300 transition-colors focus:outline-none" title="Play pronunciation">
+                            <i class="fa-solid fa-volume-high text-xl"></i>
+                        </button>
+                    </div>
                     <div class="text-purple-300/80 font-medium text-lg mt-2">${item.phonetic || ''}</div>
                 </div>
             </div>
@@ -194,7 +258,37 @@ function renderSearchResults(data) {
             ${renderMorphologyDetails(item)}
         </div>
     `).join('');
+    
+    if (bottomSpacerHeight > 0) {
+        html += `<div style="height: ${bottomSpacerHeight}px; padding: 0; margin: 0; border: none; grid-column: 1 / -1;"></div>`;
+    }
+    
+    searchResults.innerHTML = html;
 }
+
+// Throttle events for virtual scroll
+let vsScrollTimeout;
+window.addEventListener('scroll', () => {
+    if (!sectionSearch.classList.contains('hidden')) {
+        if (!vsScrollTimeout) {
+            vsScrollTimeout = requestAnimationFrame(() => {
+                renderVirtualScroll();
+                vsScrollTimeout = null;
+            });
+        }
+    }
+});
+
+let vsResizeTimeout;
+window.addEventListener('resize', () => {
+    if (!sectionSearch.classList.contains('hidden')) {
+        clearTimeout(vsResizeTimeout);
+        vsResizeTimeout = setTimeout(() => {
+            vsStartIndex = -1;
+            renderVirtualScroll();
+        }, 150);
+    }
+});
 
 searchInput.addEventListener('input', (e) => {
     const q = e.target.value.toLowerCase().trim();
@@ -406,7 +500,12 @@ btnCheck.addEventListener('click', () => {
         flashcardContent.innerHTML = `
             <div class="text-center animate-fade-in relative">
                 <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-48 h-48 bg-purple-500/20 rounded-full blur-3xl pointer-events-none"></div>
-                <div class="mb-4 flex justify-center scale-110"><span class="font-bold text-white text-4xl">${currentFlashcard.word}</span></div>
+                <div class="mb-4 flex justify-center items-center gap-3 scale-110">
+                    <span class="font-bold text-white text-4xl">${currentFlashcard.word}</span>
+                    <button onclick="playSpeech('${currentFlashcard.word.replace(/'/g, "\\'")}', this)" class="text-purple-400 hover:text-purple-300 transition-colors focus:outline-none flex-shrink-0" title="Play pronunciation">
+                        <i class="fa-solid fa-volume-high text-2xl"></i>
+                    </button>
+                </div>
                 <div class="text-purple-300/80 mb-8 font-medium text-xl">${currentFlashcard.phonetic || ''}</div>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div class="bg-slate-800/80 border border-white/5 shadow-inner rounded-3xl p-6 text-left">
@@ -467,3 +566,192 @@ btnRestart.addEventListener('click', () => {
     celebrationOverlay.classList.add('hidden');
     initMinigame();
 });
+
+// --- Audio Playing ---
+window.currentOnlineAudio = null;
+let audioIframe = null;
+
+// Hàm tải Audio dưới dạng Blob để vượt qua bộ chặn Stream của Brave
+async function fetchAudioBlobUrl(url) {
+    const response = await fetch(url);
+    if (!response.ok) throw new Error("Network response was not ok");
+    const blob = await response.blob();
+    return URL.createObjectURL(blob);
+}
+
+// Hàm dọn dẹp Iframe Audio cũ
+function cleanupAudioIframe() {
+    if (audioIframe) {
+        audioIframe.remove();
+        audioIframe = null;
+    }
+}
+
+window.playSpeech = async function(word, btnEl) {
+    if (!word) return;
+    
+    // 1. Dọn dẹp tiến trình cũ
+    if (window.speechSynthesis) window.speechSynthesis.cancel();
+    if (window.currentOnlineAudio) {
+        window.currentOnlineAudio.pause();
+        window.currentOnlineAudio.currentTime = 0;
+    }
+    cleanupAudioIframe();
+    
+    // 2. Trạng thái Loading ban đầu
+    const originalContent = btnEl.innerHTML;
+    btnEl.innerHTML = '<i class="fa-solid fa-spinner fa-spin text-xl"></i>';
+    btnEl.classList.add('text-purple-300', 'pointer-events-none');
+    btnEl.classList.remove('text-purple-400');
+    
+    const resetUI = () => {
+        btnEl.innerHTML = originalContent;
+        btnEl.classList.remove('text-purple-300', 'text-purple-200', 'text-red-500', 'pointer-events-none', 'scale-110', 'animate-pulse');
+        btnEl.classList.add('text-purple-400');
+    };
+
+    const setPlayingUI = (isFallback) => {
+        btnEl.innerHTML = originalContent;
+        btnEl.classList.remove('pointer-events-none', 'text-purple-400');
+        // Nếu là fallback (Step 2, 3), dùng màu tím nhạt hơn (purple-200) để user nhận biết
+        if (isFallback) {
+            btnEl.classList.add('text-purple-200', 'scale-110', 'animate-pulse');
+        } else {
+            // Nếu là Step 1 (Dictionary API chuẩn), dùng màu tím sáng (purple-300)
+            btnEl.classList.add('text-purple-300', 'scale-110', 'animate-pulse');
+        }
+    };
+
+    const showErrorUI = () => {
+        btnEl.innerHTML = '<i class="fa-solid fa-triangle-exclamation text-xl"></i>';
+        btnEl.classList.add('text-red-500');
+        setTimeout(resetUI, 1500);
+    };
+
+    // ==========================================
+    // LÕI XỬ LÝ WATERFALL (THÁC NƯỚC 3 BƯỚC)
+    // ==========================================
+
+    // STEP 3: Web Speech API (Dự phòng cuối cùng)
+    const playStep3_WebSpeech = () => {
+        console.log("Step 3: Trying Web Speech API...");
+        
+        // Đảm bảo hàng chờ sạch sẽ trước khi chạy gỡ rối
+        if (window.speechSynthesis) window.speechSynthesis.cancel();
+        
+        if (!window.speechSynthesis || window.speechSynthesis.getVoices().length === 0) {
+            console.warn("Total Audio Failure: All methods exhausted.");
+            showErrorUI();
+            return;
+        }
+
+        setPlayingUI(true);
+
+        window.currentUtterance = new SpeechSynthesisUtterance(word);
+        const utterance = window.currentUtterance;
+        utterance.lang = 'en-GB';
+        utterance.rate = 0.9;
+        utterance.pitch = 1.0;
+        
+        const voices = window.speechSynthesis.getVoices();
+        // Ép lấy giọng đầu tiên làm default nếu không tìm ra chuẩn UK
+        const targetVoice = voices.find(v => v.name.includes('Google UK English') || v.name.includes('British English'))
+                         || voices.find(v => v.lang === 'en-GB' || v.lang === 'en_GB')
+                         || voices.find(v => v.lang.includes('en'))
+                         || voices[0];
+        
+        if (targetVoice) utterance.voice = targetVoice;
+
+        utterance.onend = resetUI;
+        utterance.onerror = (e) => {
+             console.warn("Step 3 Failed (Web Speech API):", e);
+             showErrorUI();
+        };
+
+        window.speechSynthesis.speak(utterance);
+    };
+
+    // STEP 2: Secret Audio Bridge (Bypass CORS bằng iframe)
+    const playStep2_GoogleTTSBridge = () => {
+        console.log("Step 2: Trying Secret Audio Bridge (Iframe Google TTS)...");
+        try {
+            const ttsUrl = `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(word)}&tl=en-gb&client=tw-ob`;
+            
+            // Tạo iframe ẩn đâm thủng CORS của Brave
+            audioIframe = document.createElement('iframe');
+            audioIframe.style.display = 'none';
+            audioIframe.sandbox = 'allow-same-origin allow-scripts';
+            audioIframe.src = ttsUrl;
+            
+            setPlayingUI(true);
+            document.body.appendChild(audioIframe);
+
+            // Vì iframe cross-origin không cho phép ta nghe ngóng event 'onended' bên trong nó,
+            // Ta sẽ giả định âm thanh dài khoảng 1.5 - 2 giây để tự động cleanup UI và nhổ iframe.
+            setTimeout(() => {
+                cleanupAudioIframe();
+                resetUI();
+            }, 2000);
+
+        } catch (e) {
+            console.warn("Step 2 Bridge Failed:", e);
+            cleanupAudioIframe();
+            playStep3_WebSpeech(); // Dội về Step 3
+        }
+    };
+
+    // STEP 1: Free Dictionary API (Ưu tiên Cao nhất)
+    try {
+        console.log("Step 1: Trying Free Dictionary API...");
+        const response = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
+        
+        if (!response.ok) {
+            throw new Error(`API returned ${response.status}`);
+        }
+        
+        const data = await response.json();
+        let targetAudioUrl = '';
+
+        if (Array.isArray(data) && data.length > 0) {
+             for (const item of data) {
+                  const phonetics = item.phonetics || [];
+                  for (const phone of phonetics) {
+                       if (phone.audio && phone.audio.trim() !== '') {
+                            if (!targetAudioUrl) targetAudioUrl = phone.audio;
+                            if (phone.audio.toLowerCase().includes('-uk') || phone.audio.toLowerCase().includes('uk.mp3')) {
+                                targetAudioUrl = phone.audio;
+                                break;
+                            }
+                       }
+                  }
+                  if (targetAudioUrl && targetAudioUrl.toLowerCase().includes('uk')) break;
+             }
+        }
+        
+        if (!targetAudioUrl) {
+            throw new Error("No MP3 link found in API response"); // Kích hoạt nhảy sang Step 2
+        }
+        
+        // Phát âm thanh Blob
+        const localBlobUrl = await fetchAudioBlobUrl(targetAudioUrl);
+        setPlayingUI(false); 
+
+        window.currentOnlineAudio = new Audio(localBlobUrl);
+        window.currentOnlineAudio.onended = () => {
+             resetUI();
+             URL.revokeObjectURL(localBlobUrl);
+        };
+        
+        window.currentOnlineAudio.onerror = (e) => {
+             console.warn("Step 1 Blob Audio Failed:", e);
+             URL.revokeObjectURL(localBlobUrl);
+             playStep2_GoogleTTSBridge(); // Lỗi file -> Dội về Step 2
+        };
+
+        await window.currentOnlineAudio.play();
+
+    } catch (err) {
+        console.warn("Step 1 Exception:", err.message);
+        playStep2_GoogleTTSBridge(); // Lỗi API hoặc không có Link -> Tự động chuyển Step 2
+    }
+};
