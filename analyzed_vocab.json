@@ -2176,12 +2176,7 @@
                             "mean": "Chỉ thói quen, phong tục, hoặc điều gì đó đã trở nên quen thuộc qua sự lặp lại."
                         }
                     ],
-                    "suffixes": [
-                        {
-                            "val": "-en",
-                            "mean": "Hậu tố này biến danh từ/tính từ thành động từ, mang nghĩa là 'làm cho trở nên' (làm cho trở nên quen thuộc)."
-                        }
-                    ]
+                    "suffixes": []
                 },
                 "synonyms": [
                     "habituate",
