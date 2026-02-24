@@ -1231,5 +1231,841 @@
                 "example": "The team needed a more cooperative attitude from the new member to finish the project on time."
             }
         ]
+    },
+    {
+        "word": "invidual",
+        "phonetic": "ˌɪndɪˈvɪdʒuəl",
+        "definitions": [
+            {
+                "meaning": "Từ này có lẽ là lỗi chính tả của 'individual' (cá nhân, riêng lẻ). Nếu hiểu là 'individual', nó dùng để chỉ một người duy nhất, không phải là một phần của nhóm hoặc tập thể; hoặc dùng để chỉ tính chất riêng biệt, độc lập của một thực thể.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "vidu",
+                            "mean": "Gốc từ liên quan đến việc chia cắt hoặc tách biệt, tạo nên ý nghĩa về sự riêng biệt, không bị chia nhỏ."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "al",
+                            "mean": "Hậu tố tính từ, biến danh từ gốc thành tính từ có nghĩa là 'thuộc về' hoặc 'có tính chất của' cái gốc đó."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "person",
+                    "single",
+                    "unique"
+                ],
+                "example": "Every individual has the right to express their opinion."
+            }
+        ]
+    },
+    {
+        "word": "personality",
+        "phonetic": "ˌpɜːrsəˈnæləti",
+        "definitions": [
+            {
+                "meaning": "Tổng hợp những đặc điểm, tính cách, cảm xúc và hành vi làm nên con người riêng biệt của một cá nhân, quyết định cách họ tương tác với thế giới.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "person",
+                            "mean": "Gốc từ chỉ một con người, một cá thể có ý thức."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ity",
+                            "mean": "Hậu tố danh từ hóa, dùng để chỉ một trạng thái, phẩm chất, hoặc tính chất của cái gốc (ở đây là tính cách của một người)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "character",
+                    "disposition",
+                    "nature"
+                ],
+                "example": "She has a warm and outgoing personality that attracts people."
+            }
+        ]
+    },
+    {
+        "word": "psychology",
+        "phonetic": "saɪˈkɒlədʒi",
+        "definitions": [
+            {
+                "meaning": "Ngành khoa học nghiên cứu về tâm trí và hành vi của con người hoặc động vật, bao gồm các quá trình tinh thần, cảm xúc và tương tác xã hội.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "psyche",
+                            "mean": "Gốc từ chỉ tâm trí, linh hồn, hoặc tinh thần của một người."
+                        },
+                        {
+                            "val": "logy",
+                            "mean": "Gốc từ chỉ sự nghiên cứu, khoa học hoặc học thuyết về một chủ đề nào đó."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "study of mind",
+                    "behavioral science"
+                ],
+                "example": "He decided to major in psychology to better understand human behavior."
+            }
+        ]
+    },
+    {
+        "word": "psychologist",
+        "phonetic": "saɪˈkɒlədʒɪst",
+        "definitions": [
+            {
+                "meaning": "Một chuyên gia được đào tạo trong lĩnh vực tâm lý học, người nghiên cứu, đánh giá và điều trị các vấn đề về hành vi và tâm lý con người.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "psyche",
+                            "mean": "Gốc từ chỉ tâm trí, tinh thần."
+                        },
+                        {
+                            "val": "log",
+                            "mean": "Gốc từ liên quan đến sự nghiên cứu hoặc chuyên môn."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ist",
+                            "mean": "Hậu tố danh từ chỉ người thực hành hoặc chuyên gia trong một lĩnh vực cụ thể (ở đây là tâm lý học)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "therapist",
+                    "counselor",
+                    "mental health professional"
+                ],
+                "example": "A clinical psychologist often works with patients dealing with anxiety disorders."
+            }
+        ]
+    },
+    {
+        "word": "anxious",
+        "phonetic": "ˈæŋkʃəs",
+        "definitions": [
+            {
+                "meaning": "Cảm thấy lo lắng, bồn chồn, hoặc sợ hãi về một điều gì đó sắp xảy ra hoặc chưa chắc chắn, thường đi kèm với sự căng thẳng về tinh thần.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "ang",
+                            "mean": "Gốc từ liên quan đến sự lo lắng, buồn bã hoặc đau khổ."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ous",
+                            "mean": "Hậu tố tính từ, có nghĩa là 'đầy rẫy', 'có tính chất của' cái gốc."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "worried",
+                    "nervous",
+                    "apprehensive"
+                ],
+                "example": "He felt anxious before his job interview because he wanted the position badly."
+            }
+        ]
+    },
+    {
+        "word": "conscientious",
+        "phonetic": "ˌkɒnʃiˈɛnʃəs",
+        "definitions": [
+            {
+                "meaning": "Có ý thức trách nhiệm cao, cẩn thận, kỹ lưỡng và làm việc hết sức mình để đảm bảo mọi thứ được thực hiện một cách đúng đắn và trung thực.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con",
+                            "mean": "Tiền tố nhấn mạnh sự cùng nhau, đầy đủ, ở đây nhấn mạnh sự tham gia hoặc nhận thức đầy đủ."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "scientia",
+                            "mean": "Gốc từ liên quan đến kiến thức hoặc sự nhận biết."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ous",
+                            "mean": "Hậu tố tính từ, cho thấy người đó có tính chất hoặc đặc điểm của cái gốc."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "diligent",
+                    "thorough",
+                    "dutiful"
+                ],
+                "example": "She is a conscientious student who always submits her assignments on time and checks them carefully."
+            }
+        ]
+    },
+    {
+        "word": "archievement-oriented",
+        "phonetic": "əˈtʃiːvmənt ˈɔːriəntɪd",
+        "definitions": [
+            {
+                "meaning": "Định hướng thành tích; tập trung cao độ vào việc đạt được các mục tiêu cụ thể, thường là thành công lớn hoặc kết quả vượt trội.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "achieve",
+                            "mean": "Gốc từ chỉ việc đạt được một mục tiêu thông qua nỗ lực hoặc kỹ năng."
+                        },
+                        {
+                            "val": "orient",
+                            "mean": "Gốc từ chỉ phương hướng, mục đích hoặc sự tập trung vào một điểm nào đó."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ment",
+                            "mean": "Hậu tố danh từ hóa, tạo ra danh từ chỉ hành động hoặc kết quả của động từ gốc (thành tựu)."
+                        },
+                        {
+                            "val": "ed",
+                            "mean": "Hậu tố tính từ hóa, chỉ trạng thái hoặc tính chất được xác định bởi từ gốc."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "goal-driven",
+                    "success-focused",
+                    "results-oriented"
+                ],
+                "example": "He is an achievement-oriented person who sets high standards for himself in his career."
+            }
+        ]
+    },
+    {
+        "word": "extrovert",
+        "phonetic": "ˈɛkstrəvɜːrt",
+        "definitions": [
+            {
+                "meaning": "Người hướng ngoại; người có tính cách hướng ra bên ngoài, thích tương tác xã hội, tìm kiếm sự kích thích từ môi trường xung quanh và cảm thấy tràn đầy năng lượng khi ở cùng người khác.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ex",
+                            "mean": "Tiền tố có nghĩa là 'ra ngoài', 'hướng ra xa khỏi'."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "vert",
+                            "mean": "Gốc từ có nghĩa là 'quay' hoặc 'xoay'."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ert",
+                            "mean": "Hậu tố danh từ, chỉ một người có đặc điểm nhất định."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "outgoing person",
+                    "social butterfly"
+                ],
+                "example": "As an extrovert, she thrives in large group settings and loves public speaking."
+            }
+        ]
+    },
+    {
+        "word": "introvert",
+        "phonetic": "ˈɪntrəvɜːrt",
+        "definitions": [
+            {
+                "meaning": "Người hướng nội; người có tính cách hướng vào bên trong, thích dành thời gian một mình để suy ngẫm, nạp lại năng lượng và cảm thấy thoải mái hơn trong môi trường yên tĩnh, ít tương tác xã hội.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "intro",
+                            "mean": "Tiền tố có nghĩa là 'bên trong', 'hướng vào'."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "vert",
+                            "mean": "Gốc từ có nghĩa là 'quay' hoặc 'xoay'."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ert",
+                            "mean": "Hậu tố danh từ, chỉ một người có đặc điểm nhất định."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "reserved person",
+                    "solitary person"
+                ],
+                "example": "He is an introvert who prefers reading a book over attending a crowded party."
+            }
+        ]
+    },
+    {
+        "word": "ambivert",
+        "phonetic": "ˈæmbɪvɜːrt",
+        "definitions": [
+            {
+                "meaning": "Người có cả đặc điểm hướng nội và hướng ngoại; người có thể linh hoạt điều chỉnh hành vi xã hội của mình tùy thuộc vào tình huống, không hoàn toàn nghiêng về bên nào.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ambi",
+                            "mean": "Tiền tố có nghĩa là 'cả hai', 'hai mặt'."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "vert",
+                            "mean": "Gốc từ có nghĩa là 'quay' hoặc 'xoay'."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ert",
+                            "mean": "Hậu tố danh từ, chỉ một người có đặc điểm nhất định."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "balanced personality"
+                ],
+                "example": "Ambiverts often make excellent salespeople because they know when to talk and when to listen."
+            }
+        ]
+    },
+    {
+        "word": "get along with",
+        "phonetic": "ɡɛt əˈlɒŋ wɪð",
+        "definitions": [
+            {
+                "meaning": "Hòa hợp, có mối quan hệ tốt đẹp, thân thiện với ai đó; không xảy ra xung đột hoặc bất đồng lớn trong giao tiếp và làm việc chung.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "get",
+                            "mean": "Động từ cơ bản chỉ hành động tiếp nhận hoặc di chuyển đến một trạng thái."
+                        },
+                        {
+                            "val": "along",
+                            "mean": "Trạng từ chỉ sự tiếp diễn hoặc đi cùng."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "be on good terms with",
+                    "harmonize with",
+                    "be friendly with"
+                ],
+                "example": "It's important for team members to get along with each other for projects to run smoothly."
+            }
+        ]
+    },
+    {
+        "word": "rebellious",
+        "phonetic": "rɪˈbɛliəs",
+        "definitions": [
+            {
+                "meaning": "Chống đối, nổi loạn; có xu hướng không tuân thủ các quy tắc, thẩm quyền, hoặc tiêu chuẩn xã hội đã được thiết lập, thường vì mong muốn tự do hoặc thay đổi.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "re",
+                            "mean": "Tiền tố có nghĩa là 'lại', 'một lần nữa', ở đây nhấn mạnh hành động lặp lại hoặc phản kháng."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "bell",
+                            "mean": "Gốc từ liên quan đến chiến tranh hoặc xung đột."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ious",
+                            "mean": "Hậu tố tính từ, chỉ người hoặc vật mang tính chất của cái gốc."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "defiant",
+                    "insubordinate",
+                    "mutinous"
+                ],
+                "example": "The rebellious teenager often questioned his parents' rules and refused to follow them."
+            }
+        ]
+    },
+    {
+        "word": "scholar",
+        "phonetic": "ˈskɒlər",
+        "definitions": [
+            {
+                "meaning": "Học giả; người có kiến thức sâu rộng và uyên bác trong một lĩnh vực cụ thể, thường thông qua nghiên cứu chuyên sâu hoặc học thuật.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "schol",
+                            "mean": "Gốc từ liên quan đến học tập, trường học hoặc học bổng."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ar",
+                            "mean": "Hậu tố danh từ, chỉ người có liên quan hoặc có đặc điểm của cái gốc."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "academic",
+                    "intellectual",
+                    "expert"
+                ],
+                "example": "The professor was renowned as a leading scholar in medieval history."
+            }
+        ]
+    },
+    {
+        "word": "validity",
+        "phonetic": "vəˈlɪdɪti",
+        "definitions": [
+            {
+                "meaning": "Tính hợp lệ; mức độ mà một lý lẽ, kết luận, hoặc phép đo lường phản ánh chính xác những gì nó được cho là đo lường; tính đúng đắn và có cơ sở.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "valid",
+                            "mean": "Gốc từ chỉ sức mạnh, tính hiệu lực hoặc sự đúng đắn về mặt logic."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ity",
+                            "mean": "Hậu tố danh từ hóa, biểu thị trạng thái hoặc chất lượng của cái gốc (tính hợp lệ)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "soundness",
+                    "reliability",
+                    "accuracy"
+                ],
+                "example": "The validity of the research findings depends heavily on the methods used in the study."
+            }
+        ]
+    },
+    {
+        "word": "methodology",
+        "phonetic": "ˌmɛθəˈdɒlədʒi",
+        "definitions": [
+            {
+                "meaning": "Hệ thống các phương pháp, quy tắc, và quy trình được áp dụng trong một lĩnh vực nghiên cứu hoặc một hoạt động cụ thể; cách thức tổ chức và tiến hành công việc.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "method",
+                            "mean": "Gốc từ chỉ một cách thức có hệ thống để làm điều gì đó."
+                        },
+                        {
+                            "val": "logy",
+                            "mean": "Gốc từ chỉ sự nghiên cứu hoặc học thuyết về một chủ đề."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "approach",
+                    "system",
+                    "procedure"
+                ],
+                "example": "The scientist carefully explained the methodology used to collect the environmental data."
+            }
+        ]
+    },
+    {
+        "word": "flaw",
+        "phonetic": "flɔː",
+        "definitions": [
+            {
+                "meaning": "Một khiếm khuyết, sai sót hoặc điểm yếu nhỏ trong một vật thể, ý tưởng, hoặc tính cách, làm giảm đi sự hoàn hảo hoặc độ tin cậy của nó.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "defect",
+                    "shortcoming",
+                    "imperfection"
+                ],
+                "example": "Despite its beauty, the painting had a noticeable flaw near the bottom corner."
+            }
+        ]
+    },
+    {
+        "word": "adequate",
+        "phonetic": "ˈædɪkwət",
+        "definitions": [
+            {
+                "meaning": "Đủ, đầy đủ; ở mức độ cần thiết hoặc chấp nhận được để đáp ứng một yêu cầu hoặc tiêu chuẩn nào đó, mặc dù có thể không hoàn hảo.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "aequus",
+                            "mean": "Gốc từ liên quan đến sự bình đẳng, sự cân bằng, hoặc sự thỏa mãn."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ate",
+                            "mean": "Hậu tố tính từ, chỉ trạng thái hoặc chất lượng được xác định bởi gốc."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "sufficient",
+                    "satisfactory",
+                    "acceptable"
+                ],
+                "example": "The budget allocated for the project was considered adequate to complete the initial phase."
+            }
+        ]
+    },
+    {
+        "word": "social",
+        "phonetic": "ˈsəʊʃl",
+        "definitions": [
+            {
+                "meaning": "Liên quan đến xã hội, cộng đồng hoặc các mối quan hệ giữa con người; mô tả những hành vi hoặc sự kiện liên quan đến sự tương tác giữa các cá nhân trong một nhóm.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "socius",
+                            "mean": "Gốc từ chỉ đồng minh, bạn đồng hành, hoặc cộng đồng."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "al",
+                            "mean": "Hậu tố tính từ, có nghĩa là 'thuộc về' hoặc 'có tính chất của' cái gốc."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "communal",
+                    "societal",
+                    "group"
+                ],
+                "example": "Volunteering is a great way to improve your social skills and meet new people."
+            }
+        ]
+    },
+    {
+        "word": "economic",
+        "phonetic": "ˌiːkəˈnɒmɪk",
+        "definitions": [
+            {
+                "meaning": "Thuộc về kinh tế; liên quan đến sự sản xuất, tiêu dùng và phân phối của cải vật chất hoặc dịch vụ trong một xã hội hoặc khu vực.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "oikos",
+                            "mean": "Gốc từ chỉ nhà cửa, gia đình, hoặc tài sản."
+                        },
+                        {
+                            "val": "nomos",
+                            "mean": "Gốc từ chỉ quy tắc, luật lệ, hoặc quản lý."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ic",
+                            "mean": "Hậu tố tính từ, có nghĩa là 'liên quan đến' hoặc 'có tính chất của'."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "financial",
+                    "monetary",
+                    "fiscal"
+                ],
+                "example": "The government announced new policies to stimulate economic growth in the region."
+            }
+        ]
+    },
+    {
+        "word": "conclusive",
+        "phonetic": "kənˈkluːsɪv",
+        "definitions": [
+            {
+                "meaning": "Mang tính quyết định, chắc chắn; đủ sức thuyết phục hoặc làm cho một vấn đề được giải quyết hoàn toàn, không còn nghi ngờ gì nữa.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con",
+                            "mean": "Tiền tố có nghĩa là 'cùng nhau' hoặc nhấn mạnh hành động, ở đây nhấn mạnh sự hoàn tất."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "clude",
+                            "mean": "Gốc từ liên quan đến việc đóng lại hoặc kết thúc."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "ive",
+                            "mean": "Hậu tố tính từ, chỉ khả năng hoặc tính chất của việc làm một điều gì đó (ở đây là khả năng kết thúc một cuộc tranh luận)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "decisive",
+                    "definitive",
+                    "settled"
+                ],
+                "example": "The DNA evidence provided conclusive proof of his guilt."
+            }
+        ]
+    },
+    {
+        "word": "associate",
+        "phonetic": "/əˈsoʊʃieɪt/",
+        "definitions": [
+            {
+                "meaning": "Liên kết, kết hợp, hoặc trở thành bạn đồng hành với ai đó hoặc cái gì đó. Từ này thường chỉ sự gần gũi về mặt tinh thần, nghề nghiệp, hoặc mối quan hệ xã hội.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "as- (ad-)",
+                            "mean": "Mang nghĩa là 'đến gần', 'hướng tới', hoặc 'cùng nhau', nhấn mạnh hành động hướng tới hoặc kết nối với cái gì đó."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "soci",
+                            "mean": "Bắt nguồn từ ý nghĩa cốt lõi là 'bạn bè', 'đồng hành', hoặc 'xã hội'. Gốc từ này xác định khái niệm về sự kết nối hoặc liên minh."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "Là một hậu tố thường được sử dụng để tạo động từ, mang ý nghĩa 'thực hiện hành động' hoặc 'làm cho trở thành', ở đây là hành động kết nối hoặc liên minh."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "connect",
+                    "link",
+                    "partner"
+                ],
+                "example": "She tends to associate spicy food with summer holidays."
+            }
+        ]
+    },
+    {
+        "word": "intuitive",
+        "phonetic": "/ɪnˈtuːɪtɪv/",
+        "definitions": [
+            {
+                "meaning": "Thuộc về khả năng hiểu hoặc biết điều gì đó ngay lập tức mà không cần phân tích hay suy luận có ý thức; có khả năng nắm bắt bản chất sự việc một cách nhanh chóng và tự nhiên.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Mang nghĩa là 'vào bên trong' hoặc 'về phía', nhấn mạnh việc đi sâu vào bên trong để nhận biết điều gì đó."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "tu",
+                            "mean": "Gốc từ này liên quan đến ý nghĩa 'xem xét', 'suy nghĩ', hoặc 'nhận biết'. Nó chỉ quá trình nhận thức bên trong."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ive",
+                            "mean": "Là một hậu tố tính từ, mang ý nghĩa 'có khuynh hướng' hoặc 'liên quan đến', mô tả tính chất có khả năng trực giác."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "instinctive",
+                    "innate",
+                    "perceptive"
+                ],
+                "example": "He has an intuitive understanding of how the complex machine works."
+            }
+        ]
+    },
+    {
+        "word": "relation",
+        "phonetic": "/rɪˈleɪʃn/",
+        "definitions": [
+            {
+                "meaning": "Mối quan hệ, sự kết nối hoặc sự liên quan giữa hai hoặc nhiều người, vật, hoặc ý tưởng; cách thức mà các sự vật được liên kết với nhau.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "re-",
+                            "mean": "Trong ngữ cảnh này, mang ý nghĩa 'lại', 'trở lại', hoặc 'với nhau', nhấn mạnh việc đưa các yếu tố trở lại để thiết lập một sự kết nối."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "lat",
+                            "mean": "Gốc từ liên quan đến ý nghĩa 'mang', 'kéo', hoặc 'liên kết'. Nó định nghĩa khái niệm cơ bản về sự kết nối hoặc liên đới."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Là một hậu tố danh từ, chỉ hành động, quá trình, hoặc trạng thái của việc liên kết hoặc kết nối."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "connection",
+                    "link",
+                    "association"
+                ],
+                "example": "The report examined the relation between diet and health."
+            }
+        ]
+    },
+    {
+        "word": "concentrate",
+        "phonetic": "/ˈkɒnsəntreɪt/",
+        "definitions": [
+            {
+                "meaning": "Tập trung sự chú ý, nỗ lực, hoặc năng lượng vào một điểm, một hoạt động, hoặc một suy nghĩ duy nhất, loại bỏ mọi sự phân tâm.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "Mang nghĩa là 'cùng nhau' hoặc 'hoàn toàn', nhấn mạnh việc tập hợp tất cả các yếu tố lại với nhau."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "centr",
+                            "mean": "Gốc từ liên quan đến ý nghĩa 'trung tâm'. Nó xác định ý tưởng về việc hướng mọi thứ về một điểm trung tâm."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "Là một hậu tố động từ, có nghĩa là 'thực hiện hành động', ở đây là hành động đưa mọi thứ về trung tâm hoặc tập trung sự chú ý."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "focus",
+                    "center",
+                    "intensify"
+                ],
+                "example": "You need to concentrate harder on your studies if you want to pass the exam."
+            }
+        ]
+    },
+    {
+        "word": "stereotype",
+        "phonetic": "/ˈstɛriətaɪp/",
+        "definitions": [
+            {
+                "meaning": "Một quan niệm hoặc hình ảnh cố định, đơn giản hóa quá mức, thường mang tính tiêu cực, được gán cho một nhóm người hoặc một loại sự vật nhất định, mà không tính đến sự khác biệt cá nhân.",
+                "analysis": {
+                    "prefixes": [
+                        []
+                    ],
+                    "roots": [
+                        {
+                            "val": "stereo",
+                            "mean": "Mang ý nghĩa là 'rắn', 'chắc chắn', hoặc 'bề mặt phẳng'. Trong từ này, nó ám chỉ một hình ảnh cố định, không thay đổi."
+                        },
+                        {
+                            "val": "type",
+                            "mean": "Có nghĩa là 'hình mẫu', 'kiểu', hoặc 'dấu ấn'. Nó chỉ ra một khuôn mẫu cụ thể được áp dụng."
+                        }
+                    ],
+                    "suffixes": [
+                        []
+                    ]
+                },
+                "synonyms": [
+                    "cliché",
+                    "generalization",
+                    "oversimplification"
+                ],
+                "example": "It is important to avoid relying on stereotypes when meeting new people."
+            }
+        ]
+    },
+    {
+        "word": "influence",
+        "phonetic": "/ˈɪnfluəns/",
+        "definitions": [
+            {
+                "meaning": "Sức mạnh hoặc khả năng tác động đến sự phát triển, hành vi, hoặc kết quả của người khác hoặc sự vật khác, thường là một cách gián tiếp hoặc tinh tế.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Mang ý nghĩa 'vào bên trong' hoặc 'lên trên', ám chỉ việc chảy vào hoặc thấm vào để tạo ra sự thay đổi."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "flu",
+                            "mean": "Gốc từ liên quan đến ý nghĩa 'chảy', 'dòng chảy'. Nó gợi lên hình ảnh một thứ gì đó di chuyển và tác động đến môi trường xung quanh."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ence",
+                            "mean": "Là một hậu tố danh từ, chỉ trạng thái, chất lượng, hoặc hành động, ở đây là trạng thái của việc tác động hoặc thay đổi."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "sway",
+                    "impact",
+                    "control"
+                ],
+                "example": "His older brother had a great influence on his career choices."
+            }
+        ]
     }
 ]
