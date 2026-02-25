@@ -14,10 +14,13 @@ if not API_KEY:
 
 client = genai.Client(api_key=API_KEY)
 
-def get_latest_flash_model():
+def get_latest_flash_model(model_name=None):
     try:
+        if model_name:
+            return model_name
         models = client.models.list()
         flash_models = [m.name for m in models if 'flash' in m.name.lower()]
+        print(f"All version can choose: {flash_models}")
         for version in ['gemini-2.5', 'gemini-2.0', 'gemini-1.5']:
             v_models = [m for m in flash_models if version in m]
             if v_models:
@@ -54,19 +57,19 @@ def analyze_batch(word_batch):
                         "prefixes": [
                             {{
                                 "val": "string",
-                                "mean": "Giải thích ý nghĩa mà tiền tố này đóng góp vào toàn bộ từ, bao gồm nghĩa chính và nghĩa mở rộng nếu có."
+                                "mean": "Giải thích ý nghĩa mà tiền tố này đóng góp vào toàn bộ từ, bao gồm nghĩa chính và nghĩa mở rộng nếu có, thêm 1 ví dụ là 1 từ khác có cùng tiền tố này sử dụng phổ biến."
                             }}
                         ],
                         "roots": [
                             {{
                                 "val": "string",
-                                "mean": "Giải thích ý nghĩa cốt lõi của gốc từ và cách nó quyết định nghĩa trung tâm của từ."
+                                "mean": "Giải thích ý nghĩa cốt lõi của gốc từ và cách nó quyết định nghĩa trung tâm của từ, thêm 1 ví dụ là 1 từ khác có cùng gốc từ này sử dụng phổ biến."
                             }}
                         ],
                         "suffixes": [
                             {{
                                 "val": "string",
-                                "mean": "Giải thích vai trò của hậu tố trong việc biến đổi nghĩa hoặc từ loại của từ."
+                                "mean": "Giải thích vai trò của hậu tố trong việc biến đổi nghĩa hoặc từ loại của từ, thêm 1 ví dụ là 1 từ khác có cùng hậu tố này sử dụng phổ biến."
                             }}
                         ]
                     }},
