@@ -2999,5 +2999,324 @@
                 "example": "The new software update is very buggy; it keeps crashing."
             }
         ]
+    },
+    {
+        "word": "tremendous",
+        "phonetic": "/trɪˈmɛndəs/",
+        "definitions": [
+            {
+                "meaning": "Rất lớn, phi thường, kinh khủng (theo nghĩa tích cực hoặc tiêu cực, nhưng thường được dùng để chỉ sự vĩ đại, vượt trội về kích thước, số lượng, mức độ, hoặc tác động, gây ngạc nhiên hoặc ấn tượng mạnh mẽ).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "tremend",
+                            "mean": "Gốc từ này có nghĩa là 'gây run rẩy, gây kinh hãi hoặc kinh ngạc'. Nó đóng góp vào nghĩa trung tâm của từ là sự vĩ đại hoặc cường độ vượt quá mức bình thường, khiến người ta phải ngạc nhiên hoặc choáng ngợp. Ví dụ khác có cùng gốc từ này: 'tremor' (sự rung chuyển, chấn động nhỏ)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ous",
+                            "mean": "Hậu tố này được dùng để tạo thành tính từ, mang ý nghĩa 'đầy đủ', 'có tính chất của'. Nó biến gốc từ thành một tính từ miêu tả một thuộc tính hoặc trạng thái. Ví dụ khác có cùng hậu tố này: 'famous' (nổi tiếng)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "enormous",
+                    "huge",
+                    "immense",
+                    "colossal",
+                    "gigantic"
+                ],
+                "example": "The company made a tremendous profit last quarter due to increased demand."
+            }
+        ]
+    },
+    {
+        "word": "satisfactory",
+        "phonetic": "/ˌsætɪsˈfæktəri/",
+        "definitions": [
+            {
+                "meaning": "Đạt yêu cầu, thỏa đáng, đủ tốt, ở mức chấp nhận được; không có gì đáng phàn nàn hoặc chỉ trích, nhưng cũng không quá xuất sắc hay nổi bật.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "satisfy",
+                            "mean": "Gốc từ này có nghĩa là 'làm hài lòng, thỏa mãn, làm cho đủ'. Nó đóng góp vào nghĩa trung tâm của từ là sự đủ đầy, đạt được hoặc đáp ứng được một mong muốn, tiêu chuẩn. Ví dụ khác có cùng gốc từ này: 'satisfaction' (sự hài lòng)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ory",
+                            "mean": "Hậu tố này được dùng để tạo thành tính từ (hoặc danh từ), mang ý nghĩa 'có tính chất của', 'liên quan đến', 'gây ra'. Nó biến động từ thành tính từ miêu tả khả năng hoặc kết quả của hành động đó. Ví dụ khác có cùng hậu tố này: 'compulsory' (bắt buộc)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "acceptable",
+                    "adequate",
+                    "sufficient",
+                    "decent"
+                ],
+                "example": "The results of the experiment were satisfactory, but not groundbreaking enough for publication."
+            }
+        ]
+    },
+    {
+        "word": "abuse",
+        "phonetic": "/əˈbjuːs/ (danh từ), /əˈbjuːz/ (động từ)",
+        "definitions": [
+            {
+                "meaning": "(Danh từ) Sự lạm dụng, ngược đãi; sự sử dụng sai mục đích hoặc quá mức một cách có hại; hành vi đối xử tàn tệ, gây tổn thương về thể chất, tinh thần hoặc tình dục. (Động từ) Lạm dụng, ngược đãi.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ab-",
+                            "mean": "Tiền tố này có nghĩa là 'đi khỏi', 'xa rời', 'sai trái'. Nó thể hiện sự lệch lạc khỏi chuẩn mực, mục đích đúng đắn hoặc sự tiêu cực, mang tính đối lập. Ví dụ khác có cùng tiền tố này: 'abnormal' (bất thường)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "use",
+                            "mean": "Gốc từ này có nghĩa là 'sử dụng, dùng'. Nó đóng góp vào nghĩa trung tâm của từ là hành động áp dụng một cái gì đó vào mục đích nào đó. Khi kết hợp với 'ab-', nó chuyển thành ý nghĩa sử dụng sai hoặc quá mức. Ví dụ khác có cùng gốc từ này: 'useful' (hữu ích)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "misuse",
+                    "maltreatment",
+                    "mistreatment",
+                    "exploitation"
+                ],
+                "example": "Child abuse is a serious crime that has devastating long-term consequences on victims."
+            }
+        ]
+    },
+    {
+        "word": "strategy",
+        "phonetic": "/ˈstrætədʒi/",
+        "definitions": [
+            {
+                "meaning": "Chiến lược; một kế hoạch tổng thể, được thiết kế cẩn thận để đạt được một mục tiêu dài hạn hoặc lớn, thường bao gồm các phương pháp và hành động cụ thể để đạt được lợi thế hoặc thành công.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "strateg",
+                            "mean": "Gốc từ này liên quan đến 'tướng quân', 'việc chỉ huy quân đội' hoặc 'lập kế hoạch chiến tranh'. Nó đóng góp vào nghĩa trung tâm của từ là sự lãnh đạo, việc lên kế hoạch một cách khôn ngoan và có hệ thống để đạt được mục tiêu quan trọng. Ví dụ khác có cùng gốc từ này: 'strategic' (mang tính chiến lược)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-y",
+                            "mean": "Hậu tố này thường được dùng để tạo thành danh từ, thường chỉ một trạng thái, một chất lượng, một hoạt động hoặc một kết quả. Nó biến một khái niệm hoặc một tính chất thành một danh từ trừu tượng. Ví dụ khác có cùng hậu tố này: 'economy' (nền kinh tế)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "plan",
+                    "tactic",
+                    "approach",
+                    "methodology"
+                ],
+                "example": "The company developed a new marketing strategy to boost sales in the coming year."
+            }
+        ]
+    },
+    {
+        "word": "cornerstone",
+        "phonetic": "/ˈkɔːrnərstoʊn/",
+        "definitions": [
+            {
+                "meaning": "Nền tảng, trụ cột, yếu tố cốt lõi quan trọng nhất mà mọi thứ khác phụ thuộc vào hoặc được xây dựng dựa trên; theo nghĩa đen, là viên đá tảng đầu tiên được đặt ở góc một công trình, từ đó xác định hướng và vị trí của toàn bộ cấu trúc.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "corner",
+                            "mean": "Gốc từ này có nghĩa là 'góc'. Nó đóng góp vào nghĩa là một điểm giao nhau, một vị trí quan trọng định hình hoặc là một phần thiết yếu của một cấu trúc. Ví dụ khác có cùng gốc từ này: 'cornerback' (hậu vệ góc trong bóng đá)."
+                        },
+                        {
+                            "val": "stone",
+                            "mean": "Gốc từ này có nghĩa là 'đá'. Nó đóng góp vào nghĩa là một vật liệu cứng cáp, vững chắc, biểu tượng cho nền tảng kiên cố, không thể thiếu. Ví dụ khác có cùng gốc từ này: 'stone age' (thời kỳ đồ đá)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "foundation",
+                    "pillar",
+                    "linchpin",
+                    "bedrock"
+                ],
+                "example": "Trust and communication are the cornerstones of any healthy and lasting relationship."
+            }
+        ]
+    },
+    {
+        "word": "criticism",
+        "phonetic": "/ˈkrɪtɪsɪzəm/",
+        "definitions": [
+            {
+                "meaning": "Sự chỉ trích, phê bình; sự đánh giá phân tích kỹ lưỡng về ưu nhược điểm của một tác phẩm, ý tưởng, hành động hoặc con người, có thể mang tính xây dựng hoặc tiêu cực.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "critic",
+                            "mean": "Gốc từ này có nghĩa là 'người phê bình, người đánh giá', liên quan đến khả năng phân tích, đánh giá, xem xét một cách cẩn thận. Nó đóng góp vào nghĩa trung tâm của từ là hành động thẩm định, nhận xét. Ví dụ khác có cùng gốc từ này: 'critical' (mang tính phê phán, quan trọng)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ism",
+                            "mean": "Hậu tố này được dùng để tạo thành danh từ, thường chỉ một hệ thống niềm tin, một học thuyết, một thực hành, hoặc kết quả của một hành động. Nó biến một khái niệm hoặc một người thành một danh từ trừu tượng chỉ hành động hoặc kết quả đó. Ví dụ khác có cùng hậu tố này: 'socialism' (chủ nghĩa xã hội)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "critique",
+                    "censure",
+                    "reproach",
+                    "evaluation"
+                ],
+                "example": "The director received a lot of criticism for his latest film, especially for its slow pacing."
+            }
+        ]
+    },
+    {
+        "word": "undermine",
+        "phonetic": "/ˌʌndərˈmaɪn/",
+        "definitions": [
+            {
+                "meaning": "Làm suy yếu, phá hoại ngầm, làm xói mòn dần dần một cách tinh vi hoặc gián tiếp, thường là từ bên trong hoặc từ bên dưới; (nghĩa đen) đào móng, đào dưới lòng đất để làm sụp đổ một công trình.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "under-",
+                            "mean": "Tiền tố này có nghĩa là 'dưới', 'bên dưới'; 'ngầm', 'ít hơn', 'kém hơn'. Nó gợi ý một hành động diễn ra bên dưới bề mặt hoặc một cách không trực tiếp, nhằm làm giảm giá trị, sức mạnh, hoặc hiệu quả của điều gì đó. Ví dụ khác có cùng tiền tố này: 'underwater' (dưới nước)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "mine",
+                            "mean": "Gốc từ này có nghĩa là 'đào, khai thác'; 'hầm mỏ'. Nó đóng góp vào nghĩa trung tâm của từ là hành động đào sâu vào, khai thác, hoặc làm suy yếu cấu trúc bằng cách đào bên dưới. Ví dụ khác có cùng gốc từ này: 'miner' (thợ mỏ)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "weaken",
+                    "erode",
+                    "sabotage",
+                    "subvert"
+                ],
+                "example": "Constant complaints and negativity can undermine a team's morale and productivity."
+            }
+        ]
+    },
+    {
+        "word": "cohabitation",
+        "phonetic": "/ˌkoʊˌhæbɪˈteɪʃən/",
+        "definitions": [
+            {
+                "meaning": "Sự sống chung, chung sống (đặc biệt là của một cặp đôi không kết hôn); sự chung sống của các loài động vật hoặc thực vật trong cùng một môi trường hoặc khu vực.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "co-",
+                            "mean": "Tiền tố này có nghĩa là 'cùng', 'chung', 'hợp tác'. Nó gợi ý sự đồng thời, cùng nhau hoặc ở chung với nhau. Ví dụ khác có cùng tiền tố này: 'coexist' (cùng tồn tại)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "habitat",
+                            "mean": "Gốc từ này có nghĩa là 'nơi ở, môi trường sống', liên quan đến hành động cư trú, sinh sống. Nó đóng góp vào nghĩa trung tâm của từ là sự hiện diện hoặc sự ở lại tại một nơi. Ví dụ khác có cùng gốc từ này: 'habitation' (sự cư trú, chỗ ở)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố này được dùng để tạo thành danh từ, thường chỉ một hành động, một quá trình, hoặc một kết quả của hành động đó. Nó biến động từ hoặc gốc từ thành danh từ trừu tượng. Ví dụ khác có cùng hậu tố này: 'action' (hành động)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "living together",
+                    "domestic partnership",
+                    "communal living"
+                ],
+                "example": "Cohabitation before marriage is becoming more common in many Western countries."
+            }
+        ]
+    },
+    {
+        "word": "instability",
+        "phonetic": "/ˌɪnstəˈbɪləti/",
+        "definitions": [
+            {
+                "meaning": "Sự không ổn định, bất ổn; trạng thái dễ thay đổi, dễ đổ vỡ, không vững chắc hoặc không thể duy trì trạng thái cân bằng.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố này có nghĩa là 'không', 'trái ngược với'. Nó biểu thị sự phủ định hoặc sự đối lập của một tính chất hoặc trạng thái. Ví dụ khác có cùng tiền tố này: 'inactive' (không hoạt động)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "stabil",
+                            "mean": "Gốc từ này có nghĩa là 'vững chắc, kiên cố, ổn định'. Nó đóng góp vào nghĩa trung tâm của từ là sự vững chắc, khả năng đứng vững hoặc duy trì trạng thái. Ví dụ khác có cùng gốc từ này: 'stable' (ổn định, vững chắc)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ity",
+                            "mean": "Hậu tố này được dùng để tạo thành danh từ, thường chỉ một trạng thái hoặc một chất lượng. Nó biến một tính từ thành danh từ trừu tượng, thể hiện tính chất đó. Ví dụ khác có cùng hậu tố này: 'flexibility' (sự linh hoạt)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "unsteadiness",
+                    "volatility",
+                    "precariousness",
+                    "unpredictability"
+                ],
+                "example": "The country is facing political instability after the recent unexpected changes in government."
+            }
+        ]
+    },
+    {
+        "word": "perceive",
+        "phonetic": "/pərˈsiːv/",
+        "definitions": [
+            {
+                "meaning": "Nhận thức, lĩnh hội, thấu hiểu; cảm nhận được bằng các giác quan hoặc bằng trí tuệ; coi cái gì là, cho cái gì là một cách chủ quan hoặc khách quan.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "per-",
+                            "mean": "Tiền tố này có nghĩa là 'xuyên qua', 'hoàn toàn', 'triệt để'. Nó gợi ý một hành động được thực hiện một cách đầy đủ, thấu đáo hoặc xuyên suốt. Ví dụ khác có cùng tiền tố này: 'perfect' (hoàn hảo)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ceive",
+                            "mean": "Gốc từ này có nghĩa là 'nắm bắt, lấy, giữ'. Nó đóng góp vào nghĩa trung tâm của từ là hành động nắm bắt thông tin, ý tưởng hoặc cảm giác, lĩnh hội một cách tinh thần hoặc giác quan. Ví dụ khác có cùng gốc từ này: 'receive' (nhận được)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "discern",
+                    "apprehend",
+                    "recognize",
+                    "understand"
+                ],
+                "example": "I perceived a change in her mood as soon as she walked into the room."
+            }
+        ]
     }
 ]
