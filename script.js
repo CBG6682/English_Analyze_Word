@@ -6,8 +6,8 @@ let currentFlashcard = null;
 let currentSearchData = [];
 let vsStartIndex = -1;
 let vsEndIndex = -1;
-const VS_ITEM_HEIGHT = 420; 
-const VS_BUFFER_ROWS = 8;
+const VS_ITEM_HEIGHT = 600;
+const VS_BUFFER_ROWS = 10;
 
 // --- DOM Elements ---
 const loadingOverlay = document.getElementById('loadingOverlay');
@@ -213,9 +213,9 @@ function renderVirtualScroll() {
     
     const visibleData = data.slice(vsStartIndex, vsEndIndex);
     
-    const topSpacerHeight = startRow * rowHeight;
+    const topSpacerHeight = startRow > 0 ? (startRow * rowHeight - rowGap) : 0;
     const bottomRows = Math.ceil(data.length / columns) - endRow;
-    const bottomSpacerHeight = Math.max(0, bottomRows * rowHeight);
+    const bottomSpacerHeight = bottomRows > 0 ? (bottomRows * rowHeight - rowGap) : 0;
     
     let html = '';
     
@@ -224,7 +224,7 @@ function renderVirtualScroll() {
     }
     
     html += visibleData.map(item => `
-        <div class="word-card bg-slate-800/60 backdrop-blur-md border border-white/10 rounded-3xl p-8 transition-all relative overflow-hidden group">
+        <div class="word-card flex flex-col bg-slate-800/60 backdrop-blur-md border border-white/10 rounded-3xl p-8 transition-all relative overflow-hidden group">
             <div class="absolute top-0 right-0 w-32 h-32 bg-purple-500/10 rounded-full blur-2xl group-hover:bg-purple-500/20 transition-all"></div>
             <div class="flex justify-between items-start mb-6 relative z-10">
                 <div>
@@ -255,7 +255,9 @@ function renderVirtualScroll() {
                 <h4 class="text-xs font-semibold text-slate-400 uppercase tracking-widest mb-2">Example</h4>
                 <p class="text-slate-300 italic text-lg opacity-90">"${item.example}"</p>
             </div>
-            ${renderMorphologyDetails(item)}
+            <div class="mt-auto w-full">
+                ${renderMorphologyDetails(item)}
+            </div>
         </div>
     `).join('');
     
