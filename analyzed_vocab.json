@@ -2356,5 +2356,386 @@
                 "example": "The dominant species in this ecosystem has significantly altered the local vegetation."
             }
         ]
+    },
+    {
+        "word": "emphasise",
+        "phonetic": "/ˈemfəsaɪz/",
+        "definitions": [
+            {
+                "meaning": "Nhấn mạnh, làm nổi bật một điều gì đó để người khác chú ý hoặc hiểu rõ tầm quan trọng của nó; thường thông qua giọng điệu, cử chỉ hoặc cách trình bày đặc biệt.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "em-",
+                            "mean": "Tiền tố này có nghĩa là 'trong' hoặc 'làm cho trở nên', thể hiện hành động đưa một cái gì đó vào trạng thái được nhấn mạnh."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "phasis",
+                            "mean": "Gốc từ này liên quan đến 'sự xuất hiện' hoặc 'sự biểu hiện', làm nền tảng cho ý nghĩa 'làm cho điều gì đó lộ rõ ra'."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ise",
+                            "mean": "Hậu tố này biến danh từ hoặc tính từ thành động từ, chỉ hành động thực hiện việc nhấn mạnh."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "stress",
+                    "highlight",
+                    "underscore"
+                ],
+                "example": "The speaker chose to emphasise the importance of teamwork during the presentation."
+            }
+        ]
+    },
+    {
+        "word": "entitle",
+        "phonetic": "/ɪnˈtaɪtl/",
+        "definitions": [
+            {
+                "meaning": "Trao quyền hoặc cho phép ai đó được hưởng một điều gì đó (quyền lợi, lợi ích); hoặc đặt tên cho một tác phẩm (sách, phim, bài báo) bằng một tên cụ thể.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "en-",
+                            "mean": "Tiền tố này có nghĩa là 'làm cho', thể hiện hành động ban cho hoặc đặt vào trạng thái được cho phép."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "title",
+                            "mean": "Gốc từ này chỉ 'danh hiệu', 'tên gọi' hoặc 'quyền sở hữu hợp pháp', làm nền tảng cho ý nghĩa 'ban cho tên gọi' hoặc 'ban cho quyền lợi'."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-le",
+                            "mean": "Hậu tố này giúp tạo thành động từ, biểu thị hành động trao hoặc gán 'title' (quyền/tên) cho đối tượng."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "authorize",
+                    "qualify",
+                    "name"
+                ],
+                "example": "Winning the competition will entitle you to a scholarship for the next year."
+            }
+        ]
+    },
+    {
+        "word": "complicate",
+        "phonetic": "/ˈkɒmplɪkeɪt/",
+        "definitions": [
+            {
+                "meaning": "Làm cho một tình huống, vấn đề trở nên phức tạp hơn, khó hiểu hơn, hoặc khó giải quyết hơn bằng cách thêm vào các yếu tố rắc rối hoặc khó khăn không cần thiết.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "com-",
+                            "mean": "Tiền tố này có nghĩa là 'cùng nhau' hoặc 'hoàn toàn', ở đây nó nhấn mạnh hành động gộp nhiều thứ lại với nhau để tạo ra sự phức tạp."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "plic",
+                            "mean": "Gốc từ này liên quan đến 'gấp lại' hoặc 'cuộn lại', tạo nên ý nghĩa cốt lõi của sự rối rắm, khó gỡ."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "Hậu tố này biến gốc từ thành động từ, chỉ hành động gây ra sự phức tạp."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "confuse",
+                    "entangle",
+                    "muddle"
+                ],
+                "example": "Don't complicate the simple instructions by adding unnecessary details."
+            }
+        ]
+    },
+    {
+        "word": "oblige",
+        "phonetic": "/əˈblaɪdʒ/",
+        "definitions": [
+            {
+                "meaning": "Buộc ai đó phải làm điều gì đó theo luật pháp, quy tắc, hoặc một nghĩa vụ đạo đức; hoặc làm ơn giúp đỡ ai đó để họ cảm thấy biết ơn.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ob-",
+                            "mean": "Tiền tố này có nghĩa là 'hướng tới' hoặc 'chống lại', ở đây nó nhấn mạnh sự thúc đẩy hoặc áp đặt một hành động."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ligare",
+                            "mean": "Gốc từ này có nghĩa là 'ràng buộc' hoặc 'liên kết', tạo nên ý nghĩa cốt lõi là sự bắt buộc hoặc ràng buộc về mặt nghĩa vụ."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-e",
+                            "mean": "Hậu tố này giúp tạo thành động từ, chỉ hành động gây ra sự ràng buộc hoặc nghĩa vụ."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "compel",
+                    "require",
+                    "indebt"
+                ],
+                "example": "We were obliged to follow the safety regulations strictly."
+            }
+        ]
+    },
+    {
+        "word": "decease",
+        "phonetic": "/dɪˈsiːs/",
+        "definitions": [
+            {
+                "meaning": "Cái chết (thường dùng trong văn phong trang trọng hoặc pháp lý); hoặc hành động qua đời.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "de-",
+                            "mean": "Tiền tố này có nghĩa là 'ra khỏi' hoặc 'ngược lại', thể hiện sự rời bỏ trạng thái sống."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "cedere",
+                            "mean": "Gốc từ này có nghĩa là 'đi đi' hoặc 'rời đi', tạo nên ý nghĩa cốt lõi là sự rời xa cuộc sống."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ase",
+                            "mean": "Hậu tố này giúp tạo thành danh từ, chỉ sự kiện hoặc trạng thái của việc 'rời đi' (chết)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "death",
+                    "passing",
+                    "demise"
+                ],
+                "example": "Following the decease of the family patriarch, the will was read."
+            }
+        ]
+    },
+    {
+        "word": "circumstance",
+        "phonetic": "/ˈsɜːrkəmstəns/",
+        "definitions": [
+            {
+                "meaning": "Một sự kiện, điều kiện hoặc chi tiết cụ thể ảnh hưởng đến một tình huống hoặc sự việc nào đó; hoàn cảnh bao quanh sự việc.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "circum-",
+                            "mean": "Tiền tố này có nghĩa là 'xung quanh', thể hiện ý nghĩa bao quát hoặc bao bọc một sự việc."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "stare",
+                            "mean": "Gốc từ này có nghĩa là 'đứng', tạo nên ý nghĩa cốt lõi là những điều 'đứng xung quanh' hoặc ảnh hưởng đến một sự kiện chính."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ance",
+                            "mean": "Hậu tố này biến động từ thành danh từ, chỉ trạng thái hoặc sự kiện của việc 'đứng xung quanh' một điều gì đó."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "condition",
+                    "situation",
+                    "setting"
+                ],
+                "example": "We had to cancel the trip due to unforeseen circumstances."
+            }
+        ]
+    },
+    {
+        "word": "possession",
+        "phonetic": "/pəˈzeʃn/",
+        "definitions": [
+            {
+                "meaning": "Quyền sở hữu hoặc quyền kiểm soát đối với một vật gì đó; hoặc chính bản thân vật đó thuộc quyền sở hữu của ai đó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "po-",
+                            "mean": "Tiền tố này (từ gốc Latin) có thể gợi ý đến ý nghĩa 'có thể' hoặc 'có thể được', nhấn mạnh khả năng nắm giữ."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "possidere",
+                            "mean": "Gốc từ này có nghĩa là 'sở hữu' hoặc 'nắm giữ quyền lực', làm nền tảng cho ý nghĩa cốt lõi về quyền kiểm soát."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố này biến động từ thành danh từ, chỉ trạng thái hoặc hành động của việc 'sở hữu' hoặc 'nắm giữ'."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "ownership",
+                    "property",
+                    "holding"
+                ],
+                "example": "All personal possessions must be kept safe during the move."
+            }
+        ]
+    },
+    {
+        "word": "register",
+        "phonetic": "/ˈredʒɪstər/",
+        "definitions": [
+            {
+                "meaning": "Ghi lại hoặc lập thành văn bản một cách chính thức để lưu giữ hồ sơ; hoặc một cuốn sổ/danh sách dùng để ghi chép các thông tin đó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "re-",
+                            "mean": "Tiền tố này có nghĩa là 'một lần nữa' hoặc 'lại', nhấn mạnh hành động ghi lại thông tin để lưu trữ và tham chiếu."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "graj",
+                            "mean": "Gốc từ này liên quan đến 'viết' hoặc 'ghi lại', làm nền tảng cho ý nghĩa cốt lõi của việc lưu trữ thông tin."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-er",
+                            "mean": "Hậu tố này chỉ công cụ hoặc người thực hiện hành động 'ghi lại'."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "record",
+                    "enroll",
+                    "log"
+                ],
+                "example": "Please register your name at the front desk before entering the conference."
+            }
+        ]
+    },
+    {
+        "word": "establish",
+        "phonetic": "/ɪˈstæblɪʃ/",
+        "definitions": [
+            {
+                "meaning": "Thành lập hoặc xây dựng một tổ chức, công ty, hoặc một hệ thống; hoặc làm cho một điều gì đó được công nhận là đúng hoặc có thật.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "es-",
+                            "mean": "Tiền tố này có nghĩa là 'ra' hoặc 'làm cho', nhấn mạnh hành động đưa một cái gì đó vào trạng thái tồn tại."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "stabilis",
+                            "mean": "Gốc từ này có nghĩa là 'vững chắc' hoặc 'ổn định', tạo nên ý nghĩa cốt lõi của việc tạo ra sự bền vững và cố định."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ish",
+                            "mean": "Hậu tố này biến tính từ thành động từ, chỉ hành động làm cho điều gì đó trở nên vững chắc, ổn định."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "found",
+                    "institute",
+                    "set up"
+                ],
+                "example": "The company aims to establish a strong presence in the Asian market."
+            }
+        ]
+    },
+    {
+        "word": "widower",
+        "phonetic": "/ˈwɪdoʊər/",
+        "definitions": [
+            {
+                "meaning": "Người đàn ông có vợ đã qua đời và ông ta chưa tái hôn.",
+                "analysis": {
+                    "prefixes": [
+                        []
+                    ],
+                    "roots": [
+                        {
+                            "val": "widow",
+                            "mean": "Gốc từ này chỉ 'người vợ đã mất chồng', và khi thêm hậu tố -er, nó ám chỉ người nam giới trong tình trạng tương tự (mất vợ)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-er",
+                            "mean": "Hậu tố này chỉ người thực hiện hoặc người đang trong một trạng thái cụ thể; ở đây, nó chỉ người đàn ông đang trong tình trạng mất vợ."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "bachelor (if widowed)",
+                    "surviving husband"
+                ],
+                "example": "The elderly widower often visited his wife's grave every Sunday."
+            }
+        ]
+    },
+    {
+        "word": "inheritance",
+        "phonetic": "/ɪnˈherɪtəns/",
+        "definitions": [
+            {
+                "meaning": "Tài sản, tiền bạc, hoặc quyền lợi được thừa kế từ người đã khuất; hoặc quá trình nhận được những thứ đó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố này có nghĩa là 'vào trong' hoặc 'làm cho', nhấn mạnh hành động tiếp nhận thứ gì đó từ người khác."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "hered",
+                            "mean": "Gốc từ này liên quan đến 'thừa kế' hoặc 'người thừa kế', tạo nên ý nghĩa cốt lõi của việc nhận tài sản từ người đi trước."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ance",
+                            "mean": "Hậu tố này biến động từ thành danh từ, chỉ trạng thái hoặc hành động của việc nhận thừa kế."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "legacy",
+                    "bequest",
+                    "legacy"
+                ],
+                "example": "She received a substantial inheritance from her great-aunt's estate."
+            }
+        ]
     }
 ]
