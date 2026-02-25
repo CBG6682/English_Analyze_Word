@@ -2186,5 +2186,139 @@
                 "example": "It takes time to accustom yourself to the new working hours."
             }
         ]
+    },
+    {
+        "word": "acquaintance",
+        "phonetic": "/əˈkweɪntəns/",
+        "definitions": [
+            {
+                "meaning": "Người quen, người biết sơ qua (không phải bạn thân). Đây là một mối quan hệ xã hội ở mức độ biết tên và nhận ra nhau, nhưng không quá thân thiết hoặc thường xuyên gặp gỡ. Nó cũng có thể được dùng để chỉ sự hiểu biết hoặc nhận thức về một điều gì đó ở mức độ cơ bản.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ac-",
+                            "mean": "Có nghĩa là 'đến', 'hướng tới', hoặc 'làm cho'. Ở đây nó góp phần thể hiện hành động hướng tới việc thiết lập một sự nhận biết hoặc mối quan hệ."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "cogn/knów",
+                            "mean": "Gốc từ liên quan đến 'biết' hoặc 'nhận thức'. Gốc này tạo nên ý nghĩa trung tâm của từ là sự nhận biết một người hoặc một sự vật."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ance",
+                            "mean": "Hậu tố này thường tạo ra một danh từ trừu tượng, chỉ trạng thái, phẩm chất, hoặc hành động. Trong trường hợp này, nó chỉ trạng thái hoặc kết quả của việc được 'biết' hoặc 'quen'."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "familiar",
+                    "contact",
+                    "knowledge"
+                ],
+                "example": "She is merely an acquaintance from my old office."
+            }
+        ]
+    },
+    {
+        "word": "identical",
+        "phonetic": "/aɪˈdɛntɪkəl/",
+        "definitions": [
+            {
+                "meaning": "Giống hệt nhau, y hệt, không có bất kỳ điểm khác biệt nào về hình thức, bản chất, hoặc đặc điểm. Nó được sử dụng để nhấn mạnh sự tương đồng tuyệt đối.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "i-",
+                            "mean": "Tiền tố này có thể liên quan đến ý nghĩa 'một' hoặc 'cùng một', góp phần nhấn mạnh tính duy nhất và sự tương đồng tuyệt đối."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "identi",
+                            "mean": "Gốc từ liên quan đến 'same' (giống nhau) hoặc 'identity' (bản sắc). Đây là thành phần cốt lõi xác định nghĩa của sự giống hệt."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-cal",
+                            "mean": "Hậu tố tính từ, biến gốc từ thành một tính từ có nghĩa là 'thuộc về' hoặc 'có tính chất' của sự giống nhau."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "exactly the same",
+                    "twin",
+                    "alike"
+                ],
+                "example": "The two diamond rings were completely identical."
+            }
+        ]
+    },
+    {
+        "word": "questionnaire",
+        "phonetic": "/ˌkwɛstʃəˈnɛər/",
+        "definitions": [
+            {
+                "meaning": "Bảng câu hỏi, một tập hợp các câu hỏi được viết ra, thường là để thu thập thông tin, ý kiến hoặc dữ liệu từ một nhóm người cụ thể cho mục đích nghiên cứu, khảo sát hoặc đánh giá.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "quest",
+                            "mean": "Gốc từ liên quan đến 'seek' (tìm kiếm) hoặc 'ask' (hỏi). Gốc này xác định hành động tìm kiếm thông tin."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố tạo danh từ, chỉ hành động hoặc kết quả của việc hỏi."
+                        },
+                        {
+                            "val": "-aire",
+                            "mean": "Hậu tố thường chỉ một tài liệu hoặc một người có liên quan đến điều gì đó. Trong trường hợp này, nó chỉ một tài liệu chứa các câu hỏi."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "survey",
+                    "poll",
+                    "form"
+                ],
+                "example": "We need to distribute the customer satisfaction questionnaire by the end of the week."
+            }
+        ]
+    },
+    {
+        "word": "apart",
+        "phonetic": "/əˈpɑːrt/",
+        "definitions": [
+            {
+                "meaning": "Riêng biệt, cách xa nhau về mặt không gian; hoặc tách rời, không còn liên kết (về mặt quan hệ). Nó mô tả trạng thái bị chia cắt hoặc ở vị trí không gần gũi.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "a-",
+                            "mean": "Tiền tố có nghĩa là 'on' (trên) hoặc 'to' (tới), nhưng trong từ này, nó đóng vai trò tăng cường hoặc chỉ sự phân tách, hướng tới trạng thái tách rời."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "part",
+                            "mean": "Gốc từ có nghĩa là 'portion' (phần), 'share' (chia sẻ), hoặc 'separate piece' (mảnh riêng biệt). Gốc này định hình ý nghĩa trung tâm là sự chia cắt hoặc tách rời."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "separate",
+                    "away",
+                    "asunder"
+                ],
+                "example": "The two houses stand a few meters apart."
+            }
+        ]
     }
 ]
