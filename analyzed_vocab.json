@@ -2787,5 +2787,217 @@
                 "example": "She received a substantial inheritance from her wealthy grandparents."
             }
         ]
+    },
+    {
+        "word": "invidual",
+        "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+        "definitions": [
+            {
+                "meaning": "Từ \"invidual\" là một lỗi chính tả phổ biến của từ \"individual\", có nghĩa là cá nhân, riêng lẻ; một người, một vật riêng biệt không thể chia nhỏ hoặc tách rời khỏi bản thân nó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố \"in-\" ở đây có nghĩa là \"không\", \"không thể\". Nó phủ định hoặc ám chỉ sự thiếu vắng của ý nghĩa gốc từ. Ví dụ: *incomplete* (không hoàn chỉnh)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "divid",
+                            "mean": "Gốc từ \"divid\" có nghĩa là \"chia\", \"phân chia\". Nó là yếu tố cốt lõi mang ý nghĩa sự tách biệt hoặc khả năng phân chia. Ví dụ: *divide* (chia ra)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ual",
+                            "mean": "Hậu tố \"-ual\" thường được dùng để tạo ra tính từ hoặc danh từ chỉ sự liên quan, thuộc về. Trong trường hợp này, nó biến gốc từ thành một danh từ chỉ người hoặc tính từ, ngụ ý một thực thể không thể chia tách. Ví dụ: *manual* (sách hướng dẫn, thủ công)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "personal",
+                    "distinct",
+                    "singular",
+                    "separate"
+                ],
+                "example": "Each individual has the right to express their own opinion."
+            }
+        ]
+    },
+    {
+        "word": "archievement-oriented",
+        "phonetic": "/əˈtʃiːvmənt ˌɔːriəntɪd/",
+        "definitions": [
+            {
+                "meaning": "Cụm từ \"archievement-oriented\" là một lỗi chính tả của \"achievement-oriented\", có nghĩa là hướng tới thành tích, định hướng thành công; có xu hướng hoặc tập trung vào việc đạt được mục tiêu, kết quả cụ thể và sự thành công.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "achieve",
+                            "mean": "Là động từ mang ý nghĩa \"đạt được\", \"hoàn thành\". Nó hình thành nên phần cốt lõi đầu tiên của tính từ ghép, chỉ mục tiêu hoặc kết quả mong muốn. Ví dụ: *achieve* (đạt được)."
+                        },
+                        {
+                            "val": "orient",
+                            "mean": "Là động từ mang ý nghĩa \"định hướng\", \"xoay về phía\". Nó chỉ xu hướng hoặc sự sắp đặt theo một mục tiêu hoặc hướng cụ thể. Ví dụ: *orientation* (sự định hướng)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ment",
+                            "mean": "Hậu tố \"-ment\" thường được dùng để tạo danh từ từ động từ, chỉ kết quả của hành động, trạng thái hoặc quá trình. Trong \"achievement\", nó biến động từ \"achieve\" thành danh từ \"achievement\" (thành tích). Ví dụ: *development* (sự phát triển)."
+                        },
+                        {
+                            "val": "-ed",
+                            "mean": "Hậu tố \"-ed\" ở đây dùng để tạo tính từ từ động từ, mang nghĩa \"được định hướng\", \"có xu hướng\". Nó kết hợp với \"achievement\" để tạo thành tính từ ghép. Ví dụ: *motivated* (có động lực)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "ambitious",
+                    "goal-driven",
+                    "success-driven",
+                    "results-oriented"
+                ],
+                "example": "She's a highly achievement-oriented individual who always strives for excellence."
+            }
+        ]
+    },
+    {
+        "word": "express",
+        "phonetic": "/ɪkˈspres/",
+        "definitions": [
+            {
+                "meaning": "Bày tỏ, thể hiện (ý kiến, cảm xúc); diễn đạt (bằng lời nói, cử chỉ); biểu lộ rõ ràng.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ex-",
+                            "mean": "Tiền tố \"ex-\" có nghĩa là \"ra ngoài\", \"bên ngoài\". Nó gợi ý hành động đưa một cái gì đó từ bên trong ra bên ngoài. Ví dụ: *export* (xuất khẩu)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "press",
+                            "mean": "Gốc từ \"press\" có nghĩa là \"ép\", \"đẩy\", \"nén\". Trong ngữ cảnh này, nó mang ý nghĩa của việc đẩy ra, tạo ra áp lực để đưa cái gì đó ra. Ví dụ: *compress* (nén lại)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "convey",
+                    "articulate",
+                    "communicate",
+                    "state",
+                    "voice"
+                ],
+                "example": "It's important to express your feelings clearly."
+            }
+        ]
+    },
+    {
+        "word": "discrimination",
+        "phonetic": "/dɪˌskrɪmɪˈneɪʃn/",
+        "definitions": [
+            {
+                "meaning": "Sự phân biệt đối xử (tiêu cực); sự nhận biết, phân biệt (tích cực, khả năng nhận thức sự khác biệt).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "dis-",
+                            "mean": "Tiền tố \"dis-\" có nghĩa là \"tách rời\", \"không\", \"phân tách\". Nó chỉ sự chia tách hoặc đối lập. Ví dụ: *disconnect* (ngắt kết nối)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "crimin",
+                            "mean": "Gốc từ \"crimin\" ở đây mang ý nghĩa \"phân định\", \"đánh giá\" hoặc \"nhận biết sự khác biệt\". Đây là yếu tố cốt lõi trong việc nhận diện và đối xử khác biệt. Ví dụ: *recriminate* (tố ngược lại, buộc tội lại, hàm ý phán xét lại)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ation",
+                            "mean": "Hậu tố \"-ation\" thường được dùng để tạo danh từ từ động từ, chỉ một hành động, quá trình hoặc kết quả của hành động đó. Ví dụ: *information* (thông tin)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "prejudice",
+                    "bias",
+                    "unfairness",
+                    "bigotry"
+                ],
+                "example": "Racial discrimination is a serious problem in many societies."
+            }
+        ]
+    },
+    {
+        "word": "forbidden",
+        "phonetic": "/fərˈbɪdn/",
+        "definitions": [
+            {
+                "meaning": "Bị cấm, không được phép; bị ngăn cấm bởi luật lệ, quy tắc hoặc đạo đức.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "for-",
+                            "mean": "Tiền tố \"for-\" trong tiếng Anh cổ có nghĩa là \"hoàn toàn\", \"toàn bộ\" hoặc \"trái lại\", \"xa lánh\". Trong từ \"forbidden\", nó mang nghĩa tăng cường của hành động cấm. Ví dụ: *forget* (quên hoàn toàn)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "bid",
+                            "mean": "Gốc từ \"bid\" ở đây có nghĩa là \"ra lệnh\", \"yêu cầu\" hoặc \"tuyên bố\". Khi kết hợp với \"for-\", nó mang ý nghĩa ra lệnh không cho phép. Ví dụ: *bid* (ra giá, yêu cầu)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-en",
+                            "mean": "Hậu tố \"-en\" thường được sử dụng để tạo thành quá khứ phân từ của một số động từ mạnh trong tiếng Anh, biến động từ thành tính từ. Ví dụ: *broken* (bị vỡ)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "prohibited",
+                    "banned",
+                    "illicit",
+                    "unlawful",
+                    "impermissible"
+                ],
+                "example": "Eating or drinking is strictly forbidden in the library."
+            }
+        ]
+    },
+    {
+        "word": "buggy",
+        "phonetic": "/ˈbʌɡi/",
+        "definitions": [
+            {
+                "meaning": "Có nhiều lỗi (thường dùng cho phần mềm, hệ thống); bị hỏng hóc, không hoạt động đúng cách do lỗi.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "bug",
+                            "mean": "Gốc từ \"bug\" ở đây mang nghĩa \"lỗi\", \"sự cố\", đặc biệt là trong lĩnh vực máy tính hoặc kỹ thuật. Nó là yếu tố cốt lõi chỉ vấn đề hoặc khuyết điểm. Ví dụ: *debug* (sửa lỗi)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-y",
+                            "mean": "Hậu tố \"-y\" thường được thêm vào danh từ để tạo thành tính từ, mang nghĩa \"đầy\", \"có tính chất của\" hoặc \"có nhiều\". Trong trường hợp này, nó biến danh từ \"bug\" thành tính từ mang nghĩa \"đầy lỗi\". Ví dụ: *hairy* (nhiều lông)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "faulty",
+                    "flawed",
+                    "defective",
+                    "glitchy",
+                    "unstable"
+                ],
+                "example": "The new software update is very buggy; it keeps crashing."
+            }
+        ]
     }
 ]
