@@ -7,7 +7,7 @@ let currentSearchData = [];
 let vsStartIndex = -1;
 let vsEndIndex = -1;
 const VS_ITEM_HEIGHT = 420; 
-const VS_BUFFER_ROWS = 4;
+const VS_BUFFER_ROWS = 8;
 
 // --- DOM Elements ---
 const loadingOverlay = document.getElementById('loadingOverlay');

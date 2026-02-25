@@ -3318,5 +3318,72 @@
                 "example": "I perceived a change in her mood as soon as she walked into the room."
             }
         ]
+    },
+    {
+        "word": "harmonious",
+        "phonetic": "/hɑːrˈmoʊniəs/",
+        "definitions": [
+            {
+                "meaning": "Hài hòa, hòa hợp, êm đềm; có sự ăn khớp, cân đối, hoặc dễ chịu về mặt âm thanh, màu sắc, mối quan hệ; không có sự xung đột hay mâu thuẫn.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "harmon-",
+                            "mean": "Gốc từ này mang ý nghĩa cốt lõi là 'sự hòa hợp', 'sự cân đối', 'sự ăn khớp'. Nó quyết định nghĩa trung tâm của từ là liên quan đến trạng thái hoặc đặc tính của sự hài hòa. Ví dụ: harmony (sự hòa hợp, sự hài hòa)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ious",
+                            "mean": "Hậu tố này có vai trò biến gốc từ hoặc danh từ thành tính từ, mang nghĩa 'có tính chất của', 'đầy', hoặc 'liên quan đến'. Trong từ này, nó biến 'hòa hợp' thành 'có tính chất hòa hợp'. Ví dụ: glorious (vinh quang, đầy vẻ vinh quang)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "agreeable",
+                    "compatible",
+                    "consonant",
+                    "melodious"
+                ],
+                "example": "The harmonious colors of the painting created a sense of peace."
+            }
+        ]
+    },
+    {
+        "word": "consequence",
+        "phonetic": "/ˈkɑːnsəkwens/",
+        "definitions": [
+            {
+                "meaning": "Hậu quả, kết quả của một hành động, sự việc hoặc tình huống cụ thể; tầm quan trọng, sự đáng kể của một điều gì đó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "Tiền tố này mang ý nghĩa 'cùng với', 'cùng nhau', 'kết hợp'. Trong từ này, nó gợi ý rằng hậu quả là cái đi kèm, cái xảy ra cùng với hành động ban đầu. Ví dụ: connect (kết nối, cùng nhau nối)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "sequ-",
+                            "mean": "Gốc từ này có nghĩa cốt lõi là 'theo sau', 'tiếp nối'. Nó quyết định nghĩa trung tâm của từ là 'điều gì đó theo sau' hoặc 'kết quả của một chuỗi sự kiện'. Ví dụ: sequence (trình tự, chuỗi các sự kiện theo sau nhau)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ence",
+                            "mean": "Hậu tố này có vai trò biến gốc từ thành danh từ, thường chỉ một trạng thái, một hành động, hoặc kết quả của một hành động. Trong trường hợp này, nó biến 'cái theo sau' thành 'kết quả' hoặc 'hậu quả'. Ví dụ: existence (sự tồn tại, trạng thái tồn tại)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "outcome",
+                    "result",
+                    "effect",
+                    "repercussion"
+                ],
+                "example": "The severe drought was a direct consequence of climate change."
+            }
+        ]
     }
 ]
