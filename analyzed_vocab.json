@@ -2320,5 +2320,41 @@
                 "example": "The two houses stand a few meters apart."
             }
         ]
+    },
+    {
+        "word": "dominant",
+        "phonetic": "ˈdɒmɪnənt",
+        "definitions": [
+            {
+                "meaning": "Chiếm ưu thế, vượt trội, hoặc có quyền lực/ảnh hưởng lớn nhất trong một nhóm, tình huống, hoặc hệ thống. Nó ám chỉ sự kiểm soát, sự nổi bật rõ rệt, hoặc việc có vai trò lãnh đạo so với những yếu tố khác.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "do-",
+                            "mean": "Trong bối cảnh này, nó thường liên quan đến ý nghĩa 'lên, trên, hoặc chỉ sự nổi bật' (mặc dù 'do-' có nhiều nguồn gốc khác nhau, trong 'dominant' nó góp phần vào ý nghĩa 'chiếm vị trí cao nhất')."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "min/man",
+                            "mean": "Gốc từ này liên quan đến ý nghĩa 'nổi bật, vượt lên, hoặc chỉ sự lớn lao/quan trọng'. Nó là cốt lõi tạo nên ý niệm về sự vượt trội hoặc sự thống trị."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ant",
+                            "mean": "Hậu tố này biến từ gốc thành tính từ, mang ý nghĩa 'đang thực hiện hành động' hoặc 'có đặc tính của'. Nó chỉ trạng thái hoặc tính chất đang diễn ra của việc chiếm ưu thế hoặc nổi trội."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "prevailing",
+                    "ruling",
+                    "controlling",
+                    "predominant"
+                ],
+                "example": "The dominant species in this ecosystem has significantly altered the local vegetation."
+            }
+        ]
     }
 ]
