@@ -33,7 +33,7 @@ def get_latest_flash_model(model_name=None):
     except:
         return "gemini-1.5-flash"
 
-MODEL_ID = get_latest_flash_model()
+MODEL_ID = get_latest_flash_model("models/gemini-2.5-flash")
 print(f"🚀 Using model: {MODEL_ID}")
 
 BATCH_SIZE = 20
