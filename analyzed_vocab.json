@@ -3385,5 +3385,105 @@
                 "example": "The severe drought was a direct consequence of climate change."
             }
         ]
+    },
+    {
+        "word": "facility",
+        "phonetic": "/fəˈsɪləti/",
+        "definitions": [
+            {
+                "meaning": "Cơ sở vật chất, tiện nghi hoặc dịch vụ được thiết kế để phục vụ một mục đích cụ thể (ví dụ: khu thể thao, bệnh viện, nhà máy). Nó cũng có thể chỉ khả năng hoặc sự dễ dàng trong việc làm một điều gì đó.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "facil-",
+                            "mean": "Gốc từ này có nghĩa là 'dễ dàng', bắt nguồn từ ý 'làm' hoặc 'tạo ra' một cách không khó khăn. Nó quyết định ý nghĩa trung tâm của từ là sự thuận tiện, dễ thực hiện hoặc những nơi/phương tiện giúp mọi việc trở nên dễ dàng hơn. Ví dụ: *facile* (dễ dàng, trôi chảy)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ity",
+                            "mean": "Hậu tố này thường được sử dụng để tạo danh từ từ tính từ, biểu thị một trạng thái, một chất lượng, hoặc một điều kiện. Trong trường hợp này, nó biến 'dễ dàng' (facil) thành 'sự dễ dàng' hoặc 'cơ sở vật chất mang lại sự dễ dàng'. Ví dụ: *ability* (khả năng)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "convenience",
+                    "amenity",
+                    "establishment"
+                ],
+                "example": "The new community center boasts an excellent sports facility."
+            }
+        ]
+    },
+    {
+        "word": "sufficient",
+        "phonetic": "/səˈfɪʃənt/",
+        "definitions": [
+            {
+                "meaning": "Đủ, vừa đủ hoặc đáp ứng yêu cầu cần thiết cho một mục đích cụ thể, không thiếu hụt. Nó ngụ ý rằng số lượng hoặc mức độ hiện có là vừa đủ để hoàn thành công việc hoặc đáp ứng nhu cầu.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "suf-",
+                            "mean": "Tiền tố này có nghĩa là 'dưới' hoặc 'đến mức', thường ám chỉ hành động được thực hiện từ bên dưới hoặc đạt đến một ngưỡng nhất định. Trong từ 'sufficient', nó gợi ý việc 'làm' (fic) 'đến mức đủ' hoặc 'đáp ứng đủ'. Ví dụ: *suffer* (chịu đựng)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-fic-",
+                            "mean": "Gốc từ này mang nghĩa cốt lõi là 'làm' hoặc 'tạo ra'. Nó là yếu tố quyết định ý nghĩa của từ liên quan đến việc 'làm ra' hoặc 'tạo ra' một lượng hoặc chất lượng nhất định. Ví dụ: *efficient* (hiệu quả)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ient",
+                            "mean": "Hậu tố này được dùng để tạo tính từ, chỉ trạng thái, chất lượng hoặc khả năng thực hiện hành động. Nó biến đổi gốc từ thành một từ mô tả tính chất 'đủ để làm'. Ví dụ: *patient* (kiên nhẫn)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "adequate",
+                    "enough",
+                    "ample"
+                ],
+                "example": "We have sufficient evidence to proceed with the investigation."
+            }
+        ]
+    },
+    {
+        "word": "appropriate",
+        "phonetic": "/əˈproʊpriət/",
+        "definitions": [
+            {
+                "meaning": "Phù hợp, thích đáng hoặc đúng đắn với một tình huống, mục đích, hoàn cảnh hoặc tiêu chuẩn cụ thể. Nó ngụ ý sự tương thích và chấp nhận được về mặt xã hội hoặc đạo đức.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ap-",
+                            "mean": "Tiền tố này là một biến thể của 'ad-', mang nghĩa 'tới', 'hướng tới', hoặc 'cho'. Nó thường chỉ sự định hướng hoặc liên kết hành động với một cái gì đó. Trong 'appropriate', nó nhấn mạnh việc làm cho điều gì đó 'hướng tới sự phù hợp'. Ví dụ: *apply* (áp dụng)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "propri-",
+                            "mean": "Gốc từ này có nghĩa là 'của riêng', 'riêng tư', hoặc 'thích đáng'. Nó là hạt nhân ý nghĩa của từ, liên quan đến sự sở hữu, sự phù hợp, hoặc tính chất đúng đắn, thuộc về bản chất. Ví dụ: *property* (tài sản, của cải)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "Hậu tố này có thể tạo tính từ hoặc động từ. Trong vai trò tính từ ở đây, nó biểu thị trạng thái 'là' hoặc 'có tính chất' đó, biến 'propri-' thành 'có tính chất phù hợp, đúng đắn'. Ví dụ: *accurate* (chính xác)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "suitable",
+                    "fitting",
+                    "proper"
+                ],
+                "example": "It's important to wear appropriate attire for a job interview."
+            }
+        ]
     }
 ]

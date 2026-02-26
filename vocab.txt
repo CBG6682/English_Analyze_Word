@@ -100,3 +100,6 @@ instability
 perceive
 harmonious
 consequence
+facility
+sufficient
+appropriate
