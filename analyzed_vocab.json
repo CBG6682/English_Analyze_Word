@@ -3788,5 +3788,174 @@
                 "example": "The architect presented a detailed diagram of the building's layout."
             }
         ]
+    },
+    {
+        "word": "proportion",
+        "phonetic": "/prəˈpɔːrʃən/",
+        "definitions": [
+            {
+                "meaning": "Tỷ lệ, phần tương ứng của một cái gì đó so với một tổng thể; hoặc sự cân đối, hài hòa giữa các phần cấu thành một cái gì đó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "pro-",
+                            "mean": "Tiền tố này mang ý nghĩa \"trước\", \"cho\", \"thay cho\" hoặc \"hướng về phía trước\". Trong từ \"proportion\", nó góp phần vào việc xác định một phần so với một tổng thể, ám chỉ sự phân chia hoặc sự đặt ra một phần so với một phần khác.",
+                            "example": "progress"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-portion",
+                            "mean": "Gốc từ này mang ý nghĩa \"một phần\", \"một mảnh\" hoặc \"một phần chia\". Nó là trung tâm của ý nghĩa \"tỷ lệ\" hoặc \"phần\" trong từ \"proportion\", chỉ ra rằng một cái gì đó được xem xét như một phần của một tổng thể hoặc là kết quả của một sự phân chia.",
+                            "example": "portion"
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "ratio",
+                    "percentage",
+                    "fraction",
+                    "balance",
+                    "symmetry"
+                ],
+                "example": "The proportion of men to women in the company is roughly equal."
+            }
+        ]
+    },
+    {
+        "word": "particular",
+        "phonetic": "/pərˈtɪkjələr/",
+        "definitions": [
+            {
+                "meaning": "Cụ thể, đặc biệt, riêng biệt, không phải là chung chung; hoặc kỹ tính, kén chọn, tỉ mỉ, chú ý đến từng chi tiết.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "-part-",
+                            "mean": "Gốc từ này có nghĩa là \"phần\", \"mảnh nhỏ\" hoặc \"tách ra\". Trong từ \"particular\", nó nhấn mạnh ý nghĩa của một điều gì đó là một phần riêng biệt, cụ thể, tách rời khỏi một tổng thể lớn hơn, làm cho nó trở nên đặc biệt hoặc cá nhân.",
+                            "example": "part"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-icular",
+                            "mean": "Hậu tố này thường dùng để tạo tính từ, mang ý nghĩa \"thuộc về\" hoặc \"có tính chất của\". Trong từ \"particular\", nó biến gốc \"part\" thành tính từ có nghĩa \"thuộc về một phần riêng biệt\", \"cụ thể\" hoặc \"đặc biệt\", nhấn mạnh sự riêng lẻ, cá biệt của một vật hay khái niệm.",
+                            "example": "muscular"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "specific",
+                    "distinct",
+                    "individual",
+                    "precise",
+                    "fastidious"
+                ],
+                "example": "She has a particular way of organizing her books, which she prefers."
+            }
+        ]
+    },
+    {
+        "word": "astronomy",
+        "phonetic": "/əˈstrɒnəmi/",
+        "definitions": [
+            {
+                "meaning": "Thiên văn học; ngành khoa học tự nhiên nghiên cứu các thiên thể (như các ngôi sao, hành tinh, thiên hà), các hiện tượng ngoài Trái Đất và vũ trụ nói chung, tập trung vào vị trí, chuyển động, cấu trúc và sự tiến hóa của chúng.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "astr-",
+                            "mean": "Gốc từ này có nghĩa là \"ngôi sao\". Nó là yếu tố cốt lõi trong từ \"astronomy\", trực tiếp chỉ ra lĩnh vực nghiên cứu liên quan đến các thiên thể, đặc biệt là các ngôi sao và vật thể trên bầu trời.",
+                            "example": "asteroid"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-nomy",
+                            "mean": "Hậu tố này chỉ một \"hệ thống các quy tắc\", \"luật\" hoặc một \"lĩnh vực nghiên cứu có hệ thống\". Trong từ \"astronomy\", nó kết hợp với gốc \"astr-\" để tạo thành ý nghĩa \"nghiên cứu có hệ thống về các ngôi sao và thiên thể\", tức là thiên văn học.",
+                            "example": "economy"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "astrophysics",
+                    "space science",
+                    "cosmology"
+                ],
+                "example": "Astronomy is a fascinating field that studies celestial objects and phenomena."
+            }
+        ]
+    },
+    {
+        "word": "discipline",
+        "phonetic": "/ˈdɪsɪplɪn/",
+        "definitions": [
+            {
+                "meaning": "Kỷ luật; sự rèn luyện, huấn luyện để đạt được sự tuân thủ các quy tắc hoặc chuẩn mực hành vi; một lĩnh vực học thuật hoặc một ngành học cụ thể.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "discipl-",
+                            "mean": "Gốc từ này có nghĩa là \"dạy dỗ\", \"huấn luyện\", \"học hỏi\" hoặc \"rèn luyện\". Nó là cốt lõi của từ \"discipline\", chỉ rõ ý nghĩa về sự kiểm soát bản thân, tuân thủ các quy tắc, hoặc một lĩnh vực kiến thức cần sự học hỏi và rèn luyện có hệ thống.",
+                            "example": "disciple"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ine",
+                            "mean": "Hậu tố này thường tạo danh từ, chỉ một tình trạng, một hệ thống, hoặc một khuôn khổ. Trong từ \"discipline\", nó biến gốc \"discipl-\" thành danh từ chỉ sự \"kỷ luật\", \"rèn luyện có hệ thống\" hoặc một \"ngành học được tổ chức chặt chẽ\".",
+                            "example": "doctrine"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "order",
+                    "control",
+                    "training",
+                    "rigor",
+                    "subject",
+                    "field"
+                ],
+                "example": "Self-discipline is crucial for achieving long-term goals and success."
+            }
+        ]
+    },
+    {
+        "word": "domestic",
+        "phonetic": "/dəˈmestɪk/",
+        "definitions": [
+            {
+                "meaning": "Thuộc về gia đình, trong nhà; nội địa, trong nước (không phải quốc tế); hoặc đã được thuần hóa, nuôi trong nhà (chẳng hạn như vật nuôi).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "dom-",
+                            "mean": "Gốc từ này có nghĩa là \"nhà\" hoặc \"gia đình\". Nó là yếu tố trung tâm trong từ \"domestic\", trực tiếp chỉ ra mối liên hệ với không gian gia đình, trong nhà, hoặc phạm vi quốc gia (như \"nội địa\", \"trong nước\").",
+                            "example": "domain"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ic",
+                            "mean": "Hậu tố này thường dùng để tạo tính từ, mang ý nghĩa \"thuộc về\", \"liên quan đến\", hoặc \"có tính chất của\". Trong từ \"domestic\", nó biến gốc \"dom-\" thành tính từ có nghĩa \"thuộc về nhà\", \"liên quan đến gia đình\" hoặc \"trong nước\", \"đã được thuần hóa\".",
+                            "example": "historic"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "household",
+                    "familial",
+                    "internal",
+                    "national",
+                    "tame"
+                ],
+                "example": "Many people enjoy cooking domestic dishes from their own country."
+            }
+        ]
     }
 ]
