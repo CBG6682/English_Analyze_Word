@@ -109,4 +109,6 @@ fundamental
 aggressive
 authoritative
 compliant
-
+characteristic
+exclusive
+diagram

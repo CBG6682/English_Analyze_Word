@@ -3687,5 +3687,106 @@
                 "example": "The company aims to be fully compliant with all environmental regulations."
             }
         ]
+    },
+    {
+        "word": "characteristic",
+        "phonetic": "/ˌkærəktəˈrɪstɪk/",
+        "definitions": [
+            {
+                "meaning": "Một đặc điểm, tính chất hoặc đặc trưng tiêu biểu, nổi bật thuộc về hoặc đại diện cho một người, một vật, một nhóm hay một khái niệm cụ thể nào đó, giúp phân biệt nó với những cái khác. Nó thường là nét riêng biệt dễ nhận biết.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "character",
+                            "mean": "Gốc từ này mang ý nghĩa cốt lõi về dấu ấn, bản chất, hoặc tính cách đặc thù của một người hay vật. Nó là nền tảng để hình thành nghĩa 'đặc điểm' hoặc 'tính chất riêng biệt' của từ. Ví dụ: Từ 'characterize' (đặc trưng hóa) cũng chia sẻ gốc này và có nghĩa là mô tả hoặc xác định những đặc điểm tiêu biểu của một cái gì đó."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-istic",
+                            "mean": "Hậu tố này thường được sử dụng để biến danh từ hoặc gốc từ thành tính từ, mang nghĩa 'có tính chất của', 'mang đặc điểm của' hoặc 'liên quan đến'. Nó nhấn mạnh rằng cái gì đó thể hiện những đặc điểm của gốc từ 'character'. Ví dụ: Từ 'altruistic' (vị tha) cũng dùng hậu tố này để chỉ người có tính chất vị tha."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "typical",
+                    "distinguishing",
+                    "representative",
+                    "peculiar",
+                    "distinctive"
+                ],
+                "example": "Her characteristic enthusiasm made her a great leader."
+            }
+        ]
+    },
+    {
+        "word": "exclusive",
+        "phonetic": "/ɪkˈskluːsɪv/",
+        "definitions": [
+            {
+                "meaning": "Độc quyền, duy nhất hoặc dành riêng cho một người, một nhóm, một nơi hay một mục đích cụ thể nào đó, không cho phép hoặc không bao gồm những người, nhóm, hoặc thứ khác. Nó cũng có thể ám chỉ sự cao cấp, giới hạn hoặc riêng tư.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ex-",
+                            "mean": "Tiền tố này mang ý nghĩa 'ra ngoài', 'bên ngoài', 'không bao gồm' hoặc 'loại bỏ'. Trong từ 'exclusive', nó góp phần vào nghĩa 'loại trừ' hoặc 'không cho phép' cái khác. Ví dụ: Từ 'exit' (lối ra) cũng sử dụng tiền tố này với nghĩa tương tự 'đi ra ngoài'."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "clus",
+                            "mean": "Gốc từ này có nghĩa là 'đóng', 'khóa' hoặc 'giữ kín'. Khi kết hợp với tiền tố 'ex-', nó tạo nên ý nghĩa 'đóng lại' hoặc 'khóa chặt' để loại trừ người hoặc vật khác. Ví dụ: Từ 'include' (bao gồm) cũng có gốc 'clude' (một biến thể của 'clus') với tiền tố 'in-' (vào trong), mang nghĩa 'đóng vào trong'."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ive",
+                            "mean": "Hậu tố này thường được dùng để tạo tính từ hoặc danh từ, mang ý nghĩa 'có xu hướng', 'có khả năng' hoặc 'thuộc về'. Trong từ 'exclusive', nó biến đổi gốc từ thành một tính từ miêu tả hành động hoặc trạng thái 'loại trừ' hay 'dành riêng'. Ví dụ: Từ 'active' (năng động) cũng dùng hậu tố này để chỉ tính chất hành động."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "sole",
+                    "private",
+                    "restricted",
+                    "unique",
+                    "select"
+                ],
+                "example": "The hotel offers an exclusive lounge for its VIP guests."
+            }
+        ]
+    },
+    {
+        "word": "diagram",
+        "phonetic": "/ˈdaɪəɡræm/",
+        "definitions": [
+            {
+                "meaning": "Một biểu đồ, sơ đồ hoặc bản vẽ đơn giản hóa nhằm minh họa cấu trúc, cách hoạt động, mối quan hệ giữa các bộ phận, hoặc phân loại của một vật, một hệ thống hay một ý tưởng. Nó thường sử dụng các đường nét, ký hiệu và nhãn mác để truyền tải thông tin một cách trực quan và dễ hiểu.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "dia-",
+                            "mean": "Tiền tố này mang ý nghĩa 'xuyên qua', 'ngang qua', 'giữa' hoặc 'tách rời'. Trong từ 'diagram', nó gợi ý việc 'vẽ xuyên qua' hoặc 'vạch ra' một cách rõ ràng để hiển thị cấu trúc. Ví dụ: Từ 'diameter' (đường kính) cũng sử dụng tiền tố này, chỉ một đường kẻ 'xuyên qua' tâm hình tròn."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "gram",
+                            "mean": "Gốc từ này có nghĩa là 'cái được viết', 'cái được vẽ' hoặc 'cái được ghi lại'. Nó đóng vai trò cốt lõi trong việc hình thành nghĩa 'bản vẽ' hay 'bản ghi' trực quan của từ 'diagram'. Ví dụ: Từ 'telegram' (điện báo) cũng chứa gốc này, mang nghĩa là 'tin nhắn được viết từ xa'."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "chart",
+                    "graph",
+                    "plan",
+                    "blueprint",
+                    "sketch"
+                ],
+                "example": "The architect presented a detailed diagram of the building's layout."
+            }
+        ]
     }
 ]
