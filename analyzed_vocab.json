@@ -3485,5 +3485,207 @@
                 "example": "It's important to wear appropriate attire for a job interview."
             }
         ]
+    },
+    {
+        "word": "ambitious",
+        "phonetic": "/æmˈbɪʃ.əs/",
+        "definitions": [
+            {
+                "meaning": "Có nhiều tham vọng, hoài bão lớn lao, khao khát mãnh liệt đạt được thành công, quyền lực, hoặc địa vị cao trong cuộc sống, thường đi kèm với sự nỗ lực và quyết tâm cao độ.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ambi-",
+                            "mean": "Tiền tố này có nghĩa là 'xung quanh' hoặc 'cả hai'. Trong ngữ cảnh của 'ambitious', nó gợi ý hành động vươn ra hoặc tìm kiếm 'xung quanh' để nắm bắt cơ hội và đạt được mục tiêu. Ví dụ: 'ambidextrous' (thuận cả hai tay)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-it-",
+                            "mean": "Gốc từ này xuất phát từ tiếng Latin 'ire', có nghĩa là 'đi' hoặc 'hành động hướng tới'. Nó thể hiện sự tiến lên, di chuyển về phía mục tiêu với ý chí mạnh mẽ. Ví dụ: 'transit' (quá cảnh)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ious",
+                            "mean": "Hậu tố này được thêm vào để biến đổi từ thành tính từ, mang ý nghĩa 'có tính chất của' hoặc 'đầy' một điều gì đó. Trong trường hợp này, 'đầy tham vọng'. Ví dụ: 'spacious' (rộng rãi)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "có hoài bão",
+                    "có tham vọng",
+                    "khát khao",
+                    "quyết tâm"
+                ],
+                "example": "She is an ambitious young lawyer who aims to become a partner in the firm within five years."
+            }
+        ]
+    },
+    {
+        "word": "offend",
+        "phonetic": "/əˈfɛnd/",
+        "definitions": [
+            {
+                "meaning": "Làm phật lòng, xúc phạm, gây khó chịu cho ai đó bằng lời nói hoặc hành động; hoặc vi phạm một quy tắc đạo đức, luật lệ, hoặc cảm nhận chung về điều đúng đắn.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "of-",
+                            "mean": "Tiền tố này, biến thể của 'ob-', có nghĩa là 'chống lại' hoặc 'hướng tới'. Nó thường mang ý nghĩa đối lập, va chạm, hoặc một hành động hướng vào ai đó một cách tiêu cực. Ví dụ: 'obstruct' (cản trở)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-fend",
+                            "mean": "Gốc từ này có nghĩa là 'đánh', 'đập' hoặc 'tấn công'. Nó gợi lên hình ảnh của một sự va chạm mạnh, gây tổn thương hoặc xâm phạm. Ví dụ: 'defend' (phòng thủ)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "xúc phạm",
+                    "làm phật lòng",
+                    "gây khó chịu",
+                    "vi phạm"
+                ],
+                "example": "I didn't mean to offend anyone with my comments."
+            }
+        ]
+    },
+    {
+        "word": "fundamental",
+        "phonetic": "/ˌfʌn.dəˈmɛn.təl/",
+        "definitions": [
+            {
+                "meaning": "Cơ bản, nền tảng, thiết yếu; là phần cốt lõi, nguyên tắc không thể thiếu mà từ đó mọi thứ khác được xây dựng, phát triển hoặc dựa vào.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "fundament",
+                            "mean": "Gốc từ này có nghĩa là 'nền tảng', 'cơ sở'. Nó chỉ ra một yếu tố cốt lõi, không thể thiếu, là điểm tựa hoặc điểm khởi đầu cho một cấu trúc hay một hệ thống. Ví dụ: 'foundation' (nền móng, quỹ)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-al",
+                            "mean": "Hậu tố này thường được thêm vào danh từ để tạo thành tính từ, mang ý nghĩa 'liên quan đến' hoặc 'có tính chất của'. Nó biểu thị mối quan hệ hoặc sự thuộc về. Ví dụ: 'natural' (tự nhiên)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "cơ bản",
+                    "thiết yếu",
+                    "nền tảng",
+                    "chủ yếu",
+                    "cốt lõi"
+                ],
+                "example": "Understanding the fundamental principles of physics is crucial for advanced study."
+            }
+        ]
+    },
+    {
+        "word": "aggressive",
+        "phonetic": "/əˈɡrɛs.ɪv/",
+        "definitions": [
+            {
+                "meaning": "Hung hăng, gây hấn, quyết liệt; sẵn sàng tấn công, đối đầu hoặc thể hiện sự quyết tâm mạnh mẽ để đạt được mục tiêu, đôi khi không khoan nhượng hoặc có phần thù địch.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ag-",
+                            "mean": "Tiền tố này, một biến thể của 'ad-', có nghĩa là 'hướng tới', 'về phía'. Nó chỉ sự di chuyển, hướng mục tiêu hoặc hành động về một đối tượng cụ thể. Ví dụ: 'agree' (đồng ý)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-gress-",
+                            "mean": "Gốc từ này có nghĩa là 'bước đi', 'tiến lên'. Nó thể hiện hành động di chuyển về phía trước, thường với mục đích tiếp cận hoặc vượt qua. Ví dụ: 'progress' (tiến bộ)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ive",
+                            "mean": "Hậu tố này được sử dụng để biến đổi từ thành tính từ, mang ý nghĩa 'có tính chất của' hoặc 'có xu hướng'. Nó mô tả khả năng hoặc khuynh hướng thực hiện hành động. Ví dụ: 'active' (năng động)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "hung hăng",
+                    "gây hấn",
+                    "xông xáo",
+                    "quyết đoán"
+                ],
+                "example": "The company launched an aggressive marketing campaign to capture more market share."
+            }
+        ]
+    },
+    {
+        "word": "authoritative",
+        "phonetic": "/ɔːˈθɒr.ɪ.tət.ɪv/",
+        "definitions": [
+            {
+                "meaning": "Có thẩm quyền, có uy tín, đáng tin cậy; thể hiện quyền lực, kiến thức sâu rộng hoặc kinh nghiệm chuyên môn, do đó được tôn trọng và thường được chấp nhận mà không cần tranh cãi.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "author-",
+                            "mean": "Gốc từ này liên quan đến 'người tạo ra', 'chủ', 'người có quyền lực' hoặc 'nguồn gốc'. Nó gợi ý một người hoặc một nguồn có khả năng ban hành, kiểm soát, hoặc là căn cứ cho sự thật. Ví dụ: 'authority' (quyền lực)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ative",
+                            "mean": "Hậu tố này thường được thêm vào để biến đổi từ thành tính từ, mang ý nghĩa 'có xu hướng' hoặc 'có tính chất của'. Nó mô tả đặc điểm hoặc khả năng liên quan đến gốc từ. Ví dụ: 'creative' (sáng tạo)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "có thẩm quyền",
+                    "có uy tín",
+                    "đáng tin cậy",
+                    "có quyền lực"
+                ],
+                "example": "The professor delivered an authoritative lecture on quantum physics."
+            }
+        ]
+    },
+    {
+        "word": "compliant",
+        "phonetic": "/kəmˈplaɪ.ənt/",
+        "definitions": [
+            {
+                "meaning": "Tuân thủ, phục tùng, dễ chiều; sẵn sàng làm theo yêu cầu, quy tắc, mong muốn hoặc mệnh lệnh của người khác một cách dễ dàng, không phản kháng hay đối lập.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "com-",
+                            "mean": "Tiền tố này, một biến thể của 'con-', có nghĩa là 'với', 'cùng với' hoặc 'hoàn toàn'. Trong ngữ cảnh này, nó thường gợi ý sự hợp nhất, thích nghi hoặc hoàn toàn theo một hướng nào đó. Ví dụ: 'combine' (kết hợp)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-pli-",
+                            "mean": "Gốc từ này có nghĩa là 'gấp', 'bẻ cong' hoặc 'uốn nắn'. Nó gợi ý hành động uốn mình, điều chỉnh theo một hướng nào đó, tức là tuân theo. Ví dụ: 'apply' (áp dụng, ban đầu có nghĩa là 'gấp vào')."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ant",
+                            "mean": "Hậu tố này thường được thêm vào để tạo thành tính từ hoặc danh từ, chỉ người/vật có tính chất hoặc đang thực hiện hành động. Nó mô tả trạng thái hoặc đặc điểm của việc tuân thủ. Ví dụ: 'assistant' (trợ lý)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "tuân thủ",
+                    "phục tùng",
+                    "vâng lời",
+                    "dễ bảo"
+                ],
+                "example": "The company aims to be fully compliant with all environmental regulations."
+            }
+        ]
     }
 ]
