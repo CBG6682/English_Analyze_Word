@@ -4784,37 +4784,299 @@
         ]
     },
     {
-        "word": "immunize",
-        "phonetic": "/ˈɪmjənaɪz/",
+        "word": "immune",
+        "phonetic": "/ɪˈmjuːn/",
         "definitions": [
             {
-                "meaning": "Tiêm chủng, miễn dịch hóa (tạo cho ai đó hoặc thứ gì đó khả năng chống lại một bệnh cụ thể hoặc tác nhân gây hại, thường bằng cách tiêm vắc-xin).",
+                "meaning": "Miễn dịch; không bị ảnh hưởng, tác động bởi bệnh tật, chất độc, hoặc một tình huống nào đó. Nó chỉ trạng thái được bảo vệ, không dễ bị tổn thương hoặc không bị ràng buộc bởi một điều kiện cụ thể.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "im-",
-                            "mean": "Tiền tố 'im-' (một biến thể của 'in-') trong ngữ cảnh này mang ý nghĩa \"không\", \"miễn nhiễm\" hoặc \"không bị ảnh hưởng\". Nó góp phần tạo nên nghĩa của sự bảo vệ, không bị tác động bởi mầm bệnh. Ví dụ: \"immobile\" (không di chuyển được)."
+                            "mean": "Là một biến thể của tiền tố 'in-', mang nghĩa \"không\", \"ngược lại\", dùng để phủ định nghĩa của từ gốc, tạo ra nghĩa đối lập hoặc thiếu vắng. Ví dụ: 'impossible' (không thể)."
                         }
                     ],
                     "roots": [
                         {
-                            "val": "mun",
-                            "mean": "Gốc từ 'mun' mang ý nghĩa \"miễn trừ\", \"không bị ảnh hưởng\" hoặc \"an toàn\". Trong 'immunize', nó là cơ sở cho ý nghĩa của việc tạo ra sự miễn dịch, bảo vệ khỏi bệnh tật. Ví dụ: \"immune\" (miễn dịch)."
+                            "val": "mune",
+                            "mean": "Đóng góp ý nghĩa về \"gánh nặng\", \"nghĩa vụ\", \"trách nhiệm\" hoặc \"sự nhạy cảm\" mà từ đó được giải phóng hoặc miễn trừ (nhờ tiền tố 'im-'). Ví dụ: 'municipal' (thuộc về thành phố, liên quan đến nghĩa vụ công)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "resistant",
+                    "protected",
+                    "invulnerable",
+                    "exempt"
+                ],
+                "example": "Vaccination helps the body become immune to certain diseases."
+            }
+        ]
+    },
+    {
+        "word": "disorder",
+        "phonetic": "/dɪsˈɔːrdər/",
+        "definitions": [
+            {
+                "meaning": "Sự rối loạn, tình trạng mất trật tự hoặc chức năng không bình thường, đặc biệt thường dùng trong y học để chỉ bệnh lý hoặc tình trạng sức khỏe không ổn định (ví dụ: rối loạn lo âu, rối loạn tiêu hóa).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "dis-",
+                            "mean": "Mang nghĩa \"không\", \"ngược lại\", \"thiếu hụt\", thường dùng để phủ định hoặc đảo ngược hành động, trạng thái của từ gốc. Ví dụ: 'disagree' (không đồng ý)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "order",
+                            "mean": "Nghĩa cốt lõi là \"trật tự\", \"sự sắp xếp hợp lý\", \"tình trạng yên ổn\". Trong từ này, nó chỉ sự sắp xếp có tổ chức hoặc chức năng bình thường. Ví dụ: 'orderly' (có trật tự, ngăn nắp)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "ailment",
+                    "illness",
+                    "confusion",
+                    "chaos",
+                    "malady"
+                ],
+                "example": "Anxiety disorder can significantly impact a person's daily life."
+            }
+        ]
+    },
+    {
+        "word": "misuse",
+        "phonetic": "/ˌmɪsˈjuːs/",
+        "definitions": [
+            {
+                "meaning": "Hành động sử dụng sai mục đích, không đúng cách, hoặc lạm dụng một cách không phù hợp, có hại. Nó có thể là dùng sai công cụ, thông tin, hoặc quyền lực.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "mis-",
+                            "mean": "Mang nghĩa \"sai\", \"không đúng\", \"tồi tệ\", thường chỉ hành động được thực hiện một cách sai lầm, không chính xác hoặc không phù hợp. Ví dụ: 'misunderstand' (hiểu lầm)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "use",
+                            "mean": "Nghĩa cốt lõi là \"sử dụng\", \"dùng\", \"áp dụng\" một cái gì đó cho một mục đích cụ thể. Ví dụ: 'useful' (hữu ích)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "abuse",
+                    "improper use",
+                    "mishandle",
+                    "misapply"
+                ],
+                "example": "The misuse of painkillers can lead to addiction."
+            }
+        ]
+    },
+    {
+        "word": "incident",
+        "phonetic": "/ˈɪnsɪdənt/",
+        "definitions": [
+            {
+                "meaning": "Vụ việc, sự cố; một sự kiện riêng lẻ, thường là nhỏ, bất ngờ, không mong muốn hoặc gây gián đoạn cho một hoạt động nào đó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Mang nghĩa \"vào\", \"trên\", \"xảy ra\". Trong từ này, nó chỉ sự việc \"rơi vào\", \"xảy ra\" hoặc \"tác động đến\" một tình huống nào đó. Ví dụ: 'income' (thu nhập, tiền 'vào')."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "cid",
+                            "mean": "Đóng góp ý nghĩa \"rơi\", \"xảy ra\" hoặc \"xảy đến\". Nó ngụ ý một sự kiện diễn ra. Ví dụ: 'accident' (tai nạn, sự cố xảy ra)."
                         }
                     ],
                     "suffixes": [
                         {
-                            "val": "-ize",
-                            "mean": "Hậu tố '-ize' được dùng để tạo động từ từ danh từ hoặc tính từ, thường có nghĩa là \"làm cho trở nên\", \"thực hiện hành động\". Trong 'immunize', nó chỉ hành động làm cho ai đó trở nên miễn dịch. Ví dụ: \"modernize\" (hiện đại hóa)."
+                            "val": "-ent",
+                            "mean": "Hậu tố tạo danh từ hoặc tính từ, chỉ người hoặc vật thực hiện hành động, hoặc ở trong một trạng thái nào đó. Trong trường hợp này, nó biến từ thành danh từ chỉ một sự việc. Ví dụ: 'student' (học sinh)."
                         }
                     ]
                 },
                 "synonyms": [
-                    "vaccinate",
-                    "inoculate",
-                    "protect"
+                    "event",
+                    "occurrence",
+                    "episode",
+                    "happening",
+                    "occurrence"
                 ],
-                "example": "Children should be immunized against common childhood diseases."
+                "example": "There was a minor incident at the office this morning."
+            }
+        ]
+    },
+    {
+        "word": "acute",
+        "phonetic": "/əˈkjuːt/",
+        "definitions": [
+            {
+                "meaning": "Cấp tính (trong y học, chỉ bệnh khởi phát đột ngột và diễn biến nhanh trong thời gian ngắn); hoặc sắc bén, nhạy bén (về giác quan, trí tuệ), hoặc nghiêm trọng, gay gắt (về cảm giác, vấn đề).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "acute",
+                            "mean": "Là gốc từ chính, mang ý nghĩa \"sắc nhọn\", \"gay gắt\", \"nhạy bén\" hoặc \"nghiêm trọng\". Nó truyền tải sự sắc nét, cường độ cao hoặc sự khởi đầu đột ngột. Ví dụ: 'acumen' (sự nhạy bén, sắc sảo)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "sharp",
+                    "severe",
+                    "intense",
+                    "keen",
+                    "sudden"
+                ],
+                "example": "He experienced an acute pain in his chest."
+            }
+        ]
+    },
+    {
+        "word": "chronic",
+        "phonetic": "/ˈkrɒnɪk/",
+        "definitions": [
+            {
+                "meaning": "Mãn tính (trong y học, chỉ bệnh kéo dài hoặc tái phát thường xuyên trong một thời gian dài); hoặc kinh niên, xảy ra thường xuyên và kéo dài, khó chữa khỏi.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "chron",
+                            "mean": "Nghĩa cốt lõi là \"thời gian\". Gốc từ này luôn liên quan đến khoảng thời gian, sự kéo dài hoặc trình tự thời gian. Ví dụ: 'chronology' (niên đại học, trình tự thời gian)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ic",
+                            "mean": "Hậu tố tạo tính từ, mang nghĩa \"thuộc về\", \"có đặc điểm của\", \"liên quan đến\" hoặc \"giống như\". Ví dụ: 'historic' (mang tính lịch sử)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "persistent",
+                    "constant",
+                    "lasting",
+                    "long-term",
+                    "enduring"
+                ],
+                "example": "Chronic diseases require ongoing management."
+            }
+        ]
+    },
+    {
+        "word": "pancreas",
+        "phonetic": "/ˈpæŋkriəs/",
+        "definitions": [
+            {
+                "meaning": "Tuyến tụy; một cơ quan lớn nằm sau dạ dày, có chức năng kép là sản xuất enzyme tiêu hóa để phân giải thức ăn và hormone (như insulin, glucagon) để điều hòa đường huyết.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [],
+                "example": "The pancreas plays a vital role in regulating blood sugar."
+            }
+        ]
+    },
+    {
+        "word": "expenditure",
+        "phonetic": "/ɪkˈspendɪtʃər/",
+        "definitions": [
+            {
+                "meaning": "Sự chi tiêu, khoản chi phí; tổng số tiền hoặc tài nguyên đã được sử dụng hoặc bỏ ra cho một mục đích cụ thể.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ex-",
+                            "mean": "Mang nghĩa \"ra ngoài\", \"từ bỏ\", \"kết thúc\". Trong từ này, nó chỉ hành động \"chi ra\", \"tốn ra\" hoặc \"sử dụng hết\". Ví dụ: 'exit' (lối ra)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "pend",
+                            "mean": "Nghĩa cốt lõi là \"treo\", \"cân\", \"trả\". Trong từ này, nó liên quan đến hành động \"trả tiền\", \"chi trả\" hoặc \"tốn kém\". Ví dụ: 'dependent' (phụ thuộc, dựa vào)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-iture",
+                            "mean": "Hậu tố tạo danh từ, chỉ hành động, kết quả của hành động, hoặc một tình trạng. Ví dụ: 'furniture' (đồ đạc, nội thất)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "spending",
+                    "outlay",
+                    "disbursement",
+                    "cost",
+                    "expense"
+                ],
+                "example": "The government's expenditure on healthcare has increased significantly."
+            }
+        ]
+    },
+    {
+        "word": "burden",
+        "phonetic": "/ˈbɜːrdn/",
+        "definitions": [
+            {
+                "meaning": "Gánh nặng, trách nhiệm nặng nề; nghĩa vụ khó khăn, áp lực về tinh thần, thể chất hoặc tài chính mà một người phải chịu đựng.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "load",
+                    "responsibility",
+                    "hardship",
+                    "strain",
+                    "encumbrance"
+                ],
+                "example": "The new taxes will place a heavy burden on low-income families."
+            }
+        ]
+    },
+    {
+        "word": "significant",
+        "phonetic": "/sɪɡˈnɪfɪkənt/",
+        "definitions": [
+            {
+                "meaning": "Đáng kể, quan trọng, có ý nghĩa lớn; có ảnh hưởng hoặc tác động đáng chú ý, không thể bỏ qua.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "sign",
+                            "mean": "Nghĩa cốt lõi là \"dấu hiệu\", \"ký hiệu\", \"biểu thị\" hoặc \"ý nghĩa\". Trong từ này, nó đóng góp ý nghĩa về \"sự biểu thị\" hoặc \"có ý nghĩa đặc biệt\". Ví dụ: 'signal' (tín hiệu)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ant",
+                            "mean": "Hậu tố tạo tính từ (hoặc danh từ), chỉ trạng thái, người/vật thực hiện hành động, hoặc có đặc tính. Ở đây nó biến từ thành tính từ chỉ đặc điểm \"có ý nghĩa\" hoặc \"quan trọng\". Ví dụ: 'important' (quan trọng)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "important",
+                    "notable",
+                    "meaningful",
+                    "considerable",
+                    "consequential"
+                ],
+                "example": "There was a significant improvement in her health after the treatment."
             }
         ]
     }

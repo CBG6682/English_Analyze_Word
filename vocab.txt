@@ -143,4 +143,14 @@ malaria
 diarrhoeal
 sanitation
 malnutrition
-immunize
+immune
+disorder
+misuse
+incident
+acute
+chronic
+pancreas
+expenditure
+burden
+significant
+sufficient
