@@ -42,7 +42,8 @@ def analyze_batch(word_batch):
     prompt = f"""
     You are an expert English vocabulary analyst.
 
-    Analyze these English words: {word_batch}
+    Analyze these English vocabulary items (which can be single words, phrasal verbs, or idioms, e.g., "get up"): {word_batch}
+    IMPORTANT: Treat each string in the list as a SINGLE distinct entry. Do not split multi-word phrases into separate words.
 
     Return strictly JSON format (list of objects):
 
@@ -110,7 +111,8 @@ def main():
         return
         
     with open(txt_file, 'r', encoding='utf-8') as f:
-        all_words = [line.strip().lower() for line in f if line.strip()]
+        # Normalize multiple spaces inside phrases (e.g. phrasal verbs) into a single space
+        all_words = [re.sub(r'\s+', ' ', line.strip()).lower() for line in f if line.strip()]
 
     existing_data = []
     processed_words = set()

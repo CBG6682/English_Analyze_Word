@@ -3957,5 +3957,199 @@
                 "example": "Many people enjoy cooking domestic dishes from their own country."
             }
         ]
+    },
+    {
+        "word": "prevalent",
+        "phonetic": "/ˈprɛvələnt/",
+        "definitions": [
+            {
+                "meaning": "Phổ biến, thịnh hành, lan rộng. Chỉ cái gì đó đang hiện diện rộng rãi, thường xuyên xảy ra hoặc được chấp nhận bởi nhiều người ở một nơi hoặc trong một thời điểm cụ thể.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "pre-",
+                            "mean": "Tiền tố mang ý nghĩa 'trước' hoặc 'trên mức bình thường', đôi khi gợi sự lan tỏa, hiện diện rộng khắp. Trong 'prevalent', nó góp phần nhấn mạnh sự phổ biến, lan rộng.",
+                            "example": "prevent (ngăn chặn - hành động trước khi sự việc xảy ra)"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "val-",
+                            "mean": "Gốc từ mang ý nghĩa về sức mạnh, giá trị, hoặc khả năng hiện diện. Trong 'prevalent', nó gợi lên sự 'hiện hữu mạnh mẽ' hoặc 'có giá trị' (được chấp nhận rộng rãi).",
+                            "example": "valid (có giá trị, hợp lệ)"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ent",
+                            "mean": "Hậu tố tạo tính từ, chỉ trạng thái hoặc tính chất. Trong trường hợp này, nó biến gốc từ thành tính từ, mô tả cái gì đó đang ở trạng thái phổ biến, thịnh hành.",
+                            "example": "dependent (phụ thuộc)"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "common",
+                    "widespread",
+                    "ubiquitous",
+                    "rampant"
+                ],
+                "example": "The flu is especially prevalent during the winter months."
+            }
+        ]
+    },
+    {
+        "word": "addiction",
+        "phonetic": "/əˈdɪkʃən/",
+        "definitions": [
+            {
+                "meaning": "Sự nghiện, thói nghiện. Tình trạng không thể ngừng sử dụng một chất nào đó hoặc thực hiện một hoạt động nào đó, dù biết nó có hại, do sự phụ thuộc về thể chất hoặc tâm lý. Cảm giác bị ràng buộc, lệ thuộc vào điều gì đó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ad-",
+                            "mean": "Tiền tố có nghĩa 'hướng tới', 'tới', 'thêm vào'. Trong 'addiction', nó nhấn mạnh việc bị lôi kéo, gắn bó chặt chẽ vào một thứ gì đó.",
+                            "example": "adhere (tuân thủ, dính chặt vào)"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "dict-",
+                            "mean": "Gốc từ mang ý nghĩa về việc nói, tuyên bố hoặc chỉ định. Trong bối cảnh này, nó có thể được hiểu là sự 'bị tuyên bố' hoặc 'bị ràng buộc' bởi một thứ gì đó, ám chỉ sự phụ thuộc.",
+                            "example": "dictionary (từ điển - nơi tập hợp và 'tuyên bố' nghĩa của từ)"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố tạo danh từ, thường chỉ hành động, quá trình, hoặc kết quả của hành động. Ở đây, nó biến đổi thành danh từ, mô tả trạng thái hoặc quá trình nghiện.",
+                            "example": "action (hành động)"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "dependence",
+                    "habit",
+                    "craving",
+                    "compulsion"
+                ],
+                "example": "Gambling addiction can destroy lives."
+            }
+        ]
+    },
+    {
+        "word": "condition",
+        "phonetic": "/kənˈdɪʃən/",
+        "definitions": [
+            {
+                "meaning": "Tình trạng, điều kiện. Trạng thái hiện tại của một người, vật, hoặc sự vật nào đó; hoặc một yêu cầu, một điều khoản phải được đáp ứng.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "Tiền tố có nghĩa 'cùng nhau', 'với', 'hoàn toàn'. Trong 'condition', nó gợi ý một trạng thái tổng thể, toàn diện hoặc sự kết hợp các yếu tố tạo nên trạng thái đó.",
+                            "example": "connect (kết nối - nghĩa là 'nối cùng nhau')"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-dition-",
+                            "mean": "Phần trung tâm của từ, kết hợp với tiền tố 'con-' và hậu tố '-ion' để tạo nên ý nghĩa về một trạng thái, một điều kiện hay một yêu cầu đã được xác lập hoặc định nghĩa. Nó gợi lên một sự sắp đặt hoặc quy định.",
+                            "example": "tradition (truyền thống - những gì được đặt ra và lưu truyền)"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố tạo danh từ, chỉ trạng thái, quá trình hoặc kết quả. Ở đây, nó tạo ra danh từ 'tình trạng' hoặc 'điều kiện'.",
+                            "example": "election (cuộc bầu cử)"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "state",
+                    "status",
+                    "requirement",
+                    "prerequisite"
+                ],
+                "example": "The patient's condition is improving after the surgery."
+            }
+        ]
+    },
+    {
+        "word": "dehydration",
+        "phonetic": "/ˌdiːhaɪˈdreɪʃən/",
+        "definitions": [
+            {
+                "meaning": "Sự mất nước, tình trạng thiếu nước. Tình trạng cơ thể mất nhiều nước hơn lượng nước hấp thụ, dẫn đến sự thiếu hụt chất lỏng cần thiết cho các chức năng cơ thể.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "de-",
+                            "mean": "Tiền tố có nghĩa 'loại bỏ', 'xuống', 'khỏi'. Trong 'dehydration', nó rõ ràng chỉ hành động loại bỏ hoặc mất đi một thứ gì đó.",
+                            "example": "detach (tách rời - loại bỏ sự gắn kết)"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "hydr-",
+                            "mean": "Gốc từ mang ý nghĩa về nước. Đây là một gốc từ rất rõ ràng và phổ biến, giúp xác định nghĩa cốt lõi của từ.",
+                            "example": "hydrogen (khí hiđrô - một thành phần của nước)"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ation",
+                            "mean": "Hậu tố tạo danh từ, thường chỉ quá trình hoặc kết quả của một hành động. Trong trường hợp này, nó biến đổi thành danh từ, mô tả quá trình hoặc trạng thái mất nước.",
+                            "example": "information (thông tin - kết quả của quá trình thông báo)"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "dryness",
+                    "desiccation",
+                    "water loss"
+                ],
+                "example": "Symptoms of dehydration include dizziness and thirst."
+            }
+        ]
+    },
+    {
+        "word": "suffering from",
+        "phonetic": "/ˈsʌfərɪŋ frɒm/",
+        "definitions": [
+            {
+                "meaning": "Bị mắc bệnh, chịu đựng (từ). Cụm động từ chỉ việc đang trải qua một căn bệnh, một tình trạng khó khăn, nỗi đau hoặc một vấn đề không mong muốn nào đó. Giới từ 'from' ở đây chỉ ra nguồn gốc hoặc nguyên nhân của sự chịu đựng.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "suf-",
+                            "mean": "Là một biến thể của tiền tố 'sub-', mang ý nghĩa 'dưới', 'phía dưới'. Trong 'suffer', nó góp phần gợi lên hình ảnh bị đè nén, chịu đựng một gánh nặng hoặc điều gì đó không mong muốn.",
+                            "example": "suppress (đàn áp - đè nén xuống)"
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "fer-",
+                            "mean": "Gốc từ mang ý nghĩa 'mang', 'chịu đựng'. Trong 'suffer', nó là cốt lõi của ý nghĩa 'chịu đựng' một điều gì đó.",
+                            "example": "defer (trì hoãn - mang lùi lại, chịu đựng sự chậm trễ)"
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ing",
+                            "mean": "Hậu tố biến đổi động từ thành dạng phân từ hiện tại hoặc danh động từ, chỉ một hành động hoặc trạng thái đang diễn ra. Trong 'suffering from', nó chỉ trạng thái đang chịu đựng, đang trải qua.",
+                            "example": "learning (đang học)"
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "afflicted with",
+                    "experiencing",
+                    "plagued by",
+                    "troubled with"
+                ],
+                "example": "She has been suffering from chronic headaches for years."
+            }
+        ]
     }
 ]
