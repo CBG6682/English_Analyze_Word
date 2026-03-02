@@ -4151,5 +4151,240 @@
                 "example": "She has been suffering from chronic headaches for years."
             }
         ]
+    },
+    {
+        "word": "bacteria",
+        "phonetic": "/bækˈtɪəriə/",
+        "definitions": [
+            {
+                "meaning": "Vi khuẩn (sinh vật đơn bào cực nhỏ, có thể gây bệnh hoặc có lợi, tồn tại khắp nơi trong môi trường và cơ thể sống).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "bacter",
+                            "mean": "Gốc từ này có ý nghĩa liên quan đến 'que' hoặc 'gậy', mô tả hình dạng cơ bản của một số loại vi khuẩn được quan sát ban đầu. Nó góp phần định nghĩa đây là một loại sinh vật có cấu trúc nhỏ và đặc trưng. Ví dụ: *bactericide* (chất diệt khuẩn)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ia",
+                            "mean": "Hậu tố này thường được sử dụng để tạo danh từ số nhiều, đặc biệt trong các thuật ngữ sinh học hoặc y học, chỉ một nhóm hoặc chủng loại. Ví dụ: *criteria* (các tiêu chí)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "vi trùng",
+                    "mầm bệnh"
+                ],
+                "example": "Some types of bacteria are beneficial for digestion, while others can cause serious infections."
+            }
+        ]
+    },
+    {
+        "word": "infection",
+        "phonetic": "/ɪnˈfɛkʃən/",
+        "definitions": [
+            {
+                "meaning": "Sự nhiễm trùng (tình trạng cơ thể bị các vi sinh vật gây bệnh như vi khuẩn, virus, nấm xâm nhập, nhân lên và gây hại, dẫn đến bệnh tật).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố này mang ý nghĩa 'vào trong' hoặc 'bên trong', cho thấy sự xâm nhập hoặc đi vào một không gian hay vật thể. Ví dụ: *inside* (bên trong)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "fect",
+                            "mean": "Gốc từ này có nghĩa liên quan đến 'làm', 'tạo ra' hoặc 'gây ra'. Trong ngữ cảnh này, nó ám chỉ hành động gây ra bệnh hoặc tình trạng cụ thể. Ví dụ: *effect* (ảnh hưởng, kết quả)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố này thường biến động từ thành danh từ, chỉ một hành động, quá trình hoặc kết quả của hành động đó. Ví dụ: *creation* (sự tạo ra)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "sự lây nhiễm",
+                    "bệnh truyền nhiễm"
+                ],
+                "example": "Washing your hands frequently is crucial for preventing the spread of infection."
+            }
+        ]
+    },
+    {
+        "word": "obesity",
+        "phonetic": "/oʊˈbiːsɪti/",
+        "definitions": [
+            {
+                "meaning": "Bệnh béo phì (tình trạng y tế đặc trưng bởi sự tích tụ quá mức hoặc bất thường của mỡ trong cơ thể, có thể gây ảnh hưởng xấu đến sức khỏe).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ob-",
+                            "mean": "Tiền tố này mang ý nghĩa 'quá mức', 'trên' hoặc 'đối diện'. Trong từ này, nó nhấn mạnh sự vượt quá giới hạn bình thường về cân nặng. Ví dụ: *obstruct* (cản trở)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "es",
+                            "mean": "Gốc từ này liên quan đến 'ăn', thể hiện hành động tiêu thụ thức ăn. Kết hợp với tiền tố 'ob-', nó gợi ý trạng thái 'đã ăn quá nhiều' hoặc 'ăn đến mức béo phì'. Ví dụ: *edible* (có thể ăn được)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ity",
+                            "mean": "Hậu tố này được sử dụng để tạo danh từ từ tính từ, chỉ một trạng thái, chất lượng hoặc điều kiện. Ví dụ: *ability* (khả năng)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "béo phì",
+                    "tình trạng thừa cân"
+                ],
+                "example": "Obesity significantly increases the risk of developing chronic diseases like diabetes and heart disease."
+            }
+        ]
+    },
+    {
+        "word": "vessel",
+        "phonetic": "/ˈvɛsəl/",
+        "definitions": [
+            {
+                "meaning": "Mạch (trong cơ thể, như mạch máu, mạch bạch huyết); hoặc tàu, thuyền (thường là tàu lớn); hoặc bình, lọ (dùng để chứa chất lỏng). Trong y học, nó chủ yếu chỉ các ống dẫn chất lỏng trong cơ thể.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "mạch máu",
+                    "ống dẫn",
+                    "bình chứa"
+                ],
+                "example": "Blood vessels play a vital role in circulating blood throughout the body."
+            }
+        ]
+    },
+    {
+        "word": "stroke",
+        "phonetic": "/stroʊk/",
+        "definitions": [
+            {
+                "meaning": "Đột quỵ (tình trạng y tế nghiêm trọng xảy ra khi nguồn cung cấp máu đến một phần của não bị gián đoạn hoặc giảm đáng kể, gây tổn thương tế bào não). Nó cũng có thể có nghĩa là cú đánh, nét vẽ.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "tai biến mạch máu não",
+                    "nhồi máu não"
+                ],
+                "example": "He suffered a stroke which affected his ability to speak and move his right side."
+            }
+        ]
+    },
+    {
+        "word": "soar",
+        "phonetic": "/sɔːr/",
+        "definitions": [
+            {
+                "meaning": "Bay vút lên (bay cao và lượn trên không trung); tăng vọt (tăng lên nhanh chóng về mức độ, số lượng hoặc giá trị).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "bay lượn",
+                    "tăng vọt",
+                    "phóng lên"
+                ],
+                "example": "The eagle soared effortlessly above the mountain peaks, and stock prices soared after the positive economic report."
+            }
+        ]
+    },
+    {
+        "word": "diagnose",
+        "phonetic": "/ˈdaɪəɡnoʊz/",
+        "definitions": [
+            {
+                "meaning": "Chẩn đoán (quá trình xác định bản chất, nguyên nhân hoặc bệnh tật của một tình trạng sức khỏe hoặc vấn đề thông qua việc phân tích triệu chứng và kết quả xét nghiệm).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "dia-",
+                            "mean": "Tiền tố này mang ý nghĩa 'xuyên qua', 'qua lại' hoặc 'giữa'. Trong 'diagnose', nó gợi ý một quá trình xem xét kỹ lưỡng qua các thông tin để đi đến kết luận. Ví dụ: *diameter* (đường kính)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "gnose",
+                            "mean": "Gốc từ này có nghĩa là 'biết', 'nhận thức' hoặc 'học hỏi'. Nó là cốt lõi trong việc hình thành ý nghĩa 'xác định' hay 'nhận biết' một bệnh trạng. Ví dụ: *prognosis* (dự đoán bệnh)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "nhận diện bệnh",
+                    "xác định bệnh"
+                ],
+                "example": "It took several tests to diagnose the rare condition accurately."
+            }
+        ]
+    },
+    {
+        "word": "discharge",
+        "phonetic": "/dɪsˈtʃɑːrdʒ/",
+        "definitions": [
+            {
+                "meaning": "Xuất viện (cho phép bệnh nhân rời bệnh viện); thải ra, xả ra (chất lỏng, khí, năng lượng); giải phóng (một người hoặc vật khỏi trách nhiệm, tù đày).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "dis-",
+                            "mean": "Tiền tố này mang ý nghĩa 'không', 'ngược lại' hoặc 'tách rời'. Trong 'discharge', nó thể hiện hành động gỡ bỏ hoặc tách ra khỏi một tình trạng (như bị giữ lại, có trách nhiệm, bị giam cầm). Ví dụ: *disagree* (không đồng ý)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "charge",
+                            "mean": "Gốc từ này có nhiều nghĩa, nhưng ở đây nó liên quan đến 'tải', 'trách nhiệm', 'gánh nặng' hoặc 'sự giam giữ'. Kết hợp với 'dis-', nó tạo ra nghĩa 'loại bỏ gánh nặng', 'giải phóng khỏi sự giam giữ'. Ví dụ: *charge* (phí, buộc tội, nạp điện)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "xuất viện",
+                    "thải ra",
+                    "giải phóng"
+                ],
+                "example": "The patient was well enough to be discharged from the hospital this morning."
+            }
+        ]
+    },
+    {
+        "word": "screen for a disease",
+        "phonetic": "/skriːn fɔːr ə dɪˈziːz/",
+        "definitions": [
+            {
+                "meaning": "Sàng lọc bệnh (thực hiện các xét nghiệm hoặc kiểm tra định kỳ một cách hệ thống để phát hiện sớm các dấu hiệu tiềm ẩn của một bệnh cụ thể ở những người chưa có triệu chứng nhưng có nguy cơ, nhằm mục đích can thiệp kịp thời).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "kiểm tra sàng lọc",
+                    "xét nghiệm dự phòng",
+                    "tầm soát bệnh"
+                ],
+                "example": "Regular mammograms are used to screen for breast cancer in women over 40."
+            }
+        ]
     }
 ]

@@ -122,3 +122,12 @@ addiction
 condition
 dehydration
 suffering from
+bacteria
+infection
+obesity
+vessel
+stroke
+soar
+diagnose
+discharge
+screen for a decease
