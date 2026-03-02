@@ -4368,22 +4368,453 @@
         ]
     },
     {
-        "word": "screen for a disease",
-        "phonetic": "/skriːn fɔːr ə dɪˈziːz/",
+        "word": "screen for",
+        "phonetic": "/skriːn fɔːr/",
         "definitions": [
             {
-                "meaning": "Sàng lọc bệnh (thực hiện các xét nghiệm hoặc kiểm tra định kỳ một cách hệ thống để phát hiện sớm các dấu hiệu tiềm ẩn của một bệnh cụ thể ở những người chưa có triệu chứng nhưng có nguy cơ, nhằm mục đích can thiệp kịp thời).",
+                "meaning": "Sàng lọc, kiểm tra (để phát hiện bệnh, vấn đề, chất bất thường). Hành động này thường được thực hiện một cách có hệ thống hoặc định kỳ để tìm kiếm sự hiện diện của một thứ gì đó, đặc biệt là bệnh tật hoặc nguy cơ.",
                 "analysis": {
                     "prefixes": [],
                     "roots": [],
                     "suffixes": []
                 },
                 "synonyms": [
-                    "kiểm tra sàng lọc",
-                    "xét nghiệm dự phòng",
-                    "tầm soát bệnh"
+                    "check for",
+                    "test for",
+                    "look for"
                 ],
-                "example": "Regular mammograms are used to screen for breast cancer in women over 40."
+                "example": "Doctors often screen for certain cancers in older patients."
+            }
+        ]
+    },
+    {
+        "word": "affluence",
+        "phonetic": "/ˈæfluəns/",
+        "definitions": [
+            {
+                "meaning": "Sự giàu có, thịnh vượng (trạng thái có nhiều tiền bạc, tài sản và sống một lối sống sung túc, thoải mái về vật chất).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "af-",
+                            "mean": "Tiền tố 'af-' (một biến thể của 'ad-') mang ý nghĩa \"hướng tới\", \"đến gần\" hoặc \"về phía\". Nó thường được dùng để chỉ sự gia tăng, bổ sung hoặc di chuyển tới một trạng thái nào đó. Ví dụ: \"attract\" (thu hút)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "flu",
+                            "mean": "Gốc từ 'flu' có nghĩa là \"chảy\", \"chảy đi\" hoặc \"trôi chảy\". Trong từ 'affluence', nó ám chỉ sự chảy tràn của của cải, tài sản, mang lại sự sung túc. Ví dụ: \"fluid\" (chất lỏng)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ence",
+                            "mean": "Hậu tố '-ence' được dùng để tạo thành danh từ từ động từ hoặc tính từ, thường mang nghĩa là \"trạng thái\", \"chất lượng\" hoặc \"hành động\". Trong trường hợp này, nó chỉ trạng thái giàu có, sung túc. Ví dụ: \"difference\" (sự khác biệt)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "wealth",
+                    "prosperity",
+                    "riches",
+                    "opulence"
+                ],
+                "example": "The country's growing affluence has led to improved living standards."
+            }
+        ]
+    },
+    {
+        "word": "associate with",
+        "phonetic": "/əˈsoʊʃieɪt wɪð/",
+        "definitions": [
+            {
+                "meaning": "Liên kết, liên tưởng với (khi nghĩ về một người, vật, ý tưởng khác có mối quan hệ hoặc sự kết nối). Ngoài ra còn có nghĩa là giao du, kết giao với ai đó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "as-",
+                            "mean": "Tiền tố 'as-' (một biến thể của 'ad-') mang ý nghĩa \"hướng tới\", \"đến gần\", \"bên cạnh\" hoặc \"liên quan đến\". Nó thường chỉ sự kết nối hoặc hành động hướng tới. Ví dụ: \"assist\" (hỗ trợ)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "soci",
+                            "mean": "Gốc từ 'soci' có nghĩa là \"bạn bè\", \"đồng minh\" hoặc \"kết nối\", \"xã hội\". Trong từ 'associate', nó thể hiện ý nghĩa của sự kết nối, liên kết giữa các yếu tố. Ví dụ: \"social\" (thuộc về xã hội)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "Hậu tố '-ate' có thể tạo thành động từ, tính từ hoặc danh từ. Khi là động từ, nó thường chỉ một hành động hoặc quá trình. Trong 'associate', nó biến gốc từ thành một động từ hành động liên kết. Ví dụ: \"create\" (tạo ra)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "connect with",
+                    "link with",
+                    "relate to",
+                    "mingle with"
+                ],
+                "example": "Many people associate classical music with elegance and sophistication."
+            }
+        ]
+    },
+    {
+        "word": "wealth",
+        "phonetic": "/welθ/",
+        "definitions": [
+            {
+                "meaning": "Sự giàu có, của cải (một số lượng lớn tiền bạc, tài sản có giá trị hoặc các nguồn lực khác mà một người hoặc quốc gia sở hữu).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": [
+                        {
+                            "val": "-th",
+                            "mean": "Hậu tố '-th' thường được dùng để tạo danh từ trừu tượng từ tính từ hoặc động từ, chỉ trạng thái, chất lượng hoặc kết quả của một hành động. Trong trường hợp này, nó chỉ trạng thái giàu có. Ví dụ: \"strength\" (sức mạnh)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "riches",
+                    "fortune",
+                    "affluence",
+                    "prosperity"
+                ],
+                "example": "The family inherited a great deal of wealth from their ancestors."
+            }
+        ]
+    },
+    {
+        "word": "diabetes",
+        "phonetic": "/ˌdaɪəˈbiːtiːz/",
+        "definitions": [
+            {
+                "meaning": "Bệnh tiểu đường (một bệnh mãn tính mà cơ thể không sản xuất đủ insulin hoặc không sử dụng hiệu quả insulin, dẫn đến lượng đường trong máu cao, gây ra các triệu chứng như khát nhiều, đi tiểu thường xuyên).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "dia-",
+                            "mean": "Tiền tố 'dia-' có nghĩa là \"xuyên qua\", \"ngang qua\" hoặc \"giữa\". Trong ngữ cảnh y học của 'diabetes', nó ám chỉ sự di chuyển, chảy qua của nước tiểu (do khát và đi tiểu nhiều). Ví dụ: \"diameter\" (đường kính)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "betes",
+                            "mean": "Phần 'betes' mang ý nghĩa \"đi\", \"chảy\". Trong từ 'diabetes', nó kết hợp với tiền tố 'dia-' để mô tả hiện tượng nước tiểu 'chảy qua' cơ thể quá mức, một triệu chứng đặc trưng của bệnh."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [],
+                "example": "Regular exercise and a healthy diet can help manage diabetes."
+            }
+        ]
+    },
+    {
+        "word": "prosperous",
+        "phonetic": "/ˈprɒspərəs/",
+        "definitions": [
+            {
+                "meaning": "Thịnh vượng, phát đạt, giàu có (ở trong trạng thái thành công về tài chính hoặc phát triển mạnh mẽ về kinh tế; cũng có thể ám chỉ sự thuận lợi và may mắn nói chung).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "pro-",
+                            "mean": "Tiền tố 'pro-' có nghĩa là \"trước\", \"tiến lên\", \"hướng về phía trước\" hoặc \"ủng hộ\". Trong 'prosperous', nó ám chỉ sự tiến lên, phát triển thuận lợi. Ví dụ: \"progress\" (tiến bộ)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "sper",
+                            "mean": "Gốc từ 'sper' gợi ý ý nghĩa về sự thành công, thuận lợi. Nó đóng góp vào nghĩa trung tâm của từ là sự phát triển và đạt được mục tiêu."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ous",
+                            "mean": "Hậu tố '-ous' được dùng để tạo tính từ, thường có nghĩa là \"đầy\", \"có tính chất\" hoặc \"thuộc về\". Trong 'prosperous', nó chỉ trạng thái hoặc đặc điểm của sự thịnh vượng. Ví dụ: \"dangerous\" (nguy hiểm)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "wealthy",
+                    "flourishing",
+                    "thriving",
+                    "successful"
+                ],
+                "example": "The company has experienced a prosperous year, with record sales."
+            }
+        ]
+    },
+    {
+        "word": "exposure",
+        "phonetic": "/ɪkˈspoʊʒər/",
+        "definitions": [
+            {
+                "meaning": "Sự tiếp xúc, sự phơi bày (tình trạng bị ảnh hưởng bởi một yếu tố nào đó, hoặc hành động làm cho một thứ gì đó bị lộ ra ngoài, không được che giấu).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ex-",
+                            "mean": "Tiền tố 'ex-' có nghĩa là \"ra ngoài\", \"ngoài\", \"khỏi\" hoặc \"hoàn toàn\". Trong 'exposure', nó ám chỉ hành động đưa ra ngoài, phơi bày. Ví dụ: \"exit\" (lối ra)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "pos",
+                            "mean": "Gốc từ 'pos' có nghĩa là \"đặt\", \"để\" hoặc \"vị trí\". Trong 'exposure', nó kết hợp với 'ex-' để chỉ hành động đặt cái gì đó ra ngoài hoặc ở vị trí không được che chắn. Ví dụ: \"position\" (vị trí)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ure",
+                            "mean": "Hậu tố '-ure' được dùng để tạo danh từ, thường chỉ hành động, quá trình hoặc kết quả của một hành động. Trong 'exposure', nó chỉ kết quả của việc phơi bày hoặc trạng thái bị phơi bày. Ví dụ: \"pressure\" (áp lực)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "contact",
+                    "vulnerability",
+                    "revelation",
+                    "uncovering"
+                ],
+                "example": "Prolonged exposure to the sun can be harmful to your skin."
+            }
+        ]
+    },
+    {
+        "word": "predominantly",
+        "phonetic": "/prɪˈdɒmɪnəntli/",
+        "definitions": [
+            {
+                "meaning": "Chủ yếu, phần lớn, chiếm ưu thế (hầu hết hoặc ở mức độ lớn nhất, thường dùng để mô tả một đặc điểm, thành phần, hoặc ảnh hưởng nổi bật).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "pre-",
+                            "mean": "Tiền tố 'pre-' có nghĩa là \"trước\", \"trước khi\" hoặc \"trước tiên\". Trong 'predominantly', nó góp phần vào ý nghĩa của sự ưu việt, đứng trước các yếu tố khác. Ví dụ: \"preview\" (xem trước)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "domin",
+                            "mean": "Gốc từ 'domin' có nghĩa là \"chủ\", \"thống trị\", \"kiểm soát\". Trong 'predominantly', nó nhấn mạnh ý nghĩa của việc chiếm ưu thế, vượt trội hơn các yếu tố khác. Ví dụ: \"dominate\" (thống trị)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ant",
+                            "mean": "Hậu tố '-ant' được dùng để tạo tính từ hoặc danh từ, thường chỉ người thực hiện hành động hoặc trạng thái. Trong 'predominant', nó biến 'domin' thành tính từ chỉ sự chiếm ưu thế. Ví dụ: \"assistant\" (trợ lý)."
+                        },
+                        {
+                            "val": "-ly",
+                            "mean": "Hậu tố '-ly' được dùng để biến tính từ thành trạng từ, thường mang nghĩa \"một cách\" hoặc \"theo cách thức\". Trong 'predominantly', nó biến tính từ 'predominant' thành trạng từ, chỉ cách thức chủ yếu, phần lớn. Ví dụ: \"quickly\" (một cách nhanh chóng)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "mainly",
+                    "primarily",
+                    "mostly",
+                    "chiefly"
+                ],
+                "example": "The population of the city is predominantly young."
+            }
+        ]
+    },
+    {
+        "word": "tuberculosis",
+        "phonetic": "/tʃuːˌbɜːrkjəˈloʊsɪs/",
+        "definitions": [
+            {
+                "meaning": "Bệnh lao (một bệnh truyền nhiễm mãn tính nghiêm trọng do vi khuẩn gây ra, chủ yếu ảnh hưởng đến phổi nhưng có thể lan sang các bộ phận khác của cơ thể, đặc trưng bởi sự hình thành các nốt sần nhỏ).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "tuber",
+                            "mean": "Gốc từ 'tuber' có nghĩa là \"cục u\", \"sưng phồng\" hoặc \"nốt sần\". Trong 'tuberculosis', nó mô tả các nốt sần (tuberculate) hình thành trong phổi và các cơ quan khác do bệnh gây ra. Ví dụ: \"tuber\" (củ)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-cul",
+                            "mean": "Hậu tố '-cul' là một hậu tố rút gọn (diminutive suffix), có nghĩa là \"nhỏ\". Trong 'tuberculum' (từ gốc của tuberculosis), nó chỉ những cục u nhỏ. Ví dụ: \"molecule\" (phân tử - cũng chỉ đơn vị nhỏ)."
+                        },
+                        {
+                            "val": "-osis",
+                            "mean": "Hậu tố '-osis' trong y học được dùng để chỉ một tình trạng, bệnh lý, hoặc quá trình bất thường. Trong 'tuberculosis', nó chỉ tình trạng bệnh lý đặc trưng bởi sự hình thành các cục u nhỏ. Ví dụ: \"neurosis\" (chứng loạn thần kinh)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "TB"
+                ],
+                "example": "Vaccination programs have significantly reduced the incidence of tuberculosis worldwide."
+            }
+        ]
+    },
+    {
+        "word": "malaria",
+        "phonetic": "/məˈlɛəriə/",
+        "definitions": [
+            {
+                "meaning": "Bệnh sốt rét (một bệnh truyền nhiễm nguy hiểm do ký sinh trùng gây ra, lây truyền qua muỗi đốt, đặc trưng bởi sốt cao, ớn lạnh và các triệu chứng giống cúm).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "mal-",
+                            "mean": "Tiền tố 'mal-' có nghĩa là \"xấu\", \"tệ\", \"không tốt\" hoặc \"sai\". Trong 'malaria', nó ám chỉ điều không tốt, bệnh tật. Ví dụ: \"malfunction\" (trục trặc)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ari",
+                            "mean": "Gốc từ 'ari' có nghĩa là \"không khí\". Trong quá khứ, người ta tin rằng bệnh sốt rét là do \"không khí xấu\" (mal aria) từ đầm lầy gây ra, mặc dù nguyên nhân thực sự là muỗi. Ví dụ: \"aerial\" (trên không)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "ague"
+                ],
+                "example": "Mosquito nets are effective in preventing the spread of malaria."
+            }
+        ]
+    },
+    {
+        "word": "diarrhoeal",
+        "phonetic": "/ˌdaɪəˈriːəl/",
+        "definitions": [
+            {
+                "meaning": "(Thuộc về) bệnh tiêu chảy (liên quan đến tình trạng đi ngoài phân lỏng nhiều lần, một triệu chứng phổ biến của nhiều bệnh nhiễm trùng đường ruột).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "dia-",
+                            "mean": "Tiền tố 'dia-' có nghĩa là \"xuyên qua\", \"ngang qua\" hoặc \"giữa\". Trong 'diarrhoeal', nó ám chỉ sự di chuyển nhanh chóng, chảy xuyên qua ruột. Ví dụ: \"dialogue\" (đối thoại)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "rhoe",
+                            "mean": "Gốc từ 'rhoe' có nghĩa là \"chảy\", \"dòng chảy\". Trong 'diarrhoeal', nó mô tả sự chảy lỏng, đặc trưng của bệnh tiêu chảy."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-al",
+                            "mean": "Hậu tố '-al' được dùng để tạo tính từ, thường có nghĩa là \"thuộc về\", \"liên quan đến\". Trong 'diarrhoeal', nó biến danh từ 'diarrhoea' thành tính từ để mô tả điều gì đó liên quan đến tiêu chảy. Ví dụ: \"medical\" (y tế)."
+                        }
+                    ]
+                },
+                "synonyms": [],
+                "example": "Contaminated water is a common cause of diarrhoeal diseases."
+            }
+        ]
+    },
+    {
+        "word": "sanitation",
+        "phonetic": "/ˌsænɪˈteɪʃən/",
+        "definitions": [
+            {
+                "meaning": "Vệ sinh môi trường, hệ thống thoát nước và xử lý chất thải (các hệ thống và hoạt động để bảo vệ sức khỏe cộng đồng bằng cách loại bỏ chất thải con người và các chất thải khác một cách an toàn, đảm bảo môi trường sạch sẽ).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "san",
+                            "mean": "Gốc từ 'san' có nghĩa là \"khỏe mạnh\", \"trong sạch\". Trong 'sanitation', nó nhấn mạnh mục tiêu của các hoạt động này là duy trì sức khỏe và sự sạch sẽ. Ví dụ: \"sane\" (tỉnh táo, khỏe mạnh về tinh thần)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "Hậu tố '-ate' được dùng để tạo động từ. Ở đây nó là phần của động từ 'sanitate' (làm sạch, vệ sinh) trước khi thêm '-ion' để tạo danh từ. Ví dụ: \"activate\" (kích hoạt)."
+                        },
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố '-ion' được dùng để tạo danh từ từ động từ, chỉ hành động, quá trình hoặc kết quả của hành động. Trong 'sanitation', nó chỉ quá trình hoặc hệ thống liên quan đến việc duy trì vệ sinh và sức khỏe. Ví dụ: \"action\" (hành động)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "hygiene",
+                    "public health",
+                    "waste management"
+                ],
+                "example": "Improved sanitation facilities are crucial for preventing the spread of diseases."
+            }
+        ]
+    },
+    {
+        "word": "malnutrition",
+        "phonetic": "/ˌmælnjuːˈtrɪʃən/",
+        "definitions": [
+            {
+                "meaning": "Suy dinh dưỡng (tình trạng cơ thể thiếu, thừa hoặc mất cân bằng các chất dinh dưỡng cần thiết, gây ảnh hưởng xấu đến sức khỏe và sự phát triển).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "mal-",
+                            "mean": "Tiền tố 'mal-' có nghĩa là \"xấu\", \"tệ\", \"không tốt\" hoặc \"thiếu\". Trong 'malnutrition', nó ám chỉ sự dinh dưỡng không tốt hoặc thiếu hụt. Ví dụ: \"malfunction\" (trục trặc)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "nutri",
+                            "mean": "Gốc từ 'nutri' có nghĩa là \"nuôi dưỡng\", \"cung cấp dinh dưỡng\". Trong 'malnutrition', nó đề cập đến yếu tố dinh dưỡng bị ảnh hưởng tiêu cực. Ví dụ: \"nutrient\" (chất dinh dưỡng)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-tion",
+                            "mean": "Hậu tố '-tion' được dùng để tạo danh từ từ động từ, chỉ hành động, quá trình hoặc kết quả của hành động. Trong 'malnutrition', nó chỉ tình trạng hoặc kết quả của việc dinh dưỡng không đầy đủ/không đúng cách. Ví dụ: \"education\" (giáo dục)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "underfeeding",
+                    "undernourishment",
+                    "starvation"
+                ],
+                "example": "Child malnutrition remains a significant problem in many developing countries."
+            }
+        ]
+    },
+    {
+        "word": "immunize",
+        "phonetic": "/ˈɪmjənaɪz/",
+        "definitions": [
+            {
+                "meaning": "Tiêm chủng, miễn dịch hóa (tạo cho ai đó hoặc thứ gì đó khả năng chống lại một bệnh cụ thể hoặc tác nhân gây hại, thường bằng cách tiêm vắc-xin).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "im-",
+                            "mean": "Tiền tố 'im-' (một biến thể của 'in-') trong ngữ cảnh này mang ý nghĩa \"không\", \"miễn nhiễm\" hoặc \"không bị ảnh hưởng\". Nó góp phần tạo nên nghĩa của sự bảo vệ, không bị tác động bởi mầm bệnh. Ví dụ: \"immobile\" (không di chuyển được)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "mun",
+                            "mean": "Gốc từ 'mun' mang ý nghĩa \"miễn trừ\", \"không bị ảnh hưởng\" hoặc \"an toàn\". Trong 'immunize', nó là cơ sở cho ý nghĩa của việc tạo ra sự miễn dịch, bảo vệ khỏi bệnh tật. Ví dụ: \"immune\" (miễn dịch)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ize",
+                            "mean": "Hậu tố '-ize' được dùng để tạo động từ từ danh từ hoặc tính từ, thường có nghĩa là \"làm cho trở nên\", \"thực hiện hành động\". Trong 'immunize', nó chỉ hành động làm cho ai đó trở nên miễn dịch. Ví dụ: \"modernize\" (hiện đại hóa)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "vaccinate",
+                    "inoculate",
+                    "protect"
+                ],
+                "example": "Children should be immunized against common childhood diseases."
             }
         ]
     }
