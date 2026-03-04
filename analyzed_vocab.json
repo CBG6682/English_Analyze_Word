@@ -5207,5 +5207,44 @@
                 "example": "The event coordinator ensured all vendors and performers were on schedule."
             }
         ]
+    },
+    {
+        "word": "achievement-oriented",
+        "phonetic": "/əˈtʃiːvmənt ˌɔːriəntɪd/",
+        "definitions": [
+            {
+                "meaning": "Có định hướng thành tích; chú trọng thành quả; mong muốn đạt được thành công. Cụm từ này mô tả một người, một tổ chức, hoặc một văn hóa làm việc coi trọng việc đạt được mục tiêu, kết quả cụ thể và sự thành công. Những cá nhân hoặc tập thể có đặc điểm này thường có động lực cao, tập trung vào việc hoàn thành công việc và tạo ra những thành tựu có thể đo lường được.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "achieve",
+                            "mean": "Gốc từ này có nghĩa là 'hoàn thành', 'đạt tới', 'đi đến cùng'. Nó là cốt lõi của ý nghĩa 'thành công' hoặc 'hoàn tất' trong từ 'achievement', đóng góp vào phần 'thành tích' của cụm từ. Ví dụ: Từ 'achievable' (có thể đạt được) cũng mang gốc này."
+                        },
+                        {
+                            "val": "orient",
+                            "mean": "Gốc từ này có nghĩa là 'định hướng', 'hướng về một phía cụ thể' hoặc 'điều chỉnh theo một hướng'. Trong cụm từ này, nó mang ý nghĩa 'có khuynh hướng' hoặc 'được định hướng theo' một điều gì đó. Ví dụ: Từ 'disoriented' (mất phương hướng) cũng mang gốc này."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ment",
+                            "mean": "Hậu tố này được thêm vào động từ để tạo thành danh từ, thường chỉ kết quả của một hành động, trạng thái hoặc quá trình. Trong 'achievement', nó biến 'achieve' (đạt được) thành 'achievement' (thành tựu, sự đạt được). Ví dụ: Từ 'development' (sự phát triển) cũng sử dụng hậu tố này."
+                        },
+                        {
+                            "val": "-ed",
+                            "mean": "Hậu tố này khi thêm vào một động từ (ở đây là 'orient') thường tạo thành tính từ (quá khứ phân từ) mang nghĩa 'có đặc điểm', 'bị tác động', hoặc 'được định hướng theo'. Trong 'oriented', nó chỉ ra rằng một người/vật 'được định hướng' hoặc 'có khuynh hướng' theo một cái gì đó. Ví dụ: Từ 'talented' (có tài năng) cũng sử dụng hậu tố này."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "goal-oriented",
+                    "success-driven",
+                    "results-focused",
+                    "ambitious"
+                ],
+                "example": "Our company looks for achievement-oriented individuals who are eager to make an impact."
+            }
+        ]
     }
 ]
