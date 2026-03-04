@@ -5079,5 +5079,170 @@
                 "example": "There was a significant improvement in her health after the treatment."
             }
         ]
+    },
+    {
+        "word": "infant",
+        "phonetic": "/ˈɪnfənt/",
+        "definitions": [
+            {
+                "meaning": "Trẻ sơ sinh, trẻ nhỏ dưới 1 tuổi hoặc chưa biết đi. Từ này thường chỉ đứa trẻ trong giai đoạn đầu tiên của cuộc đời, hoàn toàn phụ thuộc vào người lớn, đặc biệt là trước khi chúng học nói.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố này mang nghĩa phủ định, tức là 'không' hoặc 'chưa'. Trong từ 'infant', nó biểu thị trạng thái 'chưa nói được' hoặc 'không nói được'. Ví dụ: 'incomplete' (chưa hoàn thành)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "fant",
+                            "mean": "Phần này xuất phát từ gốc có nghĩa là 'nói' hoặc 'có khả năng nói'. Khi kết hợp với tiền tố phủ định 'in-', nó tạo thành nghĩa cốt lõi 'không biết nói'. Ví dụ: 'fable' (truyện ngụ ngôn, một câu chuyện được kể)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ant",
+                            "mean": "Hậu tố này thường tạo thành danh từ chỉ người hoặc vật có đặc điểm nào đó hoặc thực hiện hành động. Trong 'infant', nó tạo thành danh từ chỉ người (đứa trẻ). Ví dụ: 'student' (học sinh)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "baby",
+                    "newborn",
+                    "tot"
+                ],
+                "example": "The infant slept peacefully in her mother's arms."
+            }
+        ]
+    },
+    {
+        "word": "toddler",
+        "phonetic": "/ˈɒdlər/",
+        "definitions": [
+            {
+                "meaning": "Trẻ mới biết đi, thường trong độ tuổi từ 1 đến 3 tuổi, đặc trưng bởi cách đi chập chững, không vững vàng. Từ này nhấn mạnh sự độc lập mới chớm của trẻ khi bắt đầu tự di chuyển và khám phá thế giới xung quanh.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "toddle",
+                            "mean": "Đây là gốc động từ chính của từ, có nghĩa là 'đi chập chững, đi không vững'. Nó mô tả hành động đặc trưng của những đứa trẻ ở độ tuổi này khi chúng đang học cách đi. Ví dụ: 'waddle' (đi lạch bạch như vịt, một từ khác mô tả cách đi)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-er",
+                            "mean": "Hậu tố này được thêm vào động từ để tạo thành danh từ chỉ người hoặc vật thực hiện hành động đó. Trong trường hợp này, 'toddler' là 'người đi chập chững'. Ví dụ: 'teacher' (người dạy)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "youngster",
+                    "little one",
+                    "preschooler"
+                ],
+                "example": "My toddler loves to chase the dog around the garden."
+            }
+        ]
+    },
+    {
+        "word": "adolescent",
+        "phonetic": "/ˌædəˈlesənt/",
+        "definitions": [
+            {
+                "meaning": "Thanh thiếu niên, người đang trong giai đoạn phát triển từ trẻ em thành người lớn, thường từ 13 đến 19 tuổi. Giai đoạn này đánh dấu sự trưởng thành nhanh chóng về thể chất, tâm lý và xã hội.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ad-",
+                            "mean": "Tiền tố này mang nghĩa 'hướng tới', 'đến'. Nó chỉ sự di chuyển hoặc định hướng về phía một điều gì đó, ở đây là hướng tới sự trưởng thành. Ví dụ: 'adhere' (tuân thủ, dính vào)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "olesc-",
+                            "mean": "Phần gốc này có nghĩa là 'lớn lên', 'trưởng thành'. Đây là yếu tố trung tâm của từ, chỉ quá trình phát triển để đạt đến trạng thái người lớn. Ví dụ: 'adult' (người trưởng thành)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ent",
+                            "mean": "Hậu tố này có thể tạo thành tính từ hoặc danh từ, chỉ người hoặc vật có đặc tính nào đó hoặc đang trong trạng thái nào đó. Trong 'adolescent', nó chỉ người đang trong quá trình trưởng thành. Ví dụ: 'dependent' (phụ thuộc)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "teenager",
+                    "youth",
+                    "juvenile"
+                ],
+                "example": "Many adolescents struggle with self-esteem issues during puberty."
+            }
+        ]
+    },
+    {
+        "word": "motivate",
+        "phonetic": "/ˈməʊtɪveɪt/",
+        "definitions": [
+            {
+                "meaning": "Thúc đẩy, tạo động lực, khơi gợi mong muốn hoặc sự nhiệt tình để ai đó làm điều gì. Hành động này nhằm kích thích sự chủ động, nỗ lực và hướng tới mục tiêu.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "mot-",
+                            "mean": "Gốc từ này có nghĩa là 'di chuyển', 'chuyển động' hoặc 'thúc đẩy'. Đây là cốt lõi của từ, thể hiện ý nghĩa về sự chuyển động bên trong hoặc sự thôi thúc hành động. Ví dụ: 'motion' (chuyển động)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "Hậu tố này thường được thêm vào để tạo thành động từ, mang nghĩa 'làm cho', 'gây ra' hoặc 'thực hiện hành động'. Trong 'motivate', nó có nghĩa là 'làm cho có động lực'. Ví dụ: 'create' (tạo ra)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "inspire",
+                    "encourage",
+                    "stimulate"
+                ],
+                "example": "Her inspiring speech motivated the team to work harder."
+            }
+        ]
+    },
+    {
+        "word": "coodinator",
+        "phonetic": "/kəʊˈɔːrdɪneɪtər/",
+        "definitions": [
+            {
+                "meaning": "Điều phối viên (đây là từ 'coordinator' bị lỗi chính tả), người có nhiệm vụ tổ chức, sắp xếp, quản lý và đảm bảo các hoạt động, bộ phận hoặc cá nhân làm việc cùng nhau một cách nhịp nhàng và hiệu quả để đạt được mục tiêu chung.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "co-",
+                            "mean": "Tiền tố này có nghĩa là 'cùng với', 'chung', hoặc 'hợp tác'. Nó chỉ sự kết hợp, hợp tác giữa các yếu tố để làm việc cùng nhau. Ví dụ: 'cooperate' (hợp tác)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ordin-",
+                            "mean": "Gốc từ này có nghĩa là 'thứ tự', 'sắp xếp', 'điều chỉnh'. Đây là yếu tố trung tâm thể hiện ý nghĩa về việc đặt mọi thứ vào đúng vị trí hoặc theo một trật tự nhất định. Ví dụ: 'order' (thứ tự, trật tự)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ator",
+                            "mean": "Hậu tố này được tạo thành từ '-ate' (tạo động từ) và '-or' (chỉ người thực hiện hành động). Nó chỉ người thực hiện hành động 'điều phối' (coordinate). Ví dụ: 'creator' (người sáng tạo)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "organizer",
+                    "manager",
+                    "facilitator"
+                ],
+                "example": "She works as a project coordinator for a large construction company."
+            }
+        ]
     }
 ]

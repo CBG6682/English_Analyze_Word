@@ -154,3 +154,10 @@ expenditure
 burden
 significant
 sufficient
+facility
+infant
+toddler
+adolescent
+motivate
+concentrate
+coodinator
