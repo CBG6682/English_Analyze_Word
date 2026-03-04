@@ -2825,45 +2825,6 @@
         ]
     },
     {
-        "word": "archievement-oriented",
-        "phonetic": "/əˈtʃiːvmənt ˌɔːriəntɪd/",
-        "definitions": [
-            {
-                "meaning": "Cụm từ \"archievement-oriented\" là một lỗi chính tả của \"achievement-oriented\", có nghĩa là hướng tới thành tích, định hướng thành công; có xu hướng hoặc tập trung vào việc đạt được mục tiêu, kết quả cụ thể và sự thành công.",
-                "analysis": {
-                    "prefixes": [],
-                    "roots": [
-                        {
-                            "val": "achieve",
-                            "mean": "Là động từ mang ý nghĩa \"đạt được\", \"hoàn thành\". Nó hình thành nên phần cốt lõi đầu tiên của tính từ ghép, chỉ mục tiêu hoặc kết quả mong muốn. Ví dụ: *achieve* (đạt được)."
-                        },
-                        {
-                            "val": "orient",
-                            "mean": "Là động từ mang ý nghĩa \"định hướng\", \"xoay về phía\". Nó chỉ xu hướng hoặc sự sắp đặt theo một mục tiêu hoặc hướng cụ thể. Ví dụ: *orientation* (sự định hướng)."
-                        }
-                    ],
-                    "suffixes": [
-                        {
-                            "val": "-ment",
-                            "mean": "Hậu tố \"-ment\" thường được dùng để tạo danh từ từ động từ, chỉ kết quả của hành động, trạng thái hoặc quá trình. Trong \"achievement\", nó biến động từ \"achieve\" thành danh từ \"achievement\" (thành tích). Ví dụ: *development* (sự phát triển)."
-                        },
-                        {
-                            "val": "-ed",
-                            "mean": "Hậu tố \"-ed\" ở đây dùng để tạo tính từ từ động từ, mang nghĩa \"được định hướng\", \"có xu hướng\". Nó kết hợp với \"achievement\" để tạo thành tính từ ghép. Ví dụ: *motivated* (có động lực)."
-                        }
-                    ]
-                },
-                "synonyms": [
-                    "ambitious",
-                    "goal-driven",
-                    "success-driven",
-                    "results-oriented"
-                ],
-                "example": "She's a highly achievement-oriented individual who always strives for excellence."
-            }
-        ]
-    },
-    {
         "word": "express",
         "phonetic": "/ɪkˈspres/",
         "definitions": [

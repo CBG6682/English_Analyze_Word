@@ -43,7 +43,7 @@ psychology
 psychologist
 anxious
 conscientious
-archievement-oriented
+achievement-oriented
 extrovert
 introvert
 ambivert
