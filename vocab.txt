@@ -160,4 +160,4 @@ toddler
 adolescent
 motivate
 concentrate
-coodinator
+coordinator

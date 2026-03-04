@@ -5211,37 +5211,39 @@
         ]
     },
     {
-        "word": "coodinator",
-        "phonetic": "/kəʊˈɔːrdɪneɪtər/",
+        "word": "coordinator",
+        "phonetic": "/koʊˈɔːrdɪneɪtər/",
         "definitions": [
             {
-                "meaning": "Điều phối viên (đây là từ 'coordinator' bị lỗi chính tả), người có nhiệm vụ tổ chức, sắp xếp, quản lý và đảm bảo các hoạt động, bộ phận hoặc cá nhân làm việc cùng nhau một cách nhịp nhàng và hiệu quả để đạt được mục tiêu chung.",
+                "meaning": "Người điều phối, điều hành, hoặc tổ chức các hoạt động, sự kiện, hay các bộ phận khác nhau để chúng hoạt động một cách nhịp nhàng, ăn khớp, hiệu quả và đạt được mục tiêu chung. Họ chịu trách nhiệm đảm bảo mọi yếu tố liên quan được sắp xếp hợp lý, tránh chồng chéo hoặc thiếu sót.",
                 "analysis": {
                     "prefixes": [
                         {
                             "val": "co-",
-                            "mean": "Tiền tố này có nghĩa là 'cùng với', 'chung', hoặc 'hợp tác'. Nó chỉ sự kết hợp, hợp tác giữa các yếu tố để làm việc cùng nhau. Ví dụ: 'cooperate' (hợp tác)."
+                            "mean": "Tiền tố này mang nghĩa \"cùng nhau\", \"chung\", hoặc \"hợp tác\". Nó biểu thị hành động hoặc trạng thái diễn ra với sự tham gia của hai hoặc nhiều đối tượng, hoặc việc kết nối, kết hợp các yếu tố lại với nhau. Ví dụ: 'coexist' (cùng tồn tại)."
                         }
                     ],
                     "roots": [
                         {
                             "val": "ordin-",
-                            "mean": "Gốc từ này có nghĩa là 'thứ tự', 'sắp xếp', 'điều chỉnh'. Đây là yếu tố trung tâm thể hiện ý nghĩa về việc đặt mọi thứ vào đúng vị trí hoặc theo một trật tự nhất định. Ví dụ: 'order' (thứ tự, trật tự)."
+                            "mean": "Gốc từ này có liên quan đến \"order\" (trật tự, sự sắp xếp) và từ Latinh 'ordinare' (sắp xếp, ra lệnh). Nó mang ý nghĩa về việc đặt mọi thứ vào đúng vị trí, tạo ra một cấu trúc có hệ thống, có trật tự hoặc duy trì sự ngăn nắp. Ví dụ: 'order' (trật tự, sắp xếp)."
                         }
                     ],
                     "suffixes": [
                         {
                             "val": "-ator",
-                            "mean": "Hậu tố này được tạo thành từ '-ate' (tạo động từ) và '-or' (chỉ người thực hiện hành động). Nó chỉ người thực hiện hành động 'điều phối' (coordinate). Ví dụ: 'creator' (người sáng tạo)."
+                            "mean": "Hậu tố này được dùng để tạo thành danh từ chỉ người hoặc vật thực hiện một hành động nào đó (thường là từ một động từ). Nó biến động từ gốc thành danh từ chỉ tác nhân hoặc người làm công việc cụ thể. Ví dụ: 'operator' (người vận hành)."
                         }
                     ]
                 },
                 "synonyms": [
                     "organizer",
                     "manager",
-                    "facilitator"
+                    "director",
+                    "facilitator",
+                    "administrator"
                 ],
-                "example": "She works as a project coordinator for a large construction company."
+                "example": "The event coordinator ensured all vendors and performers were on schedule."
             }
         ]
     }
