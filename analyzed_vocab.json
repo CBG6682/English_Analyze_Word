@@ -5246,5 +5246,192 @@
                 "example": "Our company looks for achievement-oriented individuals who are eager to make an impact."
             }
         ]
+    },
+    {
+        "word": "archievement-oriented",
+        "phonetic": "/əˈtʃiːvmənt ˈɔːriəntɪd/",
+        "definitions": [
+            {
+                "meaning": "Có xu hướng định hướng mạnh mẽ vào việc đạt được các mục tiêu, kết quả và thành công; tập trung cao độ vào việc hoàn thành và đạt được thành tích.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "achieve",
+                            "mean": "Phần cốt lõi mang nghĩa 'đạt được' hoặc 'hoàn thành'. Trong từ này, nó góp phần tạo nên ý nghĩa của 'thành tích' như một điều được đạt tới thông qua nỗ lực. Ví dụ khác: achieve (đạt được một mục tiêu)."
+                        },
+                        {
+                            "val": "orient",
+                            "mean": "Gốc từ này có nghĩa là 'định hướng', 'hướng tới' hoặc 'sắp xếp theo một hướng cụ thể'. Nó chỉ ra rằng một người hoặc vật được tập trung hoặc điều hướng theo hướng thành tích. Ví dụ khác: orientation (sự định hướng)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ment",
+                            "mean": "Hậu tố này được thêm vào động từ để tạo thành danh từ, chỉ kết quả của một hành động. Trong 'achievement', nó biến 'achieve' (đạt được - động từ) thành 'achievement' (thành tích, sự đạt được - danh từ). Ví dụ khác: develop -> development (sự phát triển)."
+                        },
+                        {
+                            "val": "-ed",
+                            "mean": "Hậu tố này thường được sử dụng để tạo tính từ từ danh từ hoặc động từ, chỉ trạng thái hoặc đặc tính của sự vật/hiện tượng. Trong 'oriented', nó chỉ ra sự 'được định hướng' hoặc 'có định hướng'. Ví dụ khác: motivate -> motivated (có động lực)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "goal-driven",
+                    "success-oriented",
+                    "results-focused"
+                ],
+                "example": "She is a highly archievement-oriented individual, always striving for excellence in her work."
+            }
+        ]
+    },
+    {
+        "word": "cuff",
+        "phonetic": "/kʌf/",
+        "definitions": [
+            {
+                "meaning": "1. Cổ tay áo (phần cuối của tay áo, thường được gập lại hoặc có khuy). 2. Còng tay (thường dùng ở dạng số nhiều: cuffs); hoặc hành động đánh nhẹ bằng tay mở, tát yêu. Trong ngữ cảnh y tế hoặc chung, nghĩa cổ tay áo và còng tay là phổ biến.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "wristband",
+                    "handcuff (for the restraint)"
+                ],
+                "example": "He rolled up the cuffs of his shirt. The police put the cuffs on the suspect."
+            }
+        ]
+    },
+    {
+        "word": "jab",
+        "phonetic": "/dʒæb/",
+        "definitions": [
+            {
+                "meaning": "1. Đâm, chọc nhanh và mạnh bằng vật nhọn hoặc ngón tay. 2. Một mũi tiêm, đặc biệt là tiêm vắc-xin, được thực hiện nhanh chóng (thường dùng trong văn nói).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "poke",
+                    "prod",
+                    "thrust",
+                    "prick",
+                    "shot (for injection)"
+                ],
+                "example": "The boxer delivered a quick jab to his opponent's stomach. She went to the clinic to get her flu jab."
+            }
+        ]
+    },
+    {
+        "word": "stethoscope",
+        "phonetic": "/ˈsteθəskoʊp/",
+        "definitions": [
+            {
+                "meaning": "Ống nghe y tế, một dụng cụ được sử dụng để nghe các âm thanh bên trong cơ thể, đặc biệt là từ tim, phổi và ruột, nhằm mục đích chẩn đoán các tình trạng sức khỏe.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "stetho-",
+                            "mean": "Thành tố này góp phần chỉ ý nghĩa 'ngực'. Trong 'stethoscope', nó ám chỉ việc dụng cụ này được dùng để nghe các âm thanh từ vùng ngực của bệnh nhân. Ví dụ khác: stethalgia (chứng đau ngực)."
+                        },
+                        {
+                            "val": "-scope",
+                            "mean": "Gốc từ này có nghĩa là 'dụng cụ để quan sát, kiểm tra'. Mặc dù thường dùng cho thị giác, trong 'stethoscope', nó chỉ dụng cụ dùng để 'kiểm tra' âm thanh bên trong cơ thể bằng cách nghe. Ví dụ khác: microscope (kính hiển vi)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "auscultator"
+                ],
+                "example": "The doctor used a stethoscope to listen to the patient's heart and lungs."
+            }
+        ]
+    },
+    {
+        "word": "syringe",
+        "phonetic": "/sɪˈrɪndʒ/",
+        "definitions": [
+            {
+                "meaning": "Ống tiêm, một dụng cụ y tế dùng để hút hoặc bơm chất lỏng (như thuốc) vào hoặc ra khỏi cơ thể, thường có kim tiêm gắn kèm. Đây là thiết bị cơ bản trong việc tiêm chích hoặc lấy mẫu chất lỏng.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "hypodermic",
+                    "injector"
+                ],
+                "example": "The nurse prepared the syringe for the vaccination."
+            }
+        ]
+    },
+    {
+        "word": "thermometer",
+        "phonetic": "/θərˈmɒmɪtər/",
+        "definitions": [
+            {
+                "meaning": "Nhiệt kế, một dụng cụ được thiết kế để đo nhiệt độ, đặc biệt là nhiệt độ cơ thể người, chất lỏng hoặc nhiệt độ môi trường xung quanh một cách chính xác.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "thermo-",
+                            "mean": "Thành tố này mang nghĩa 'nhiệt' hoặc 'liên quan đến nhiệt độ'. Trong 'thermometer', nó chỉ rõ rằng dụng cụ này liên quan đến việc đo nhiệt. Ví dụ khác: thermal (thuộc về nhiệt)."
+                        },
+                        {
+                            "val": "-meter",
+                            "mean": "Gốc từ này có nghĩa là 'dụng cụ đo lường'. Nó cho biết 'thermometer' là một thiết bị dùng để đo lường một đại lượng nào đó, cụ thể ở đây là nhiệt độ. Ví dụ khác: speedometer (đồng hồ đo tốc độ)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "temperature gauge",
+                    "pyrometer (cho nhiệt độ cao)"
+                ],
+                "example": "She checked her son's temperature with a thermometer."
+            }
+        ]
+    },
+    {
+        "word": "inhaler",
+        "phonetic": "/ɪnˈheɪlər/",
+        "definitions": [
+            {
+                "meaning": "Ống hít, một thiết bị y tế cầm tay dùng để đưa thuốc dưới dạng sương mù hoặc bột mịn vào phổi thông qua việc hít vào, thường được sử dụng để điều trị các vấn đề hô hấp như hen suyễn hoặc bệnh phổi tắc nghẽn mãn tính.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố này mang nghĩa 'vào trong' hoặc 'bên trong'. Trong 'inhaler', nó chỉ hành động đưa thuốc vào bên trong cơ thể thông qua đường hô hấp. Ví dụ khác: input (đầu vào)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "hal-",
+                            "mean": "Gốc từ này liên quan đến 'thở' hoặc 'hơi thở'. Trong 'inhaler', nó nhấn mạnh hành động hít thở để đưa thuốc vào phổi. Ví dụ khác: exhale (thở ra)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-er",
+                            "mean": "Hậu tố này thường được thêm vào động từ để tạo thành danh từ chỉ người hoặc vật thực hiện hành động đó. Trong 'inhaler', nó chỉ thiết bị thực hiện hành động 'hít vào'. Ví dụ khác: speaker (người nói, loa)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "puffer",
+                    "asthma pump"
+                ],
+                "example": "He always carries his inhaler in case of an asthma attack."
+            }
+        ]
     }
 ]

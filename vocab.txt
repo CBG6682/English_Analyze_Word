@@ -161,3 +161,9 @@ adolescent
 motivate
 concentrate
 coordinator
+cuff
+jab
+stethoscope
+syringe
+thermometer
+inhaler
