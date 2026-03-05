@@ -47,7 +47,7 @@
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   content-visibility: auto;
   contain-intrinsic-size: auto 600px;
-  height: 600px;
+  height: 700px;
   overflow-y: auto;
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none; /* IE and Edge */

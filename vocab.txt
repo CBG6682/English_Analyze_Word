@@ -171,3 +171,9 @@ choke
 scald
 survey
 commission
+fatality
+measure
+reassure
+reveal
+relying
+ignorance

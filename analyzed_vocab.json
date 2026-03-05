@@ -5548,5 +5548,193 @@
                 "example": "She earns a 10% commission on every sale."
             }
         ]
+    },
+    {
+        "word": "fatality",
+        "phonetic": "/fəˈtælɪti/",
+        "definitions": [
+            {
+                "meaning": "Cái chết hoặc thương vong, đặc biệt là do tai nạn, thảm họa, hoặc bạo lực. Từ này thường được dùng để chỉ số lượng người chết trong một sự kiện không mong muốn hoặc ngoài ý muốn.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "fat-",
+                            "mean": "Gốc này mang ý nghĩa 'số phận', 'cái kết định sẵn' hoặc 'điều không thể tránh khỏi'. Trong ngữ cảnh của 'fatality', nó gợi lên một kết cục định mệnh thường là cái chết. Ví dụ: *fatal* (mang tính gây chết người, chí mạng)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ality",
+                            "mean": "Hậu tố này được sử dụng để tạo danh từ, thường chỉ trạng thái, tính chất hoặc một sự việc cụ thể. Nó biến một ý niệm thành một thực thể hoặc một sự kiện. Ví dụ: *brutality* (sự tàn bạo)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "death",
+                    "casualty",
+                    "mortality"
+                ],
+                "example": "The earthquake resulted in many fatalities."
+            }
+        ]
+    },
+    {
+        "word": "measure",
+        "phonetic": "/ˈmɛʒər/",
+        "definitions": [
+            {
+                "meaning": "Một hành động hoặc biện pháp được thực hiện để đạt được một mục tiêu cụ thể, giải quyết vấn đề, hoặc đối phó với một tình huống. Nó cũng có thể đề cập đến sự đo lường hoặc một đơn vị đo lường.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "measur-",
+                            "mean": "Gốc này liên quan đến việc 'đo lường', 'đánh giá', hoặc 'xác định'. Nó ngụ ý sự tính toán, ước lượng, hoặc việc thực hiện một hành động có chủ đích. Ví dụ: *measurement* (sự đo lường)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "step",
+                    "action",
+                    "provision",
+                    "policy"
+                ],
+                "example": "The government introduced new measures to control inflation."
+            }
+        ]
+    },
+    {
+        "word": "reassure",
+        "phonetic": "/ˌriːəˈʃʊər/",
+        "definitions": [
+            {
+                "meaning": "Trấn an, làm cho ai đó bớt lo lắng, sợ hãi, hoặc cảm thấy tự tin và an toàn trở lại, thường bằng cách đưa ra thông tin tích cực hoặc lời cam đoan.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "re-",
+                            "mean": "Tiền tố này mang nghĩa 'lặp lại', 'trở lại' hoặc 'một lần nữa'. Trong trường hợp này, nó có nghĩa là khôi phục lại trạng thái ban đầu của sự an tâm hoặc tự tin. Ví dụ: *rewrite* (viết lại)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "assure",
+                            "mean": "Gốc này có nghĩa là 'đảm bảo', 'cam đoan', hoặc 'làm cho chắc chắn'. Nó liên quan đến việc tạo ra sự tin cậy, loại bỏ nghi ngờ và mang lại cảm giác an toàn. Ví dụ: *assurance* (sự đảm bảo)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "comfort",
+                    "calm",
+                    "put at ease"
+                ],
+                "example": "He tried to reassure her that everything would be fine."
+            }
+        ]
+    },
+    {
+        "word": "reveal",
+        "phonetic": "/rɪˈviːl/",
+        "definitions": [
+            {
+                "meaning": "Tiết lộ, làm lộ ra, cho thấy một điều gì đó trước đây bị che giấu, bí mật, hoặc chưa được biết đến. Nó thường ám chỉ việc loại bỏ một sự che đậy hoặc mở ra một sự thật.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "re-",
+                            "mean": "Tiền tố này mang nghĩa 'trở lại', 'ngược lại' hoặc 'bỏ đi'. Trong ngữ cảnh này, nó mang ý nghĩa của việc gỡ bỏ lớp che phủ, đưa một thứ gì đó ra ánh sáng hoặc làm cho nó hiển hiện. Ví dụ: *remove* (di chuyển khỏi)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "veal",
+                            "mean": "Gốc này liên quan đến 'che đậy', 'bao phủ' hoặc 'mạng che'. Nó là phần của từ gốc ám chỉ sự che giấu hoặc kín đáo. Ví dụ: *veil* (mạng che mặt)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "disclose",
+                    "expose",
+                    "unveil",
+                    "divulge"
+                ],
+                "example": "The investigation revealed new evidence."
+            }
+        ]
+    },
+    {
+        "word": "relying",
+        "phonetic": "/rɪˈlaɪɪŋ/",
+        "definitions": [
+            {
+                "meaning": "Đang dựa vào, tin cậy vào, hoặc phụ thuộc vào ai/cái gì để được hỗ trợ, giúp đỡ, hoặc để hoàn thành một việc gì đó. Nó thể hiện sự tín nhiệm và sự cần thiết vào một nguồn lực bên ngoài.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "re-",
+                            "mean": "Tiền tố này mang nghĩa 'trở lại', 'quay lại' hoặc 'một lần nữa'. Trong ngữ cảnh này, nó gợi ý việc quay về một điểm tựa, một nguồn hỗ trợ hoặc sự phụ thuộc vào ai/cái gì. Ví dụ: *return* (trở về)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ly",
+                            "mean": "Gốc này liên quan đến 'buộc', 'gắn kết' hoặc 'tựa'. Nó ngụ ý sự kết nối, sự tựa vào một vật gì đó để duy trì sự ổn định, cân bằng hoặc hỗ trợ. Ví dụ: *ligament* (dây chằng)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ing",
+                            "mean": "Hậu tố này tạo thành thì tiếp diễn của động từ hoặc biến động từ thành danh động từ (gerund). Nó biểu thị một hành động đang diễn ra hoặc một hành động được xem như một khái niệm danh từ. Ví dụ: *running* (việc chạy/đang chạy)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "depending",
+                    "counting on",
+                    "trusting",
+                    "banking on"
+                ],
+                "example": "Many small businesses are relying on government support to survive."
+            }
+        ]
+    },
+    {
+        "word": "ignorance",
+        "phonetic": "/ˈɪɡnərəns/",
+        "definitions": [
+            {
+                "meaning": "Sự thiếu hiểu biết, sự dốt nát, hoặc trạng thái không có kiến thức, thông tin về một vấn đề, chủ đề cụ thể. Nó không nhất thiết mang hàm ý tiêu cực mà chỉ mô tả sự vắng mặt của thông tin hoặc tri thức.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ig-",
+                            "mean": "Tiền tố này là một biến thể của 'in-' và mang nghĩa 'không', 'thiếu' hoặc 'phủ định'. Nó đảo ngược hoặc phủ nhận nghĩa của gốc từ mà nó đi kèm. Ví dụ: *impossible* (không thể)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "gnor-",
+                            "mean": "Gốc này có nghĩa là 'biết', 'hiểu' hoặc 'nhận thức'. Nó liên quan đến khả năng nhận diện, học hỏi hoặc có thông tin về một điều gì đó. Ví dụ: *recognize* (nhận ra)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ance",
+                            "mean": "Hậu tố này được sử dụng để tạo danh từ, thường chỉ một trạng thái, một chất lượng, hoặc một hành động. Nó biến đổi động từ hoặc tính từ thành danh từ. Ví dụ: *performance* (sự trình diễn)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "unawareness",
+                    "unfamiliarity",
+                    "naivety"
+                ],
+                "example": "His ignorance of the law did not excuse his actions."
+            }
+        ]
     }
 ]
