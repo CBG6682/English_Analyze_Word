@@ -5736,5 +5736,324 @@
                 "example": "His ignorance of the law did not excuse his actions."
             }
         ]
+    },
+    {
+        "word": "obstacle",
+        "phonetic": "/ˈɒbstəkl/",
+        "definitions": [
+            {
+                "meaning": "Vật cản, chướng ngại vật; một thứ gì đó gây khó khăn hoặc ngăn cản sự tiến bộ, đạt được mục tiêu.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ob-",
+                            "mean": "Tiền tố này mang nghĩa \"chống lại\", \"ở phía trước, cản trở\". Nó gợi ý một sự đối lập hoặc một vật cản đường. Ví dụ: `object` (vật thể, đối tượng cản trở hoặc được xem xét)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-sta-",
+                            "mean": "Gốc từ này có nghĩa là \"đứng\". Trong từ \"obstacle\", nó ngụ ý một cái gì đó đứng vững, chắn đường. Ví dụ: `stand` (đứng)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-cle",
+                            "mean": "Hậu tố này thường tạo danh từ chỉ công cụ, kết quả của hành động, hoặc một vật cụ thể. Ở đây, nó biến từ thành một danh từ chỉ vật cản. Ví dụ: `vehicle` (phương tiện, cái dùng để vận chuyển)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "barrier",
+                    "hindrance",
+                    "impediment",
+                    "blockage"
+                ],
+                "example": "Lack of funding proved to be a major obstacle to the project's completion."
+            }
+        ]
+    },
+    {
+        "word": "potential",
+        "phonetic": "/pəˈtenʃl/",
+        "definitions": [
+            {
+                "meaning": "Tiềm năng; khả năng tiềm ẩn để phát triển, thành công hoặc đạt được điều gì đó trong tương lai. Có thể là danh từ hoặc tính từ.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "potent-",
+                            "mean": "Gốc từ này có nghĩa là \"mạnh mẽ\", \"có khả năng\". Nó là trung tâm của ý nghĩa về sức mạnh hoặc khả năng tiềm tàng. Ví dụ: `potent` (mạnh mẽ, có hiệu lực)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ial",
+                            "mean": "Hậu tố này thường tạo tính từ hoặc danh từ, mang nghĩa \"thuộc về\", \"có tính chất của\". Ở đây, nó chỉ ra một cái gì đó có tính chất tiềm ẩn, khả năng. Ví dụ: `financial` (thuộc về tài chính)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "capability",
+                    "prospect",
+                    "promise",
+                    "latent"
+                ],
+                "example": "She has the potential to become a great leader if given the right opportunities."
+            }
+        ]
+    },
+    {
+        "word": "vary",
+        "phonetic": "/ˈvɛəri/",
+        "definitions": [
+            {
+                "meaning": "Thay đổi, biến đổi; khác nhau, không giống nhau. Diễn tả sự không đồng nhất hoặc sự dao động.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "var-",
+                            "mean": "Gốc từ này có nghĩa là \"khác biệt\", \"đa dạng\". Nó là cốt lõi của ý nghĩa về sự thay đổi, không đồng nhất. Ví dụ: `various` (đa dạng, nhiều loại)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-y",
+                            "mean": "Hậu tố này thường tạo động từ mang nghĩa \"làm cho trở nên\" hoặc \"trở nên\". Ở đây, nó biến gốc từ thành hành động của sự thay đổi. Ví dụ: `simplify` (đơn giản hóa)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "differ",
+                    "change",
+                    "fluctuate",
+                    "alter"
+                ],
+                "example": "The prices of fresh produce can vary greatly from season to season."
+            }
+        ]
+    },
+    {
+        "word": "principle",
+        "phonetic": "/ˈprɪnsɪpl/",
+        "definitions": [
+            {
+                "meaning": "Nguyên tắc, nguyên lý, châm ngôn; một sự thật cơ bản, một quy tắc đạo đức hoặc một niềm tin nền tảng định hướng hành vi hoặc tư duy.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "prin-",
+                            "mean": "Tiền tố này mang nghĩa \"đầu tiên\", \"chính yếu\". Nó nhấn mạnh tính ưu việt, cơ bản của một thứ. Ví dụ: `primary` (chính, sơ cấp)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-cip-",
+                            "mean": "Gốc từ này mang nghĩa \"lấy\", \"nắm giữ\". Trong ngữ cảnh này, nó ám chỉ một ý tưởng hoặc quy tắc được \"nắm giữ\" như một chân lý cơ bản. Ví dụ: `recipient` (người nhận, người nắm giữ)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "rule",
+                    "tenet",
+                    "doctrine",
+                    "standard"
+                ],
+                "example": "He refused to compromise his principles, even when faced with significant pressure."
+            }
+        ]
+    },
+    {
+        "word": "provision",
+        "phonetic": "/prəˈvɪʒn/",
+        "definitions": [
+            {
+                "meaning": "Sự cung cấp, dự trữ; hoặc một điều khoản, quy định trong hợp đồng, luật pháp. Chỉ hành động chuẩn bị hoặc điều kiện được thiết lập.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "pro-",
+                            "mean": "Tiền tố này mang nghĩa \"trước\", \"tiến về phía trước\". Nó gợi ý hành động chuẩn bị hoặc cung cấp trước. Ví dụ: `predict` (dự đoán, nhìn thấy trước)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-vis-",
+                            "mean": "Gốc từ này có nghĩa là \"nhìn\", \"thấy\". Trong \"provision\", nó liên quan đến việc \"nhìn thấy trước\" nhu cầu và do đó chuẩn bị, cung cấp. Ví dụ: `visual` (thị giác, liên quan đến việc nhìn)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố này thường tạo danh từ, chỉ hành động hoặc kết quả của hành động. Ở đây, nó biến từ thành danh từ chỉ sự cung cấp hoặc điều khoản. Ví dụ: `action` (hành động)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "supply",
+                    "stipulation",
+                    "clause",
+                    "arrangement"
+                ],
+                "example": "The emergency provision of food and water was crucial after the natural disaster."
+            }
+        ]
+    },
+    {
+        "word": "scrounger",
+        "phonetic": "/ˈskraʊndʒə/",
+        "definitions": [
+            {
+                "meaning": "Người ăn bám, kẻ sống dựa dẫm, kẻ xin xỏ vặt. Một người thường xuyên cố gắng kiếm được thứ gì đó miễn phí hoặc từ lòng tốt của người khác mà không có ý định đền đáp.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "scrounge",
+                            "mean": "Gốc từ này là bản thân động từ \"scrounge\", có nghĩa là xin xỏ, kiếm chác đồ của người khác một cách không chính đáng. Nó là cốt lõi của hành vi được mô tả. Ví dụ: `scrounge` (động từ, xin xỏ, ăn bám)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-er",
+                            "mean": "Hậu tố này thường tạo danh từ chỉ người thực hiện hành động. Ở đây, nó biến động từ \"scrounge\" thành danh từ chỉ người ăn bám, xin xỏ. Ví dụ: `teacher` (người dạy)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "cadger",
+                    "moocher",
+                    "parasite",
+                    "beggar"
+                ],
+                "example": "He was tired of being treated like a scrounger by his relatives, so he started looking for a job."
+            }
+        ]
+    },
+    {
+        "word": "inevitable",
+        "phonetic": "/ɪnˈɛvɪtəbl/",
+        "definitions": [
+            {
+                "meaning": "Không thể tránh khỏi, tất yếu; điều chắc chắn sẽ xảy ra và không thể ngăn cản.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố này mang nghĩa \"không\", \"không thể\". Nó phủ định ý nghĩa của phần còn lại của từ. Ví dụ: `impossible` (không thể)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "evit-",
+                            "mean": "Gốc từ này có nghĩa là \"tránh\", \"thoát\". Nó là phần cốt lõi của ý nghĩa về sự tránh né. Ví dụ: `evade` (tránh khỏi)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-able",
+                            "mean": "Hậu tố này tạo tính từ, mang nghĩa \"có thể\", \"có khả năng được\". Ở đây, nó chỉ ra một cái gì đó \"có thể tránh được\". Khi kết hợp với `in-`, nó trở thành \"không thể tránh được\". Ví dụ: `readable` (có thể đọc được)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "unavoidable",
+                    "inescapable",
+                    "certain",
+                    "bound to happen"
+                ],
+                "example": "Change is an inevitable part of life that everyone must adapt to."
+            }
+        ]
+    },
+    {
+        "word": "involve",
+        "phonetic": "/ɪnˈvɒlv/",
+        "definitions": [
+            {
+                "meaning": "Bao gồm, liên quan đến, kéo theo; làm cho ai đó hoặc cái gì đó trở thành một phần của một hoạt động, tình huống hoặc vấn đề.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố này mang nghĩa \"vào trong\", \"bên trong\". Nó gợi ý sự bao hàm, đưa vào một cái gì đó. Ví dụ: `inside` (bên trong)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "volv-",
+                            "mean": "Gốc từ này có nghĩa là \"cuộn\", \"lăn\". Trong \"involve\", nó gợi hình ảnh \"cuộn vào\", \"quấn vào\", ám chỉ sự bao gồm, liên quan. Ví dụ: `revolve` (quay quanh)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "include",
+                    "entail",
+                    "implicate",
+                    "engage"
+                ],
+                "example": "The new project will involve a lot of research and development."
+            }
+        ]
+    },
+    {
+        "word": "interfere",
+        "phonetic": "/ˌɪntəˈfɪə/",
+        "definitions": [
+            {
+                "meaning": "Can thiệp, gây trở ngại, xen vào; hành động không được mời hoặc không cần thiết, thường gây ra vấn đề hoặc làm chậm trễ.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "inter-",
+                            "mean": "Tiền tố này mang nghĩa \"giữa\", \"xen vào giữa\". Nó là cốt lõi của ý nghĩa về sự can thiệp, xen vào. Ví dụ: `international` (quốc tế, giữa các quốc gia)."
+                        }
+                    ],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "meddle",
+                    "intervene",
+                    "obstruct",
+                    "hinder"
+                ],
+                "example": "Please don't interfere in my personal affairs; I can handle them myself."
+            }
+        ]
+    },
+    {
+        "word": "welfare",
+        "phonetic": "/ˈwɛlfɛə/",
+        "definitions": [
+            {
+                "meaning": "Phúc lợi, sự an sinh; tình trạng sức khỏe, hạnh phúc và sự thịnh vượng của một người, một nhóm hoặc một xã hội. Cũng có thể chỉ sự hỗ trợ tài chính cho những người gặp khó khăn.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "well-",
+                            "mean": "Tiền tố/gốc từ này mang nghĩa \"tốt\", \"ổn\", \"khỏe mạnh\". Nó là phần cốt lõi chỉ trạng thái tốt đẹp, an lành. Ví dụ: `well-being` (sự khỏe mạnh, hạnh phúc)."
+                        },
+                        {
+                            "val": "-fare",
+                            "mean": "Gốc từ này có nghĩa là \"đi\", \"trải qua\", nhưng ở đây nó được hiểu là \"tình trạng tồn tại\" hoặc \"tình trạng sống\". Trong \"welfare\", nó chỉ trạng thái sống, sự an lành đang diễn ra. Ví dụ: `farewell` (lời tạm biệt, chúc đi đường bình an)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "well-being",
+                    "prosperity",
+                    "aid",
+                    "support"
+                ],
+                "example": "The government is committed to protecting the welfare of its citizens through various social programs."
+            }
+        ]
     }
 ]
