@@ -5433,5 +5433,120 @@
                 "example": "He always carries his inhaler in case of an asthma attack."
             }
         ]
+    },
+    {
+        "word": "choke",
+        "phonetic": "/tʃoʊk/",
+        "definitions": [
+            {
+                "meaning": "Làm nghẹt thở, làm tắc nghẽn đường thở, hoặc khiến ai đó ngừng thở. Cũng có thể dùng để mô tả việc làm tắc nghẽn một đường ống, một con đường, hoặc ngăn chặn sự phát triển, lưu thông của cái gì đó.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "suffocate",
+                    "strangle",
+                    "gag",
+                    "obstruct",
+                    "block"
+                ],
+                "example": "He started to choke on a piece of bread."
+            }
+        ]
+    },
+    {
+        "word": "scald",
+        "phonetic": "/skɔːld/",
+        "definitions": [
+            {
+                "meaning": "Làm bỏng da hoặc một phần cơ thể bằng chất lỏng rất nóng hoặc hơi nước. Cũng có thể dùng để chỉ việc làm nóng chất lỏng đến gần điểm sôi nhưng không sôi.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "burn",
+                    "sear",
+                    "singe",
+                    "blister"
+                ],
+                "example": "Be careful not to scald yourself with the boiling water."
+            }
+        ]
+    },
+    {
+        "word": "survey",
+        "phonetic": "/ˈsɜːrveɪ/",
+        "definitions": [
+            {
+                "meaning": "Là hành động xem xét, kiểm tra hoặc nghiên cứu một cái gì đó một cách tổng thể, có hệ thống (ví dụ: khảo sát ý kiến, khảo sát địa hình). Cũng có thể là một cuộc điều tra hoặc một bản báo cáo kết quả của việc điều tra đó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "sur-",
+                            "mean": "Tiền tố này thường mang ý nghĩa 'trên', 'qua', 'vượt qua', hoặc 'kỹ lưỡng'. Trong 'survey', nó ngụ ý việc nhìn bao quát, nhìn từ trên xuống hoặc xem xét kỹ lưỡng toàn bộ. Ví dụ: `surface` (bề mặt, cái gì đó ở trên cùng)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "-vey",
+                            "mean": "Gốc từ này có nguồn gốc từ tiếng Latin 'videre', có nghĩa là 'nhìn', 'thấy'. Trong 'survey', nó kết hợp với tiền tố 'sur-' để tạo thành nghĩa 'nhìn kỹ lưỡng khắp nơi' hoặc 'xem xét tổng thể'. Ví dụ: `view` (cảnh tượng, tầm nhìn, từ 'videre')."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "inspect",
+                    "examine",
+                    "study",
+                    "poll",
+                    "investigate",
+                    "appraise"
+                ],
+                "example": "The company conducted a survey to gauge customer satisfaction."
+            }
+        ]
+    },
+    {
+        "word": "commission",
+        "phonetic": "/kəˈmɪʃən/",
+        "definitions": [
+            {
+                "meaning": "Là một nhiệm vụ hoặc quyền hạn được giao phó cho một người hoặc một nhóm; cũng có thể là một ủy ban hoặc hội đồng được thành lập để thực hiện một nhiệm vụ cụ thể; hoặc khoản tiền trả cho một người bán hàng dựa trên tỷ lệ phần trăm doanh số. Với vai trò động từ, nó có nghĩa là giao nhiệm vụ, đặt hàng một tác phẩm hoặc đưa vào hoạt động.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "com-",
+                            "mean": "Tiền tố này thường mang ý nghĩa 'cùng với', 'với nhau', 'hoàn toàn' hoặc 'làm cho'. Trong 'commission', nó góp phần vào ý nghĩa của việc 'giao phó một cách hoàn chỉnh' hoặc 'làm việc cùng nhau' (trong trường hợp ủy ban). Ví dụ: `connect` (kết nối, gắn kết với nhau)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "miss-",
+                            "mean": "Gốc từ này có nguồn gốc từ tiếng Latin 'mittere', có nghĩa là 'gửi đi', 'phái đi' hoặc 'giao phó'. Trong 'commission', nó chỉ việc gửi gắm một nhiệm vụ, quyền hạn hoặc một khoản tiền. Ví dụ: `mission` (nhiệm vụ, sự phái đi)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố này thường dùng để tạo danh từ từ động từ, chỉ một hành động, quá trình, hoặc kết quả của hành động đó. Trong 'commission', nó biến động từ thành danh từ, chỉ sự uỷ nhiệm, nhiệm vụ hoặc tiền hoa hồng. Ví dụ: `action` (hành động, từ 'act')."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "mandate",
+                    "assignment",
+                    "delegation",
+                    "committee",
+                    "percentage",
+                    "order",
+                    "authorize"
+                ],
+                "example": "She earns a 10% commission on every sale."
+            }
+        ]
     }
 ]

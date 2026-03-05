@@ -167,3 +167,7 @@ stethoscope
 syringe
 thermometer
 inhaler
+choke
+scald
+survey
+commission
