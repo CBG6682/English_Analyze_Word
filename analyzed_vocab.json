@@ -6055,5 +6055,397 @@
                 "example": "The government is committed to protecting the welfare of its citizens through various social programs."
             }
         ]
+    },
+    {
+        "word": "legislation",
+        "phonetic": "/ˌlɛdʒɪsˈleɪʃən/",
+        "definitions": [
+            {
+                "meaning": "Pháp luật, luật lệ; quá trình ban hành luật, quá trình lập pháp. Nó đề cập đến các đạo luật hoặc bộ luật đã được thông qua bởi cơ quan lập pháp.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "legis",
+                            "mean": "Gốc từ 'legis' mang ý nghĩa liên quan đến luật pháp, quy định. Nó là trung tâm để hình thành các từ về luật lệ hoặc hành động lập pháp. Ví dụ: 'legal' (hợp pháp)."
+                        },
+                        {
+                            "val": "lat",
+                            "mean": "Gốc từ 'lat' có nghĩa là mang, đưa ra, đặt ra. Trong ngữ cảnh này, nó kết hợp với 'legis' để tạo ý nghĩa 'mang luật ra' hay 'ban hành luật'. Ví dụ: 'translate' (dịch, chuyển ngữ)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ation",
+                            "mean": "Hậu tố '-ation' dùng để tạo danh từ, thường chỉ một hành động, quá trình hoặc kết quả của hành động đó. Nó biến động từ thành danh từ chỉ quá trình 'ban hành' hoặc 'lập pháp'. Ví dụ: 'information' (thông tin)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "law",
+                    "statute",
+                    "regulation",
+                    "act"
+                ],
+                "example": "The government is preparing new legislation to protect the environment."
+            }
+        ]
+    },
+    {
+        "word": "exhilarate",
+        "phonetic": "/ɪɡˈzɪləreɪt/",
+        "definitions": [
+            {
+                "meaning": "Làm cho ai đó cảm thấy vô cùng vui vẻ, phấn khởi, hào hứng; làm phấn chấn tột độ. Nó thường ám chỉ một cảm giác hưng phấn mạnh mẽ, thoát khỏi sự buồn tẻ.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ex-",
+                            "mean": "Tiền tố 'ex-' thường có nghĩa là 'ra khỏi', 'bên ngoài' hoặc 'hoàn toàn', 'triệt để'. Trong từ này, nó nhấn mạnh sự mạnh mẽ, hoàn toàn của cảm xúc, làm cho ai đó thoát khỏi trạng thái bình thường để trở nên cực kỳ vui vẻ. Ví dụ: 'exit' (lối ra, đi ra)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "hilar",
+                            "mean": "Gốc từ 'hilar' mang ý nghĩa liên quan đến sự vui vẻ, hân hoan, sảng khoái. Nó là yếu tố cốt lõi tạo nên nghĩa 'làm vui vẻ, phấn chấn' của từ. Ví dụ: 'hilarious' (hài hước, vui nhộn)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "Hậu tố '-ate' thường dùng để tạo động từ, có nghĩa là 'làm cho cái gì đó trở thành' hoặc 'thực hiện hành động'. Trong trường hợp này, nó biến gốc từ thành một động từ chỉ hành động làm cho ai đó trở nên vui vẻ. Ví dụ: 'create' (sáng tạo)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "thrill",
+                    "elate",
+                    "invigorate",
+                    "enliven"
+                ],
+                "example": "The breathtaking view from the mountain peak exhilarated us."
+            }
+        ]
+    },
+    {
+        "word": "athletic",
+        "phonetic": "/æθˈlɛtɪk/",
+        "definitions": [
+            {
+                "meaning": "Thuộc về vận động viên, thể thao; có sức khỏe, thể lực tốt; vạm vỡ, khỏe mạnh, thường liên quan đến khả năng vận động và sức bền thể chất.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "athlet",
+                            "mean": "Gốc từ 'athlet' mang ý nghĩa liên quan đến cuộc thi đấu, tranh tài thể thao, hoặc những người tham gia vào các hoạt động thể chất. Nó là cốt lõi để hình thành các từ về thể thao và vận động viên. Ví dụ: 'athlete' (vận động viên)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ic",
+                            "mean": "Hậu tố '-ic' thường dùng để tạo tính từ, có nghĩa là 'thuộc về', 'có đặc điểm của' hoặc 'liên quan đến'. Nó biến gốc từ 'athlet' thành một tính từ chỉ sự liên quan đến thể thao hoặc vận động viên. Ví dụ: 'classic' (cổ điển, kinh điển)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "sporty",
+                    "fit",
+                    "physical",
+                    "muscular"
+                ],
+                "example": "She has an athletic build and excels in many sports."
+            }
+        ]
+    },
+    {
+        "word": "malnourish",
+        "phonetic": "/ˌmælnʌrɪʃ/",
+        "definitions": [
+            {
+                "meaning": "Làm cho (ai đó/cái gì đó) bị suy dinh dưỡng; nuôi dưỡng không đầy đủ hoặc sai cách, dẫn đến tình trạng thiếu hụt chất dinh dưỡng cần thiết cho sự phát triển khỏe mạnh. (Từ này thường được dùng ở dạng bị động 'be malnourished').",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "mal-",
+                            "mean": "Tiền tố 'mal-' có nghĩa là 'tồi tệ', 'xấu', 'không đầy đủ' hoặc 'không đúng cách'. Trong từ này, nó chỉ ra sự thiếu hụt hoặc sai lệch trong quá trình nuôi dưỡng. Ví dụ: 'malfunction' (trục trặc, hỏng hóc)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "nourish",
+                            "mean": "Gốc từ 'nourish' mang ý nghĩa nuôi dưỡng, cung cấp dinh dưỡng, hoặc chăm sóc để phát triển. Nó là phần trung tâm chỉ hành động cung cấp chất cần thiết cho cơ thể. Ví dụ: 'nourishment' (dinh dưỡng)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "undernourish",
+                    "starve",
+                    "underfeed"
+                ],
+                "example": "A lack of essential nutrients can malnourish a child, affecting their growth and development."
+            }
+        ]
+    },
+    {
+        "word": "intervene",
+        "phonetic": "/ˌɪntərˈviːn/",
+        "definitions": [
+            {
+                "meaning": "Can thiệp vào một tình huống để cải thiện nó hoặc ngăn chặn điều xấu xảy ra; xen vào giữa một sự kiện hoặc tranh chấp để thay đổi kết quả. Nó thường hàm ý một sự tham gia chủ động.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "inter-",
+                            "mean": "Tiền tố 'inter-' có nghĩa là 'giữa', 'ở giữa' hoặc 'qua lại'. Nó chỉ ra hành động xảy ra hoặc được đặt vào giữa hai hoặc nhiều sự vật/sự việc khác. Ví dụ: 'international' (quốc tế)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "ven",
+                            "mean": "Gốc từ 'ven' mang ý nghĩa 'đến', 'đi đến' hoặc 'di chuyển'. Trong từ này, nó kết hợp với 'inter-' để tạo nghĩa 'đến giữa', tức là can thiệp. Ví dụ: 'convention' (hội nghị, sự tụ họp)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "interfere",
+                    "mediate",
+                    "control",
+                    "step in"
+                ],
+                "example": "The teacher had to intervene to stop the fight between the students."
+            }
+        ]
+    },
+    {
+        "word": "archaeology",
+        "phonetic": "/ˌɑːrkiˈɒlədʒi/",
+        "definitions": [
+            {
+                "meaning": "Khảo cổ học; ngành khoa học nghiên cứu về lịch sử loài người thông qua việc khai quật, phân tích các di tích vật chất còn sót lại như công cụ, kiến trúc, hài cốt từ quá khứ.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "archaeo",
+                            "mean": "Gốc từ 'archaeo' mang ý nghĩa 'cổ xưa', 'nguyên thủy', hoặc 'thuộc về quá khứ xa xôi'. Nó là yếu tố cốt lõi chỉ đối tượng nghiên cứu của ngành này là những điều cổ xưa. Ví dụ: 'archaic' (cổ xưa, lỗi thời)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-logy",
+                            "mean": "Hậu tố '-logy' dùng để tạo danh từ, chỉ một ngành khoa học, môn học hoặc sự nghiên cứu về một lĩnh vực cụ thể. Nó biến gốc từ 'archaeo' thành tên một ngành khoa học nghiên cứu về những điều cổ xưa. Ví dụ: 'biology' (sinh học)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "paleontology",
+                    "antiquarianism",
+                    "excavation studies"
+                ],
+                "example": "Archaeology helps us understand ancient civilizations and their way of life."
+            }
+        ]
+    },
+    {
+        "word": "linguistic",
+        "phonetic": "/lɪŋˈɡwɪstɪk/",
+        "definitions": [
+            {
+                "meaning": "Thuộc về ngôn ngữ hoặc ngôn ngữ học; liên quan đến cấu trúc, sự phát triển, ngữ nghĩa và cách sử dụng ngôn ngữ.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "lingu",
+                            "mean": "Gốc từ 'lingu' mang ý nghĩa 'ngôn ngữ' hoặc 'lời nói'. Nó là yếu tố cốt lõi để hình thành các từ liên quan đến tiếng nói và sự giao tiếp bằng lời. Ví dụ: 'bilingual' (song ngữ)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-istic",
+                            "mean": "Hậu tố '-istic' dùng để tạo tính từ, có nghĩa là 'thuộc về' hoặc 'có đặc điểm của' một người hoặc một lĩnh vực. Trong trường hợp này, nó biến gốc từ thành một tính từ liên quan đến ngôn ngữ hoặc người nghiên cứu ngôn ngữ. Ví dụ: 'artistic' (có tính nghệ thuật)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "language-related",
+                    "verbal",
+                    "lexical"
+                ],
+                "example": "The study of linguistic diversity is fascinating."
+            }
+        ]
+    },
+    {
+        "word": "investigate",
+        "phonetic": "/ɪnˈvɛstɪɡeɪt/",
+        "definitions": [
+            {
+                "meaning": "Điều tra, nghiên cứu kỹ lưỡng, xem xét chi tiết để tìm ra sự thật hoặc thông tin về một vấn đề, tội phạm, hoặc sự việc chưa rõ ràng.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố 'in-' ở đây có nghĩa là 'vào trong', 'vào bên trong' hoặc 'thực hiện một cách kỹ lưỡng'. Nó nhấn mạnh hành động đi sâu vào một vấn đề để tìm hiểu. Ví dụ: 'income' (thu nhập, tiền vào)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "vestig",
+                            "mean": "Gốc từ 'vestig' mang ý nghĩa 'dấu vết', 'dấu chân' hoặc 'theo dõi'. Nó là cốt lõi để tạo nên nghĩa 'tìm kiếm dấu vết' hay 'điều tra theo dấu' của từ. Ví dụ: 'vestige' (dấu vết, tàn tích)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ate",
+                            "mean": "Hậu tố '-ate' thường dùng để tạo động từ, có nghĩa là 'làm cho cái gì đó trở thành' hoặc 'thực hiện hành động'. Trong trường hợp này, nó biến gốc từ thành một động từ chỉ hành động đi theo dấu vết, tức là điều tra. Ví dụ: 'communicate' (giao tiếp)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "examine",
+                    "research",
+                    "explore",
+                    "probe"
+                ],
+                "example": "The police are investigating the cause of the accident."
+            }
+        ]
+    },
+    {
+        "word": "hypothesis",
+        "phonetic": "/haɪˈpɒθəsɪs/",
+        "definitions": [
+            {
+                "meaning": "Giả thuyết; một ý kiến hoặc giải thích ban đầu được đưa ra dựa trên bằng chứng hạn chế, cần được kiểm chứng thêm qua nghiên cứu hoặc thực nghiệm để xác định tính đúng đắn.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "hypo-",
+                            "mean": "Tiền tố 'hypo-' có nghĩa là 'dưới', 'bên dưới' hoặc 'ít hơn, không đầy đủ'. Trong từ này, nó chỉ ra một cái gì đó được đặt 'dưới' nền tảng hoặc 'dưới' sự thật đã được chứng minh, tức là một phỏng đoán ban đầu. Ví dụ: 'hypothermia' (hạ thân nhiệt)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "thesis",
+                            "mean": "Gốc từ 'thesis' mang ý nghĩa 'đặt', 'để', hoặc 'một luận đề, một mệnh đề được đặt ra'. Nó là phần cốt lõi chỉ ý tưởng hoặc luận điểm được đưa ra để xem xét. Ví dụ: 'antithesis' (phản đề)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "theory",
+                    "conjecture",
+                    "premise",
+                    "postulate"
+                ],
+                "example": "Scientists formulated a hypothesis to explain the phenomenon."
+            }
+        ]
+    },
+    {
+        "word": "philosophy",
+        "phonetic": "/fɪˈlɒsəfi/",
+        "definitions": [
+            {
+                "meaning": "Triết học; một ngành nghiên cứu về những vấn đề cơ bản liên quan đến sự tồn tại, kiến thức, giá trị, lý trí, tâm trí và ngôn ngữ; hoặc một quan điểm sống, hệ tư tưởng cá nhân hay một tổ chức.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "philo-",
+                            "mean": "Gốc từ 'philo-' mang ý nghĩa 'yêu thích', 'có tình yêu đối với' hoặc 'có xu hướng'. Nó chỉ sự khao khát, tình yêu đối với một điều gì đó. Ví dụ: 'philanthropist' (nhà từ thiện)."
+                        },
+                        {
+                            "val": "sophy",
+                            "mean": "Gốc từ 'sophy' mang ý nghĩa 'sự khôn ngoan', 'kiến thức' hoặc 'sự thông thái'. Nó là phần cốt lõi chỉ mục tiêu của triết học là tìm kiếm sự thông thái. Ví dụ: 'sophisticated' (tinh vi, phức tạp)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "doctrine",
+                    "ideology",
+                    "beliefs",
+                    "principles"
+                ],
+                "example": "His personal philosophy is to live life to the fullest."
+            }
+        ]
+    },
+    {
+        "word": "inflation",
+        "phonetic": "/ɪnˈfleɪʃən/",
+        "definitions": [
+            {
+                "meaning": "Sự lạm phát (trong kinh tế), tức là tình trạng giá cả hàng hóa và dịch vụ tăng lên liên tục, làm giảm sức mua của tiền; sự thổi phồng, làm phồng lên; tình trạng cái gì đó tăng kích thước hoặc số lượng.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố 'in-' ở đây có nghĩa là 'vào trong', 'làm cho cái gì đó đi vào một trạng thái', hoặc 'làm tăng lên'. Nó nhấn mạnh hành động đưa không khí vào hoặc làm cho cái gì đó phồng lên. Ví dụ: 'inject' (tiêm vào)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "flat",
+                            "mean": "Gốc từ 'flat' mang ý nghĩa 'thổi', 'làm phồng', hoặc 'mở rộng bằng không khí/khí'. Nó là cốt lõi chỉ hành động làm tăng kích thước bằng cách bơm khí vào hoặc làm cho nó giãn nở. Ví dụ: 'flatulence' (sự đầy hơi)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ation",
+                            "mean": "Hậu tố '-ation' dùng để tạo danh từ, thường chỉ một hành động, quá trình hoặc kết quả của hành động đó. Nó biến động từ thành danh từ chỉ quá trình 'làm phồng' hoặc 'lạm phát'. Ví dụ: 'creation' (sự sáng tạo)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "rise",
+                    "increase",
+                    "expansion",
+                    "hyperinflation"
+                ],
+                "example": "The government is trying to control inflation by raising interest rates."
+            }
+        ]
+    },
+    {
+        "word": "endorsed",
+        "phonetic": "/ɪnˈdɔːrst/",
+        "definitions": [
+            {
+                "meaning": "Được ủng hộ, tán thành; được xác nhận tính hợp lệ hoặc độ tin cậy; được quảng cáo bởi người nổi tiếng (cho sản phẩm hoặc dịch vụ) nhằm tăng cường sự tin tưởng và phổ biến.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "en-",
+                            "mean": "Tiền tố 'en-' (một biến thể của 'in-') thường có nghĩa là 'làm cho cái gì đó trở thành', 'đặt vào' hoặc 'làm cho cái gì đó ở trong một trạng thái'. Trong từ này, nó nhấn mạnh hành động đặt dấu hiệu chấp thuận hoặc hỗ trợ. Ví dụ: 'encourage' (khuyến khích)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "dors",
+                            "mean": "Gốc từ 'dors' mang ý nghĩa 'lưng' hoặc 'phía sau'. Ban đầu, từ 'endorse' có nghĩa là ký tên vào mặt sau của một tài liệu để xác nhận hoặc chuyển nhượng. Ví dụ: 'dorsal' (thuộc về lưng)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ed",
+                            "mean": "Hậu tố '-ed' dùng để tạo thì quá khứ đơn hoặc phân từ quá khứ cho động từ. Trong trường hợp này, nó biến động từ thành dạng phân từ quá khứ, thường dùng trong câu bị động hoặc làm tính từ, chỉ trạng thái đã được ủng hộ/xác nhận. Ví dụ: 'cooked' (đã nấu)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "approved",
+                    "supported",
+                    "backed",
+                    "promoted"
+                ],
+                "example": "The product was endorsed by a famous athlete, leading to increased sales."
+            }
+        ]
     }
 ]
