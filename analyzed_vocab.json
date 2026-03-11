@@ -6447,5 +6447,254 @@
                 "example": "The product was endorsed by a famous athlete, leading to increased sales."
             }
         ]
+    },
+    {
+        "word": "accompany",
+        "phonetic": "/əˈkʌmpəni/",
+        "definitions": [
+            {
+                "meaning": "Đi cùng, đi theo, hộ tống ai đó đến một nơi nào đó; hoặc xảy ra cùng lúc, đi kèm với một sự vật, hiện tượng khác. Từ này diễn tả hành động hiện diện cùng với người khác hoặc sự vật khác, thường là để hỗ trợ, bảo vệ, hoặc đơn giản là có mặt cùng.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ac-",
+                            "mean": "Là một biến thể của tiền tố 'ad-', mang ý nghĩa 'hướng tới', 'thêm vào', hoặc 'ở gần'. Trong ngữ cảnh này, nó nhấn mạnh hành động di chuyển hoặc kết nối với. Ví dụ: 'admit' (chấp nhận, cho vào, hướng tới việc cho vào)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "company",
+                            "mean": "Mang ý nghĩa cốt lõi về 'sự đồng hành', 'nhóm người' hoặc 'sự hiện diện cùng'. Trong từ 'accompany', nó diễn tả ý tưởng về việc đi cùng, làm bạn với ai đó. Ví dụ: 'companion' (người đồng hành, người bạn)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "escort",
+                    "attend",
+                    "go with",
+                    "chaperone"
+                ],
+                "example": "She will accompany me to the concert tonight."
+            }
+        ]
+    },
+    {
+        "word": "encounter",
+        "phonetic": "/ɪnˈkaʊntər/",
+        "definitions": [
+            {
+                "meaning": "Gặp gỡ, đối mặt (thường bất ngờ hoặc không mong muốn), trải qua một tình huống hoặc vấn đề khó khăn. Có thể là gặp một người hoặc trải nghiệm một điều gì đó.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "en-",
+                            "mean": "Mang ý nghĩa 'vào trong', 'làm cho', 'gây ra'. Trong trường hợp này, nó góp phần tạo ra ý nghĩa 'đi vào một tình huống' hoặc 'làm cho đối mặt'. Ví dụ: 'enable' (cho phép, làm cho có khả năng)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "counter",
+                            "mean": "Mang ý nghĩa 'đối lại', 'chống lại', 'ngược lại'. Trong từ 'encounter', nó gợi ý việc gặp gỡ trong một trạng thái đối diện hoặc đối mặt. Ví dụ: 'counteract' (chống lại, làm mất tác dụng)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "meet",
+                    "face",
+                    "confront",
+                    "come across"
+                ],
+                "example": "We encountered unexpected delays on our journey."
+            }
+        ]
+    },
+    {
+        "word": "dreary",
+        "phonetic": "/ˈdrɪəri/",
+        "definitions": [
+            {
+                "meaning": "ảm đạm, tẻ nhạt, buồn tẻ. Diễn tả một không khí, thời tiết, hoặc tình trạng thiếu hứng thú, gây cảm giác buồn bã, chán nản.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "drear",
+                            "mean": "Mang ý nghĩa cốt lõi về 'buồn bã', 'u ám', 'ảm đạm'. Đây là phần gốc tạo nên nghĩa chính của tính từ. Ví dụ: 'dreariness' (sự ảm đạm, buồn tẻ)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-y",
+                            "mean": "Hậu tố dùng để biến đổi một danh từ hoặc gốc từ thành tính từ, mang ý nghĩa 'có đặc tính của', 'đầy', 'giống như'. Ví dụ: 'rainy' (có mưa, nhiều mưa)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "gloomy",
+                    "dull",
+                    "bleak",
+                    "dismal",
+                    "cheerless"
+                ],
+                "example": "The dreary weather made everyone feel sleepy."
+            }
+        ]
+    },
+    {
+        "word": "intense",
+        "phonetic": "/ɪnˈtens/",
+        "definitions": [
+            {
+                "meaning": "Dữ dội, mãnh liệt, gay gắt, mạnh mẽ. Diễn tả một mức độ hoặc cường độ cao của cảm xúc, hoạt động, áp lực, ánh sáng, hoặc âm thanh.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Trong trường hợp này, tiền tố 'in-' hoạt động như một yếu tố tăng cường, nhấn mạnh mức độ hoặc cường độ của hành động hoặc tính chất. Ví dụ: 'increase' (tăng lên, làm cho lớn hơn)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "tens",
+                            "mean": "Mang ý nghĩa cốt lõi về 'kéo dài', 'căng ra', 'sức căng'. Nó gợi ý về một trạng thái bị kéo căng đến giới hạn hoặc một áp lực mạnh mẽ. Ví dụ: 'tension' (sự căng thẳng, sức căng)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "extreme",
+                    "fierce",
+                    "powerful",
+                    "strong",
+                    "vehement"
+                ],
+                "example": "They faced intense competition for the job."
+            }
+        ]
+    },
+    {
+        "word": "pivotal",
+        "phonetic": "/ˈpɪvətl/",
+        "definitions": [
+            {
+                "meaning": "Then chốt, trọng tâm, có tính quyết định. Diễn tả một điều gì đó cực kỳ quan trọng, mà mọi thứ khác xoay quanh hoặc phụ thuộc vào nó, quyết định sự thành công hay thất bại của một sự việc.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "pivot",
+                            "mean": "Mang ý nghĩa 'trục quay', 'điểm tựa', 'điểm trung tâm mà mọi thứ xoay quanh'. Đây là phần gốc tạo nên ý nghĩa chính về sự quan trọng và quyết định. Ví dụ: 'pivot' (danh từ: trục xoay; động từ: xoay quanh trục)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-al",
+                            "mean": "Hậu tố dùng để biến đổi danh từ thành tính từ, mang ý nghĩa 'liên quan đến', 'có tính chất của'. Ví dụ: 'functional' (có chức năng, thuộc về chức năng)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "crucial",
+                    "critical",
+                    "central",
+                    "decisive",
+                    "key"
+                ],
+                "example": "The coach's strategy was pivotal to the team's victory."
+            }
+        ]
+    },
+    {
+        "word": "venture",
+        "phonetic": "/ˈventʃər/",
+        "definitions": [
+            {
+                "meaning": "Dấn thân, mạo hiểm (vào một hoạt động hoặc nơi chốn tiềm ẩn rủi ro hoặc sự không chắc chắn); hoặc một dự án, hoạt động mạo hiểm (thường là kinh doanh). Nó ngụ ý sự can đảm để thử làm điều gì đó mới mẻ hoặc đầy rủi ro.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "ventur",
+                            "mean": "Mang ý nghĩa cốt lõi về 'rủi ro', 'may rủi', 'đi vào cái chưa biết'. Gợi ý một hành động đòi hỏi sự can đảm và có thể gặp nguy hiểm. Ví dụ: 'adventure' (cuộc phiêu lưu, sự mạo hiểm)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "undertake",
+                    "embark",
+                    "risk",
+                    "enterprise",
+                    "endeavor"
+                ],
+                "example": "They decided to venture into the unknown territory."
+            }
+        ]
+    },
+    {
+        "word": "itinenary",
+        "phonetic": "/aɪˈtɪnəreri/",
+        "definitions": [
+            {
+                "meaning": "Lộ trình, lịch trình chi tiết cho một chuyến đi, bao gồm các địa điểm sẽ ghé thăm, thời gian, và các hoạt động đã lên kế hoạch. Nó giúp tổ chức và theo dõi hành trình.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "itiner",
+                            "mean": "Mang ý nghĩa cốt lõi về 'hành trình', 'con đường', 'du lịch'. Nó liên quan đến việc di chuyển từ nơi này sang nơi khác. Ví dụ: 'itinerant' (người đi lại, người du hành, hoặc tính từ chỉ sự di chuyển)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ary",
+                            "mean": "Hậu tố tạo thành danh từ, thường chỉ 'nơi chốn', 'bộ sưu tập', hoặc 'liên quan đến'. Trong trường hợp này, nó tạo thành danh từ chỉ một tài liệu hoặc kế hoạch liên quan đến hành trình. Ví dụ: 'dictionary' (từ điển, bộ sưu tập từ)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "route",
+                    "schedule",
+                    "plan",
+                    "travel plan",
+                    "course"
+                ],
+                "example": "The travel agent provided us with a detailed itinerary for our trip."
+            }
+        ]
+    },
+    {
+        "word": "profound",
+        "phonetic": "/prəˈfaʊnd/",
+        "definitions": [
+            {
+                "meaning": "Sâu sắc, thâm thúy, uyên thâm (về cảm xúc, kiến thức, tác động). Diễn tả một điều gì đó có chiều sâu lớn, tác động mạnh mẽ hoặc đòi hỏi sự suy nghĩ kỹ lưỡng, không chỉ dừng lại ở bề mặt.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "pro-",
+                            "mean": "Mang ý nghĩa 'về phía trước', 'ra xa', 'trước'. Trong từ này, nó góp phần nhấn mạnh chiều sâu, sự mở rộng về phía dưới hoặc phía trước. Ví dụ: 'proceed' (tiếp tục, tiến lên)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "found",
+                            "mean": "Mang ý nghĩa cốt lõi về 'đáy', 'nền tảng', 'chiều sâu'. Nó gợi ý một điều gì đó ăn sâu vào bên trong, không chỉ ở bề mặt. Ví dụ: 'foundation' (nền tảng, cơ sở)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "deep",
+                    "insightful",
+                    "weighty",
+                    "thoughtful",
+                    "abstruse"
+                ],
+                "example": "His speech had a profound impact on the audience."
+            }
+        ]
     }
 ]
