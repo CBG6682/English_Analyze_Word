@@ -6696,5 +6696,190 @@
                 "example": "His speech had a profound impact on the audience."
             }
         ]
+    },
+    {
+        "word": "reinforce",
+        "phonetic": "/ˌriːɪnˈfɔːrs/",
+        "definitions": [
+            {
+                "meaning": "Củng cố, tăng cường, làm cho mạnh mẽ hơn, vững chắc hơn, hoặc có hiệu quả hơn, đặc biệt là khi nó đã yếu đi hoặc cần được làm vững chắc thêm.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "re-",
+                            "mean": "Tiền tố này mang nghĩa 'lặp lại, làm lại' hoặc 'quay lại, trở lại'. Nó cho biết hành động được thực hiện lại hoặc mang một cái gì đó về trạng thái trước đó. Ví dụ: rebuild (xây lại)."
+                        },
+                        {
+                            "val": "en-",
+                            "mean": "Tiền tố này (thường biến đổi thành 'in-' trước một số phụ âm) có nghĩa là 'làm cho, đưa vào trạng thái'. Nó biến một danh từ hoặc tính từ thành động từ, chỉ việc tạo ra hoặc đưa vào một trạng thái nhất định. Ví dụ: enable (cho phép, làm cho có thể)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "force",
+                            "mean": "Gốc từ này có nghĩa là 'sức mạnh, lực lượng, sự cưỡng bức'. Nó là cốt lõi chỉ yếu tố sức mạnh hoặc quyền lực. Ví dụ: forceful (mạnh mẽ, đầy sức mạnh)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "strengthen",
+                    "bolster",
+                    "fortify",
+                    "support"
+                ],
+                "example": "The new evidence will reinforce her argument."
+            }
+        ]
+    },
+    {
+        "word": "volume",
+        "phonetic": "/ˈvɒljuːm/",
+        "definitions": [
+            {
+                "meaning": "Thể tích hoặc dung lượng, tức là lượng không gian mà một vật chất hoặc vật thể chiếm giữ, hoặc tổng số lượng, khối lượng của một cái gì đó.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "vol",
+                            "mean": "Gốc từ này mang nghĩa 'cuộn, lăn'. Trong lịch sử, nó liên quan đến các cuộn giấy da cổ (volume là một cuộn sách), từ đó mở rộng nghĩa thành 'kích thước, thể tích' hoặc 'tập sách'. Ví dụ: revolve (quay tròn)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "capacity",
+                    "size",
+                    "mass",
+                    "quantity"
+                ],
+                "example": "The volume of water in the tank is decreasing rapidly."
+            }
+        ]
+    },
+    {
+        "word": "adjust",
+        "phonetic": "/əˈdʒʌst/",
+        "definitions": [
+            {
+                "meaning": "Điều chỉnh, sửa đổi hoặc sắp xếp một cái gì đó cho phù hợp hơn, cân bằng hơn với một điều kiện, mục đích hoặc vị trí cụ thể.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "ad-",
+                            "mean": "Tiền tố này mang nghĩa 'tới, đến, về phía' hoặc 'thêm vào, làm cho phù hợp'. Nó chỉ hướng của hành động hoặc sự thay đổi để đạt được sự phù hợp. Ví dụ: adjoin (tiếp giáp)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "just",
+                            "mean": "Gốc từ này có nghĩa là 'đúng đắn, phù hợp, công bằng'. Trong ngữ cảnh của 'adjust', nó liên quan đến sự chính xác, thích nghi hoặc làm cho đúng chuẩn. Ví dụ: justice (công lý)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "alter",
+                    "modify",
+                    "adapt",
+                    "regulate"
+                ],
+                "example": "She needed to adjust the car's mirrors before driving."
+            }
+        ]
+    },
+    {
+        "word": "convey",
+        "phonetic": "/kənˈveɪ/",
+        "definitions": [
+            {
+                "meaning": "Truyền đạt một thông điệp, cảm xúc hoặc ý tưởng từ người này sang người khác; hoặc chuyên chở, vận chuyển một người hoặc vật từ nơi này đến nơi khác.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "Tiền tố này mang nghĩa 'cùng nhau, với' hoặc 'hoàn toàn, kỹ lưỡng'. Nó thường chỉ sự kết hợp hoặc sự hoàn thành một hành động. Ví dụ: connect (kết nối)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "vey",
+                            "mean": "Gốc từ này có nghĩa là 'mang, chở, vận chuyển'. Nó là cốt lõi của việc di chuyển một thứ gì đó từ điểm A đến điểm B. Ví dụ: vehicle (phương tiện giao thông)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "transmit",
+                    "communicate",
+                    "transport",
+                    "transfer"
+                ],
+                "example": "Please convey my best wishes to your family."
+            }
+        ]
+    },
+    {
+        "word": "secure",
+        "phonetic": "/sɪˈkjʊər/",
+        "definitions": [
+            {
+                "meaning": "Đảm bảo an toàn, vững chắc; bảo vệ khỏi nguy hiểm hoặc mất mát; hoặc buộc chặt, cố định để không bị di chuyển hay mất an toàn.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "se-",
+                            "mean": "Tiền tố này mang nghĩa 'không có, tách rời, bên ngoài'. Nó chỉ sự vắng mặt của một cái gì đó hoặc sự phân tách. Ví dụ: separate (tách rời)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "cur",
+                            "mean": "Gốc từ này có nghĩa là 'sự lo lắng, sự bận tâm, sự chăm sóc'. Khi kết hợp với 'se-', 'secure' có nghĩa đen là 'không có sự lo lắng', tức là an toàn. Ví dụ: curator (người quản lý, người trông nom)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "safe",
+                    "firm",
+                    "fasten",
+                    "guarantee"
+                ],
+                "example": "The police worked to secure the area after the accident."
+            }
+        ]
+    },
+    {
+        "word": "suspend",
+        "phonetic": "/səˈspend/",
+        "definitions": [
+            {
+                "meaning": "Đình chỉ, tạm ngừng một hoạt động, quyết định, quyền hạn hoặc công việc trong một khoảng thời gian; hoặc treo lơ lửng một vật thể từ trên cao.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "sus-",
+                            "mean": "Tiền tố này là một biến thể của 'sub-', mang nghĩa 'dưới, bên dưới'. Nó chỉ vị trí ở phía dưới hoặc hành động diễn ra ở phía dưới một cái gì đó. Ví dụ: submerge (nhấn chìm, lặn dưới nước)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "pend",
+                            "mean": "Gốc từ này có nghĩa là 'treo, lơ lửng'. Nó là cốt lõi của việc giữ một vật thể ở trên cao mà không chạm đất. Ví dụ: pendulum (con lắc)."
+                        }
+                    ],
+                    "suffixes": []
+                },
+                "synonyms": [
+                    "postpone",
+                    "halt",
+                    "hang",
+                    "dangle"
+                ],
+                "example": "The school decided to suspend the student for a week."
+            }
+        ]
     }
 ]
