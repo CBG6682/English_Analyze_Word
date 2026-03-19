@@ -214,3 +214,15 @@ adjust
 convey
 secure
 suspend
+amenity
+commuter
+congestion
+immigrant
+infrastructure
+inhabitant
+neighbourhood
+bustling
+pioneering
+historic
+sprawling
+urban

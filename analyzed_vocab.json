@@ -6881,5 +6881,379 @@
                 "example": "The school decided to suspend the student for a week."
             }
         ]
+    },
+    {
+        "word": "amenity",
+        "phonetic": "/əˈmɛnɪti/",
+        "definitions": [
+            {
+                "meaning": "Tiện nghi; những thứ làm cho một nơi chốn hoặc một tình huống trở nên thoải mái, dễ chịu hoặc thuận lợi hơn, đặc biệt là trong môi trường sống, làm việc hoặc giải trí (ví dụ: hồ bơi, phòng gym trong khách sạn, công viên gần nhà).",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": [
+                        {
+                            "val": "-ity",
+                            "mean": "Hậu tố tạo thành danh từ từ tính từ hoặc một gốc từ, thường chỉ trạng thái, phẩm chất, hoặc vật thể trừu tượng. Ví dụ: `ability` (khả năng)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "convenience",
+                    "facility",
+                    "comfort",
+                    "service"
+                ],
+                "example": "The hotel boasts a wide range of amenities, including a spa and a fitness center."
+            }
+        ]
+    },
+    {
+        "word": "commuter",
+        "phonetic": "/kəˈmjuːtər/",
+        "definitions": [
+            {
+                "meaning": "Người đi lại hàng ngày; người thường xuyên đi lại một quãng đường đáng kể giữa nhà và nơi làm việc hoặc học tập, thường là bằng phương tiện giao thông công cộng hoặc cá nhân.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "com-",
+                            "mean": "Tiền tố mang nghĩa 'cùng nhau', 'với nhau', hoặc 'hoàn toàn'. Trong trường hợp này, nó góp phần vào nghĩa của việc di chuyển kết hợp hoặc lặp lại. Ví dụ: `combine` (kết hợp)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "mute",
+                            "mean": "Gốc từ mang nghĩa 'thay đổi', 'hoán đổi'. Trong từ 'commute', ban đầu nó liên quan đến việc thay đổi/giảm quãng đường hoặc hình thức đi lại. Ví dụ: `mutate` (đột biến, thay đổi)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-er",
+                            "mean": "Hậu tố tạo danh từ chỉ người thực hiện hành động hoặc nghề nghiệp. Ví dụ: `worker` (công nhân)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "daily traveler",
+                    "regular traveler",
+                    "passenger"
+                ],
+                "example": "Many commuters choose to take the train to avoid traffic congestion."
+            }
+        ]
+    },
+    {
+        "word": "congestion",
+        "phonetic": "/kənˈdʒɛstʃən/",
+        "definitions": [
+            {
+                "meaning": "Tắc nghẽn, đông đúc; tình trạng quá nhiều người hoặc phương tiện tập trung ở một khu vực, gây cản trở sự di chuyển hoặc hoạt động (thường dùng cho giao thông, đường phố hoặc tắc nghẽn mũi).",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "con-",
+                            "mean": "Tiền tố mang nghĩa 'cùng nhau', 'với nhau', hoặc 'hoàn toàn'. Nó chỉ sự tập hợp lại hoặc dồn lại. Ví dụ: `connect` (kết nối)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "gest",
+                            "mean": "Gốc từ mang nghĩa 'mang', 'mang vác', 'tập hợp'. Trong ngữ cảnh này, nó ám chỉ việc mang/dồn nhiều thứ lại với nhau. Ví dụ: `digest` (tiêu hóa, tổng hợp)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ion",
+                            "mean": "Hậu tố tạo danh từ từ động từ, chỉ hành động, quá trình hoặc kết quả của một hành động. Ví dụ: `action` (hành động)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "blockage",
+                    "overcrowding",
+                    "jam",
+                    "gridlock"
+                ],
+                "example": "The new bypass aims to reduce traffic congestion in the city center."
+            }
+        ]
+    },
+    {
+        "word": "immigrant",
+        "phonetic": "/ˈɪmɪɡrənt/",
+        "definitions": [
+            {
+                "meaning": "Người nhập cư; người rời bỏ đất nước gốc của mình để đến sống vĩnh viễn ở một đất nước khác.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "im-",
+                            "mean": "Tiền tố mang nghĩa 'vào trong' hoặc 'trong'. Đây là một biến thể của 'in-'. Ví dụ: `import` (nhập khẩu)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "migr",
+                            "mean": "Gốc từ mang nghĩa 'di chuyển', 'di cư'. Nó chỉ sự dịch chuyển từ nơi này sang nơi khác. Ví dụ: `migrate` (di cư)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ant",
+                            "mean": "Hậu tố tạo danh từ chỉ người thực hiện hành động hoặc người ở trong một trạng thái cụ thể. Ví dụ: `applicant` (người nộp đơn)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "newcomer",
+                    "settler",
+                    "émigré"
+                ],
+                "example": "The city's diverse culture is enriched by its many immigrant communities."
+            }
+        ]
+    },
+    {
+        "word": "infrastructure",
+        "phonetic": "/ˈɪnfrəˌstrʌktʃər/",
+        "definitions": [
+            {
+                "meaning": "Cơ sở hạ tầng; các hệ thống và dịch vụ cơ bản (như đường xá, cầu cống, hệ thống cấp thoát nước, điện, viễn thông) cần thiết để một quốc gia, khu vực hoặc tổ chức có thể hoạt động hiệu quả.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "infra-",
+                            "mean": "Tiền tố mang nghĩa 'bên dưới', 'thấp hơn' hoặc 'nền tảng'. Nó chỉ các cấu trúc nằm bên dưới hoặc tạo nền tảng. Ví dụ: `infrared` (hồng ngoại)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "struct",
+                            "mean": "Gốc từ mang nghĩa 'xây dựng', 'dựng lên', 'cấu trúc'. Nó liên quan đến việc tạo ra một cấu trúc hoặc hệ thống. Ví dụ: `structure` (cấu trúc)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ure",
+                            "mean": "Hậu tố tạo danh từ từ động từ, thường chỉ hành động, quá trình hoặc kết quả. Ví dụ: `closure` (sự đóng cửa)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "groundwork",
+                    "foundation",
+                    "facilities",
+                    "systems"
+                ],
+                "example": "The country needs significant investment to upgrade its aging infrastructure."
+            }
+        ]
+    },
+    {
+        "word": "inhabitant",
+        "phonetic": "/ɪnˈhæbɪtənt/",
+        "definitions": [
+            {
+                "meaning": "Cư dân; người hoặc động vật sống ở một nơi cụ thể một cách thường xuyên.",
+                "analysis": {
+                    "prefixes": [
+                        {
+                            "val": "in-",
+                            "mean": "Tiền tố mang nghĩa 'trong', 'ở trong'. Nó chỉ sự hiện diện hoặc ở bên trong một nơi nào đó. Ví dụ: `indoor` (trong nhà)."
+                        }
+                    ],
+                    "roots": [
+                        {
+                            "val": "hab",
+                            "mean": "Gốc từ mang nghĩa 'có', 'giữ', 'ở', 'sinh sống'. Nó liên quan đến việc chiếm giữ hoặc cư trú tại một nơi. Ví dụ: `habit` (thói quen, nơi ở)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ant",
+                            "mean": "Hậu tố tạo danh từ chỉ người thực hiện hành động hoặc người ở trong một trạng thái cụ thể. Ví dụ: `assistant` (trợ lý)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "resident",
+                    "dweller",
+                    "citizen",
+                    "occupant"
+                ],
+                "example": "The ancient city was once home to thousands of inhabitants."
+            }
+        ]
+    },
+    {
+        "word": "neighbourhood",
+        "phonetic": "/ˈneɪbərˌhʊd/",
+        "definitions": [
+            {
+                "meaning": "Khu phố, khu dân cư; một khu vực nhỏ trong một thị trấn hoặc thành phố, cùng với những người sống ở đó, thường có một bản sắc hoặc đặc điểm chung.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "neigh",
+                            "mean": "Phần từ này có nghĩa 'gần', 'bên cạnh', liên quan đến những người sống gần nhau. Ví dụ: `nearby` (gần đó)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-hood",
+                            "mean": "Hậu tố tạo danh từ, chỉ trạng thái, phẩm chất, hoặc một nhóm người có liên quan hoặc một khu vực. Ví dụ: `childhood` (thời thơ ấu)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "district",
+                    "area",
+                    "locality",
+                    "community"
+                ],
+                "example": "Our neighbourhood is very friendly and has a strong sense of community."
+            }
+        ]
+    },
+    {
+        "word": "bustling",
+        "phonetic": "/ˈbʌslɪŋ/",
+        "definitions": [
+            {
+                "meaning": "(Tính từ) Nhộn nhịp, hối hả, tấp nập; đầy người di chuyển hoặc hoạt động theo cách bận rộn và ồn ào, thường dùng để mô tả một nơi chốn.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": [
+                        {
+                            "val": "-ing",
+                            "mean": "Hậu tố biến động từ thành tính từ, chỉ trạng thái đang diễn ra hoặc thuộc tính của vật/người. Ví dụ: `interesting` (thú vị)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "lively",
+                    "vibrant",
+                    "busy",
+                    "active"
+                ],
+                "example": "The bustling market was filled with vendors and shoppers."
+            }
+        ]
+    },
+    {
+        "word": "pioneering",
+        "phonetic": "/ˌpaɪəˈnɪərɪŋ/",
+        "definitions": [
+            {
+                "meaning": "(Tính từ) Tiên phong; liên quan đến việc phát triển những ý tưởng, phương pháp hoặc khám phá những khu vực mới, mở đường cho người khác noi theo.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": [
+                        {
+                            "val": "-ing",
+                            "mean": "Hậu tố biến động từ thành tính từ, chỉ trạng thái đang diễn ra hoặc thuộc tính của vật/người. Ví dụ: `amazing` (tuyệt vời)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "innovative",
+                    "groundbreaking",
+                    "trailblazing",
+                    "cutting-edge"
+                ],
+                "example": "Her pioneering work in genetics revolutionized the field of medicine."
+            }
+        ]
+    },
+    {
+        "word": "historic",
+        "phonetic": "/hɪˈstɔːrɪk/",
+        "definitions": [
+            {
+                "meaning": "(Tính từ) Lịch sử, mang tính lịch sử; có ý nghĩa hoặc tầm quan trọng đặc biệt trong lịch sử, hoặc thuộc về một thời kỳ quan trọng trong quá khứ.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "hist",
+                            "mean": "Gốc từ mang nghĩa 'câu chuyện', 'kiến thức', 'điều đã xảy ra'. Nó liên quan đến các sự kiện và ghi chép trong quá khứ. Ví dụ: `history` (lịch sử)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ic",
+                            "mean": "Hậu tố tạo tính từ từ danh từ, thường có nghĩa 'thuộc về', 'có tính chất của'. Ví dụ: `classic` (cổ điển)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "significant",
+                    "monumental",
+                    "momentous",
+                    "notable"
+                ],
+                "example": "The signing of the peace treaty was a truly historic moment."
+            }
+        ]
+    },
+    {
+        "word": "sprawling",
+        "phonetic": "/ˈsprɔːlɪŋ/",
+        "definitions": [
+            {
+                "meaning": "(Tính từ) Trải rộng lộn xộn, bành trướng; lan rộng ra một cách không có trật tự trên một khu vực rộng lớn, thường dùng để mô tả thành phố, khu dân cư hoặc một vật thể lớn.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [],
+                    "suffixes": [
+                        {
+                            "val": "-ing",
+                            "mean": "Hậu tố biến động từ thành tính từ, chỉ trạng thái đang diễn ra hoặc thuộc tính của vật/người. Ví dụ: `charming` (duyên dáng)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "extensive",
+                    "spread out",
+                    "widespread",
+                    "expansive"
+                ],
+                "example": "London is a vast, sprawling city with many distinct districts."
+            }
+        ]
+    },
+    {
+        "word": "urban",
+        "phonetic": "/ˈɜːrbən/",
+        "definitions": [
+            {
+                "meaning": "(Tính từ) Đô thị, thuộc về thành phố; liên quan đến hoặc đặc trưng của một thành phố hoặc thị trấn, đối lập với nông thôn.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "urb",
+                            "mean": "Gốc từ mang nghĩa 'thành phố'. Nó là yếu tố cốt lõi liên quan đến các khu vực đô thị. Ví dụ: `suburban` (ngoại ô)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-an",
+                            "mean": "Hậu tố tạo tính từ hoặc danh từ, chỉ 'thuộc về' hoặc 'có nguồn gốc từ'. Ví dụ: `American` (thuộc về nước Mỹ)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "city",
+                    "metropolitan",
+                    "municipal"
+                ],
+                "example": "Urban areas often face challenges like traffic congestion and pollution."
+            }
+        ]
     }
 ]
