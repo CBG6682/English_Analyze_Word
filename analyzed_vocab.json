@@ -7255,5 +7255,34 @@
                 "example": "Urban areas often face challenges like traffic congestion and pollution."
             }
         ]
+    },
+    {
+        "word": "affordability",
+        "phonetic": "/əˌfɔːrdəˈbɪləti/",
+        "definitions": [
+            {
+                "meaning": "Khả năng chi trả; tính hợp lý về giá cả, sự phải chăng. Đây là mức độ mà một thứ gì đó (như nhà ở, dịch vụ) có giá cả vừa phải, nằm trong khả năng tài chính của đại đa số người dân hoặc một nhóm đối tượng cụ thể, không gây gánh nặng quá lớn về kinh tế.",
+                "analysis": {
+                    "prefixes": [],
+                    "roots": [
+                        {
+                            "val": "afford",
+                            "mean": "Gốc từ này là động từ \"afford\", có nghĩa là có đủ tiền, đủ thời gian, hoặc đủ khả năng để mua, chi trả, hoặc làm điều gì đó. Nó thể hiện khả năng tài chính hoặc nguồn lực để đáp ứng một nhu cầu hoặc mong muốn. Ví dụ: \"afford\" (có đủ khả năng chi trả)."
+                        }
+                    ],
+                    "suffixes": [
+                        {
+                            "val": "-ability",
+                            "mean": "Hậu tố này biến một tính từ (hoặc một động từ thông qua dạng -able) thành một danh từ, mang ý nghĩa là \"khả năng\" hoặc \"tính chất có thể làm được điều gì đó\". Nó chỉ trạng thái hoặc chất lượng của việc có thể chi trả được. Ví dụ: \"readability\" (tính dễ đọc)."
+                        }
+                    ]
+                },
+                "synonyms": [
+                    "reasonableness (of price)",
+                    "attainability (financially)"
+                ],
+                "example": "The government is focused on improving housing affordability for young families."
+            }
+        ]
     }
 ]
